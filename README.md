@@ -2,7 +2,7 @@
 
 </br>
 
-<img src=" https://media.licdn.com/dms/image/D4E03AQEc0F9u7wlPyA/profile-displayphoto-shrink_400_400/0/1711141810211?e=1719446400&v=beta&t=fz1kva4sVzwrCjYn4MUQszo-MaZWThyuHwMbZfc5drc" width="25%" style="border-radius:50%">
+<img src="https://media.licdn.com/dms/image/D4E03AQEc0F9u7wlPyA/profile-displayphoto-shrink_400_400/0/1711141810211?e=1719446400&v=beta&t=fz1kva4sVzwrCjYn4MUQszo-MaZWThyuHwMbZfc5drc" width="25%" style="border-radius:50%">
 
 # Hello, I'm Andrew! 👋 Software Engineer 👨‍💻
 
