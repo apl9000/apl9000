@@ -6,7 +6,6 @@
 
 # Hello, I'm Andrew! 👋 Software Engineer 👨‍💻
 <img src="https://media.licdn.com/dms/image/D4E03AQEc0F9u7wlPyA/profile-displayphoto-shrink_400_400/0/1711141810211?e=1719446400&v=beta&t=fz1kva4sVzwrCjYn4MUQszo-MaZWThyuHwMbZfc5drc" width="25%">
-</br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewpl)
 
@@ -45,7 +44,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=apl9000&theme=dark&hide_border=true)
 
-![](https://github-profile-trophy.vercel.app/?username=apl9000&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=apl9000&theme=darkhub&no-frame=true&no-bg=true)
 
 </div>
 
