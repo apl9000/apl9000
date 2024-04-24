@@ -1,10 +1,12 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif" width="100%">
 
-</br>
 
-<img src="https://media.licdn.com/dms/image/D4E03AQEc0F9u7wlPyA/profile-displayphoto-shrink_400_400/0/1711141810211?e=1719446400&v=beta&t=fz1kva4sVzwrCjYn4MUQszo-MaZWThyuHwMbZfc5drc" width="25%" style="border-radius:50%">
+
+
 
 # Hello, I'm Andrew! 👋 Software Engineer 👨‍💻
+<img src="https://media.licdn.com/dms/image/D4E03AQEc0F9u7wlPyA/profile-displayphoto-shrink_400_400/0/1711141810211?e=1719446400&v=beta&t=fz1kva4sVzwrCjYn4MUQszo-MaZWThyuHwMbZfc5drc" width="25%">
+</br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewpl)
 
