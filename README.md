@@ -111,6 +111,8 @@
 		src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
 		alt="Vue.js"
 	/>
+</div>
+<div align="center">
 	<img
 		src="https://github-readme-streak-stats.herokuapp.com/?user=apl9000&theme=dark&hide_border=true"
 		alt="GitHub Readme Streak Stats"
