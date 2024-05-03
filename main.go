@@ -1,6 +1,7 @@
 package main
 
 import (
+	"apl9000/data"
 	"bytes"
 	"fmt"
 	"log"
@@ -9,7 +10,8 @@ import (
 )
 
 type ProfileData struct {
-	ForeCast string
+	Timestamp string
+	Quote     data.Quote
 }
 
 func main() {
@@ -21,7 +23,8 @@ func main() {
 	}
 
 	data := ProfileData{
-		ForeCast: "Sunny",
+		Timestamp: data.GetCurrentTime(),
+		Quote: data.GetRandomQuote(),
 	}
 	
 	var htmlBuffer bytes.Buffer
@@ -31,7 +34,7 @@ func main() {
 		fmt.Printf("Error executing template: %v\n", err)
 		return
 	}
-	
+
   htmlContent := htmlBuffer.String()
 	// Write the markdown content to a file
   filename := "README.md"
