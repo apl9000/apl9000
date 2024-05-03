@@ -4,6 +4,11 @@
 />
 <div align="center">
 	<img
+		src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.jZ_XSJZYpTHMmzBg8s0OKQAAAA%26pid%3DApi&f=1&ipt=e01bbe9bb37987579e0c2bf434349588814f7a20a45f7d8b6ca161517f21907e&ipo=images"
+		alt="Profile"
+		width="20%"
+	/>
+	<img
 		src="https://github-readme-streak-stats.herokuapp.com/?user=apl9000&theme=dark&hide_border=true"
 		alt="GitHub Readme Streak Stats"
 	/>
@@ -110,7 +115,7 @@
 		alt="Top Languages"
 	/>
 </div>
-<h3 align="center">Find me on</h3>
+<h3 align="center">Catch Me Outside</h3>
 <p align="center">
 	<a href="https://linkedin.com/in/andrewpl" target="_blank"
 		><img
@@ -130,8 +135,8 @@
 </p>
 <p align="center">
 	<text
-		>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-		—Walt Whitman</text
+		>Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+		—Edsger W. Dijkstra</text
 	>
 </p>
 <img
@@ -158,11 +163,11 @@
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
 	/>
 </div>
-<p align="center">
+<br />
+<div align="center">
 	<img
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<br />
-	Last updated on: 2024-05-03 13:18:52
-</p>
+	<p>Last updated: 2024-05-03 14:25:57</p>
+</div>
