@@ -9,9 +9,9 @@ import (
 )
 
 type ProfileData struct {
-	Title string
-	Description string
+	ForeCast string
 }
+
 func main() {
 	template, err := template.ParseFiles("template/index.html")
 
@@ -24,8 +24,7 @@ func main() {
     var htmlBuffer bytes.Buffer
 
 		data := ProfileData{
-			Title: "My Profile",
-			Description: "This is my profile page",
+			ForeCast: "Sunny",
 		}
 		// Execute the template with the data object
     err = template.Execute(&htmlBuffer, data)
@@ -39,7 +38,7 @@ func main() {
 
 
 		    // Write the markdown content to a file
-    filename := "output.md"
+    filename := "README.md"
     err = os.WriteFile(filename, []byte(htmlContent), 0644)
     if err != nil {
         log.Fatal("Error writing Markdown to file: ", err)
