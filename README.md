@@ -130,26 +130,39 @@
 </p>
 <p align="center">
 	<text
-		>What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream<br />
-		—Robert M. Pirsig</text
+		>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+		—Walt Whitman</text
 	>
 </p>
 <img
 	src="https://github-profile-trophy.vercel.app/?username=apl9000&theme=darkhub&no-frame=true&no-bg=true"
 	alt="GitHub Profile Trophy"
 />
-<img
-	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBscHowZDdwMXBnOG85amhqZ2RqNHVuZTIxeHZ0NnpwM2lkNGtwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k72YLm0kJQOZ5B5beU/giphy.gif"
-	width="100%"
-/>
+<div>
+	<img
+		src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBscHowZDdwMXBnOG85amhqZ2RqNHVuZTIxeHZ0NnpwM2lkNGtwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k72YLm0kJQOZ5B5beU/giphy.gif"
+		width="100%"
+	/>
+</div>
 
+<br />
+<div align="center">
+	<img
+		alt="centered image"
+		height="85"
+		src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
+	/>
+	<img
+		alt="centered image"
+		height="85"
+		src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
+	/>
+</div>
 <p align="center">
-	<!-- <img alt="centered image" height="85" src="images/us.svg"/> -->
-	<!-- <br />
 	<img
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<br /> -->
-	Last updated on: 2024-05-03 12:25:22
+	<br />
+	Last updated on: 2024-05-03 13:18:52
 </p>

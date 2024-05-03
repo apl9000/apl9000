@@ -19,11 +19,11 @@ var QuotesData = Quotes{
 		Author: "Charcot",
 	},
 	{
-		Quote:  "The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato",
+		Quote:  "The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.",
 		Author: "Alfred North Whitehead",
 	},
 	{
-		Quote:  "What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream", 
+		Quote:  "What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.", 
 		Author: "Robert M. Pirsig",
 	},
 	{
