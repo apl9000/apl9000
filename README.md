@@ -116,12 +116,12 @@
 		alt="Top Languages"
 	/>
 	<img
-		src="https://github-readme-streak-stats.herokuapp.com/?user=apl9000&theme=dark&hide_border=true"
-		alt="GitHub Readme Streak Stats"
-	/>
-	<img
 		src="https://github-profile-trophy.vercel.app/?username=apl9000&theme=darkhub&no-frame=true&no-bg=true"
 		alt="GitHub Profile Trophy"
+	/>
+	<img
+		src="https://github-readme-streak-stats.herokuapp.com/?user=apl9000&theme=dark&hide_border=true"
+		alt="GitHub Readme Streak Stats"
 	/>
 </div>
 
