@@ -18,11 +18,6 @@
 </div>
 <br />
 
-<h1 align="center">Hi there, I'm Andrew!</h1>
-<p>
-	Todays forecast: <strong>Sunny with a chance of code</strong> ☁️💻
-</p>
-
 <p>
 	🔭 I'm currently leading the engineering team at
 	<a href="https://www.premiumbeat.com">Premiumbeat</a>, a premier destination
