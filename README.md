@@ -130,8 +130,8 @@
 </p>
 <p align="center">
 	<text
-		>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-		—Damian Conway</text
+		>What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream<br />
+		—Robert M. Pirsig</text
 	>
 </p>
 <img
@@ -151,5 +151,5 @@
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
 	<br /> -->
-	Last updated on: 2024-05-03 01:09:15
+	Last updated on: 2024-05-03 12:25:22
 </p>
