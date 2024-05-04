@@ -46,6 +46,7 @@ func FahrenheitToCelsius(f int) int {
 }
 
 func GetWeatherForecast() WeatherForecast {
+	// https://www.weather.gov/documentation/services-web-api#/default/gridpoint_forecast
 	// https://api.weather.gov/gridpoints/OKX/33,35/forecast
 	nycUri := "https://api.weather.gov/gridpoints/OKX/33,35/forecast"
 
