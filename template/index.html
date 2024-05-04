@@ -1,3 +1,8 @@
+<p>
+	🗽 {{ .WeatherForecast.Temperature.Fahrenheit}}°F
+	<i>({{ .WeatherForecast.Temperature.Celsius}}°C)</i> {{
+	.WeatherForecast.Summary }}
+</p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
 	width="100%"
@@ -34,7 +39,7 @@
 
 <p>
 	💬 Specialized in building robust web applications using JavaScript, React,
-	Go, and SwiftUI. Need expertise? Let's discuss how I can help your project
+	Go, and Swift. Need expertise? Let's discuss how I can help your project
 	succeed.
 </p>
 <h3 align="center">Technology Toolbox</h3>
@@ -153,15 +158,16 @@
 <br />
 <div align="center">
 	<img
-		alt="centered image"
-		height="85"
+		alt="US Flag"
+		height="101"
 		src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
 	/>
 	<img
-		alt="centered image"
-		height="85"
+		alt="Canada Flag"
+		height="101"
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
 	/>
+	<p>{{ .Rates.USD }}USD = {{ .Rates.CAD }}CAD</p>
 </div>
 <br />
 <div align="center">
