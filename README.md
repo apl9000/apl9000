@@ -1,17 +1,12 @@
 <p>
 	🗽 49°F
-	<i>(9°C)</i> Partly cloudy, with a low around 49. East wind 5 to 8 mph.
+	<i>(9°C)</i> Partly cloudy, with a low around 49. East wind around 7 mph.
 </p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
 	width="100%"
 />
 <div align="center">
-	<img
-		src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.jZ_XSJZYpTHMmzBg8s0OKQAAAA%26pid%3DApi&f=1&ipt=e01bbe9bb37987579e0c2bf434349588814f7a20a45f7d8b6ca161517f21907e&ipo=images"
-		alt="Profile"
-		width="20%"
-	/>
 	<img
 		src="https://github-readme-streak-stats.herokuapp.com/?user=apl9000&theme=dark&hide_border=true"
 		alt="GitHub Readme Streak Stats"
@@ -119,7 +114,7 @@
 		alt="Top Languages"
 	/>
 </div>
-<h3 align="center">Catch Me Outside</h3>
+<h3 align="center">Connect With Me</h3>
 <p align="center">
 	<a href="https://linkedin.com/in/andrewpl" target="_blank"
 		><img
@@ -139,8 +134,8 @@
 </p>
 <p align="center">
 	<text
-		>Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
-		—Edsger W. Dijkstra</text
+		>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+		—Isaac Asimov</text
 	>
 </p>
 <img
@@ -153,7 +148,6 @@
 		width="100%"
 	/>
 </div>
-
 <br />
 <div align="center">
 	<img
@@ -174,5 +168,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-03 22:43:43</p>
+	<p>Last updated: 2024-05-03 23:00:00</p>
 </div>
