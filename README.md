@@ -1,3 +1,7 @@
+<p>
+	🗽 49°F
+	<i>(9°C)</i> Partly cloudy, with a low around 49. East wind 5 to 8 mph.
+</p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
 	width="100%"
@@ -34,7 +38,7 @@
 
 <p>
 	💬 Specialized in building robust web applications using JavaScript, React,
-	Go, and SwiftUI. Need expertise? Let's discuss how I can help your project
+	Go, and Swift. Need expertise? Let's discuss how I can help your project
 	succeed.
 </p>
 <h3 align="center">Technology Toolbox</h3>
@@ -135,8 +139,8 @@
 </p>
 <p align="center">
 	<text
-		>Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
-		—Edsger W. Dijkstra</text
+		>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+		—Walt Whitman</text
 	>
 </p>
 <img
@@ -153,15 +157,16 @@
 <br />
 <div align="center">
 	<img
-		alt="centered image"
-		height="85"
+		alt="US Flag"
+		height="101"
 		src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
 	/>
 	<img
-		alt="centered image"
-		height="85"
+		alt="Canada Flag"
+		height="101"
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
 	/>
+	<p>1.00USD = 1.37CAD</p>
 </div>
 <br />
 <div align="center">
@@ -169,5 +174,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-03 14:25:57</p>
+	<p>Last updated: 2024-05-03 22:39:02</p>
 </div>
