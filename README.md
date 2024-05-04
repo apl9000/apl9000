@@ -139,8 +139,8 @@
 </p>
 <p align="center">
 	<text
-		>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-		—Walt Whitman</text
+		>Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+		—Edsger W. Dijkstra</text
 	>
 </p>
 <img
@@ -174,5 +174,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-03 22:39:02</p>
+	<p>Last updated: 2024-05-03 22:43:43</p>
 </div>
