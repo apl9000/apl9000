@@ -27,6 +27,7 @@ type Rates struct {
 }
 
 func GetRates() Rates {
+	// https://www.exchangerate-api.com/docs/free
 	uri := "https://open.er-api.com/v6/latest/USD"
 
 	response, err := http.Get(uri)
