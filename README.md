@@ -1,6 +1,6 @@
 <p>
-	🗽 49°F
-	<i>(9°C)</i> Mostly cloudy, with a low around 49. East wind around 6 mph.
+	🗽 50°F
+	<i>(10°C)</i> A chance of rain showers. Cloudy. Low around 50, with temperatures rising to around 52 overnight. East wind around 9 mph. Chance of precipitation is 40%.
 </p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -168,5 +168,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-04 03:05:55</p>
+	<p>Last updated: 2024-05-05 03:04:57</p>
 </div>
