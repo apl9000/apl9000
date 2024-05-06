@@ -1,6 +1,6 @@
 <p>
-	🗽 50°F
-	<i>(10°C)</i> A chance of rain showers. Cloudy. Low around 50, with temperatures rising to around 52 overnight. East wind around 9 mph. Chance of precipitation is 40%.
+	🗽 53°F
+	<i>(11°C)</i> A chance of rain showers. Cloudy. Low around 53, with temperatures rising to around 59 overnight. South wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.
 </p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -134,8 +134,8 @@
 </p>
 <p align="center">
 	<text
-		>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-		—Walt Whitman</text
+		>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+		—Damian Conway</text
 	>
 </p>
 <img
@@ -168,5 +168,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-05 03:04:57</p>
+	<p>Last updated: 2024-05-06 03:05:12</p>
 </div>
