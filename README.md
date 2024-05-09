@@ -1,6 +1,6 @@
 <p>
-	🗽 60°F
-	<i>(15°C)</i> A slight chance of showers and thunderstorms before 5am, then showers and thunderstorms likely. Mostly cloudy. Low around 60, with temperatures rising to around 62 overnight. South wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.
+	🗽 63°F
+	<i>(17°C)</i> Partly cloudy. Low around 63, with temperatures rising to around 65 overnight. Northwest wind around 8 mph.
 </p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -134,8 +134,8 @@
 </p>
 <p align="center">
 	<text
-		>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-		—Damian Conway</text
+		>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+		—Fred Brooks</text
 	>
 </p>
 <img
@@ -168,5 +168,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-08 03:06:20</p>
+	<p>Last updated: 2024-05-09 03:05:34</p>
 </div>
