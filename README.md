@@ -1,6 +1,6 @@
 <p>
-	🗽 52°F
-	<i>(11°C)</i> Rain. Cloudy, with a low around 52. East wind around 13 mph, with gusts as high as 23 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible.
+	🗽 49°F
+	<i>(9°C)</i> Mostly cloudy, with a low around 49. North wind around 7 mph.
 </p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -134,8 +134,8 @@
 </p>
 <p align="center">
 	<text
-		>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
-		—Fred Brooks</text
+		>What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
+		—Robert M. Pirsig</text
 	>
 </p>
 <img
@@ -168,5 +168,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-10 03:05:11</p>
+	<p>Last updated: 2024-05-11 03:05:52</p>
 </div>
