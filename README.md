@@ -39,7 +39,7 @@
   seasoned leadership and innovative solutions, or if you want to explore the
   latest in software, let's connect!
 </p>
-<h3 align="center">Toolbox</h3>
+<h3 align="center">Technology Toolbox</h3>
 <div align="center">
   <img
     src="https://img.shields.io/badge/Typescript-%2312100E.svg?style=for-the-badge&logo=typescript"
@@ -171,5 +171,5 @@
     alt="README Update"
     src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
   />
-  <p>Last updated: 2024-05-11 10:21:57</p>
+  <p>Last updated: 2024-05-11 10:37:40</p>
 </div>
