@@ -1,6 +1,6 @@
 <p>
-  🗽 59°F
-  <i>(15°C)</i> Mostly sunny, with a high near 59. East wind 8 to 12 mph.
+  🗽 50°F
+  <i>(10°C)</i> A chance of rain showers. Cloudy. Low around 50, with temperatures rising to around 53 overnight. Southeast wind around 9 mph. Chance of precipitation is 50%.
 </p>
 <img
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -137,8 +137,8 @@
 </p>
 <p align="center">
   <text
-    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-    —Kent Beck</text
+    >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+    —Alfred North Whitehead</text
   >
 </p>
 <img
@@ -171,5 +171,5 @@
     alt="README Update"
     src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
   />
-  <p>Last updated: 2024-05-11 10:37:40</p>
+  <p>Last updated: 2024-05-12 03:05:21</p>
 </div>
