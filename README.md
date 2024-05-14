@@ -1,6 +1,6 @@
 <p>
   🗽 56°F
-  <i>(13°C)</i> Mostly cloudy, with a low around 56. South wind 6 to 10 mph.
+  <i>(13°C)</i> Partly cloudy, with a low around 56. South wind 6 to 10 mph.
 </p>
 <img
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -20,8 +20,7 @@
   royalty-free music industry.
 </p>
 
-<p>
-  💬 Specialized in designing advanced web applications that emphasize
+<p>🌱 Specialized in designing advanced web applications that emphasize
   performance and scalability. My approach incorporates diverse technologies to
   empower teams, enabling them to tackle and resolve complex technical
   challenges efficiently.
@@ -32,6 +31,24 @@
   FinTech, Agriculture, and AI. If you have a project that could benefit from
   seasoned leadership and innovative solutions, or if you want to explore the
   latest in software, let's connect!
+</p>
+<h3 align="center">Find Me On</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/andrewpl" target="_blank"
+    ><img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"
+  /></a>
+  <a href="https://github.com/apl9000" target="_blank"
+    ><img
+      alt="Github"
+      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github"
+  /></a>
+  <a href="https://twitter.com/apl8080" target="_blank"
+    ><img
+      alt="Medium"
+      src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue"
+  /></a>
 </p>
 <h3 align="center">Technology Toolbox</h3>
 <div align="center">
@@ -111,28 +128,11 @@
     alt="Top Languages"
   />
 </div>
-<h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/andrewpl" target="_blank"
-    ><img
-      alt="LinkedIn"
-      src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"
-  /></a>
-  <a href="https://github.com/apl9000" target="_blank"
-    ><img
-      alt="Github"
-      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github"
-  /></a>
-  <a href="https://twitter.com/apl8080" target="_blank"
-    ><img
-      alt="Medium"
-      src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue"
-  /></a>
-</p>
+<br />
 <p align="center">
   <text
-    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-    —Kelly Ripley Feller</text
+    >Theory is good, but it doesn't prevent things from existing.<br />
+    —Jean-Martin Charcot</text
   >
 </p>
 <img
@@ -165,5 +165,5 @@
     alt="README Update"
     src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
   />
-  <p>Last updated: 2024-05-13 20:47:08</p>
+  <p>Last updated: 2024-05-13 22:25:31</p>
 </div>
