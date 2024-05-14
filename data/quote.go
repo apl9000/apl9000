@@ -16,7 +16,7 @@ var QuotesData = Quotes{
 	},
 	{
 		Quote:  "Theory is good, but it doesn't prevent things from existing.",
-		Author: "Charcot",
+		Author: "Jean-Martin Charcot",
 	},
 	{
 		Quote:  "The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.",
