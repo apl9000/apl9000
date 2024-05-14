@@ -131,8 +131,8 @@
 </p>
 <p align="center">
   <text
-    >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-    —Isaac Asimov</text
+    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
+    —Kelly Ripley Feller</text
   >
 </p>
 <img
@@ -165,5 +165,5 @@
     alt="README Update"
     src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
   />
-  <p>Last updated: 2024-05-13 20:45:06</p>
+  <p>Last updated: 2024-05-13 20:47:08</p>
 </div>
