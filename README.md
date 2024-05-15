@@ -1,6 +1,6 @@
 <p>
-  🗽 56°F
-  <i>(13°C)</i> Partly cloudy, with a low around 56. South wind around 7 mph.
+  🗽 61°F
+  <i>(16°C)</i> Periods of rain showers. Cloudy, with a low around 61. Southeast wind around 5 mph. Chance of precipitation is 90%.
 </p>
 <img
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -131,8 +131,8 @@
 <br />
 <p align="center">
   <text
-    >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-    —Walt Whitman</text
+    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+    —Damian Conway</text
   >
 </p>
 <img
@@ -165,5 +165,5 @@
     alt="README Update"
     src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
   />
-  <p>Last updated: 2024-05-14 03:06:02</p>
+  <p>Last updated: 2024-05-15 03:05:02</p>
 </div>
