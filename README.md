@@ -1,6 +1,6 @@
 <p>
-  🗽 61°F
-  <i>(16°C)</i> Periods of rain showers. Cloudy, with a low around 61. Southeast wind around 5 mph. Chance of precipitation is 90%.
+  🗽 60°F
+  <i>(15°C)</i> A chance of rain showers. Cloudy. Low around 60, with temperatures rising to around 62 overnight. Northeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%.
 </p>
 <img
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -131,8 +131,8 @@
 <br />
 <p align="center">
   <text
-    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-    —Damian Conway</text
+    >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+    —Fred Brooks</text
   >
 </p>
 <img
@@ -157,7 +157,7 @@
     height="101"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD = 1.37CAD</p>
+  <p>1.00USD = 1.36CAD</p>
 </div>
 <br />
 <div align="center">
@@ -165,5 +165,5 @@
     alt="README Update"
     src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
   />
-  <p>Last updated: 2024-05-15 03:05:02</p>
+  <p>Last updated: 2024-05-16 03:04:44</p>
 </div>
