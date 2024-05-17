@@ -1,6 +1,6 @@
 <p>
   🗽 60°F
-  <i>(15°C)</i> A chance of rain showers. Cloudy. Low around 60, with temperatures rising to around 62 overnight. Northeast wind around 20 mph, with gusts as high as 30 mph. Chance of precipitation is 50%.
+  <i>(15°C)</i> Mostly cloudy, with a low around 60. Northeast wind around 12 mph.
 </p>
 <img
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -131,8 +131,8 @@
 <br />
 <p align="center">
   <text
-    >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
-    —Fred Brooks</text
+    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
+    —Kelly Ripley Feller</text
   >
 </p>
 <img
@@ -165,5 +165,5 @@
     alt="README Update"
     src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
   />
-  <p>Last updated: 2024-05-16 03:04:44</p>
+  <p>Last updated: 2024-05-17 03:05:13</p>
 </div>
