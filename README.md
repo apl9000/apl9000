@@ -1,6 +1,6 @@
 <p>
-  🗽 60°F
-  <i>(15°C)</i> Mostly cloudy, with a low around 60. Northeast wind around 12 mph.
+  🗽 68°F
+  <i>(20°C)</i> A slight chance of rain showers after 2pm. Mostly cloudy, with a high near 68. East wind 5 to 8 mph. Chance of precipitation is 20%.
 </p>
 <img
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -131,8 +131,8 @@
 <br />
 <p align="center">
   <text
-    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-    —Kelly Ripley Feller</text
+    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+    —Kent Beck</text
   >
 </p>
 <img
@@ -165,5 +165,5 @@
     alt="README Update"
     src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
   />
-  <p>Last updated: 2024-05-17 03:05:13</p>
+  <p>Last updated: 2024-05-18 08:12:11</p>
 </div>
