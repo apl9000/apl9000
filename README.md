@@ -1,6 +1,6 @@
 <p>
   🗽 59°F
-  <i>(15°C)</i> Patchy fog. Cloudy, with a low around 59. Northeast wind around 7 mph.
+  <i>(15°C)</i> Mostly cloudy, with a low around 59. Northeast wind around 5 mph.
 </p>
 <img
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -131,8 +131,8 @@
 <br />
 <p align="center">
   <text
-    >What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
-    —Robert M. Pirsig</text
+    >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+    —Edsger W. Dijkstra</text
   >
 </p>
 <img
@@ -165,5 +165,5 @@
     alt="README Update"
     src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
   />
-  <p>Last updated: 2024-05-19 03:05:02</p>
+  <p>Last updated: 2024-05-20 03:05:33</p>
 </div>
