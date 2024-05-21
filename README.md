@@ -1,6 +1,6 @@
 <p>
-  🗽 59°F
-  <i>(15°C)</i> Mostly cloudy, with a low around 59. Northeast wind around 5 mph.
+  🗽 58°F
+  <i>(14°C)</i> Patchy fog after 5am. Mostly cloudy, with a low around 58. South wind around 6 mph.
 </p>
 <img
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -131,8 +131,8 @@
 <br />
 <p align="center">
   <text
-    >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
-    —Edsger W. Dijkstra</text
+    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+    —Kent Beck</text
   >
 </p>
 <img
@@ -165,5 +165,5 @@
     alt="README Update"
     src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
   />
-  <p>Last updated: 2024-05-20 03:05:33</p>
+  <p>Last updated: 2024-05-21 03:05:07</p>
 </div>
