@@ -122,8 +122,8 @@
 <br />
 <p align="center">
 	<text
-		>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-		—Walt Whitman</text
+		>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+		—Alfred North Whitehead</text
 	>
 </p>
 <img
@@ -156,5 +156,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-22 01:07:15</p>
+	<p>Last updated: 2024-05-22 03:05:10</p>
 </div>
