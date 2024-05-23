@@ -1,6 +1,6 @@
 <p>
-	🗽 63°F
-	<i>(17°C)</i> Mostly clear, with a low around 63. Southwest wind around 6 mph.
+	🗽 66°F
+	<i>(18°C)</i> A chance of showers and thunderstorms after 5am. Mostly cloudy. Low around 66, with temperatures rising to around 70 overnight. Southwest wind around 6 mph. Chance of precipitation is 30%.
 </p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -122,8 +122,8 @@
 <br />
 <p align="center">
 	<text
-		>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-		—Alfred North Whitehead</text
+		>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+		—Damian Conway</text
 	>
 </p>
 <img
@@ -148,7 +148,7 @@
 		height="101"
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
 	/>
-	<p>1.00USD = 1.36CAD</p>
+	<p>1.00USD = 1.37CAD</p>
 </div>
 <br />
 <div align="center">
@@ -156,5 +156,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-22 03:05:10</p>
+	<p>Last updated: 2024-05-23 03:05:11</p>
 </div>
