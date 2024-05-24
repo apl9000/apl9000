@@ -1,6 +1,6 @@
 <p>
-	🗽 66°F
-	<i>(18°C)</i> A chance of showers and thunderstorms after 5am. Mostly cloudy. Low around 66, with temperatures rising to around 70 overnight. Southwest wind around 6 mph. Chance of precipitation is 30%.
+	🗽 67°F
+	<i>(19°C)</i> A slight chance of showers and thunderstorms. Partly cloudy, with a low around 67. Southwest wind around 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible.
 </p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -13,12 +13,12 @@
 	/>
 	<br />
 	<p>
-		🔭 Directing the engineering team at
+		🔭 Leading the engineering team at
 		<a href="https://www.premiumbeat.com">Premiumbeat.com</a>
 	</p>
 	<p>🌱 Specialized in designing advanced web applications.</p>
 	<p>
-		👯 If you could benefit from seasoned leadership and innovative solutions,
+		👯 If your project could benefit from seasoned leadership and innovative solutions,
 		let's connect!
 	</p>
 </div>
@@ -122,8 +122,8 @@
 <br />
 <p align="center">
 	<text
-		>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-		—Damian Conway</text
+		>A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+		—Kent Beck</text
 	>
 </p>
 <img
@@ -156,5 +156,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-23 03:05:11</p>
+	<p>Last updated: 2024-05-23 20:15:16</p>
 </div>
