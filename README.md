@@ -1,6 +1,6 @@
 <p>
-	🗽 67°F
-	<i>(19°C)</i> Partly cloudy, with a low around 67. Northwest wind around 5 mph.
+	🗽 66°F
+	<i>(18°C)</i> Clear, with a low around 66. Northeast wind around 6 mph.
 </p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -122,8 +122,8 @@
 <br />
 <p align="center">
 	<text
-		>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-		—Isaac Asimov</text
+		>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+		—Walt Whitman</text
 	>
 </p>
 <img
@@ -156,5 +156,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-24 03:05:17</p>
+	<p>Last updated: 2024-05-25 03:04:55</p>
 </div>
