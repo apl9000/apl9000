@@ -1,6 +1,6 @@
 <p>
-	🗽 65°F
-	<i>(18°C)</i> A slight chance of rain showers. Mostly cloudy. Low around 65, with temperatures rising to around 67 overnight. South wind around 6 mph. Chance of precipitation is 20%.
+	🗽 66°F
+	<i>(18°C)</i> Areas of fog and a slight chance of rain showers. Cloudy, with a low around 66. Southeast wind around 9 mph. Chance of precipitation is 20%.
 </p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -122,8 +122,8 @@
 <br />
 <p align="center">
 	<text
-		>To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-		—Kelly Ripley Feller</text
+		>Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+		—Edsger W. Dijkstra</text
 	>
 </p>
 <img
@@ -156,5 +156,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-26 03:05:00</p>
+	<p>Last updated: 2024-05-27 03:06:05</p>
 </div>
