@@ -1,6 +1,6 @@
 <p>
-	🗽 66°F
-	<i>(18°C)</i> Areas of fog and a slight chance of rain showers. Cloudy, with a low around 66. Southeast wind around 9 mph. Chance of precipitation is 20%.
+	🗽 69°F
+	<i>(20°C)</i> Showers and thunderstorms before 2am. Mostly cloudy, with a low around 69. South wind 7 to 14 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible.
 </p>
 <img
 	src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
@@ -122,8 +122,8 @@
 <br />
 <p align="center">
 	<text
-		>Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
-		—Edsger W. Dijkstra</text
+		>If you wish to make an apple pie from scratch you must first invent the universe.<br />
+		—Carl Sagan</text
 	>
 </p>
 <img
@@ -148,7 +148,7 @@
 		height="101"
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
 	/>
-	<p>1.00USD = 1.37CAD</p>
+	<p>1.00USD = 1.36CAD</p>
 </div>
 <br />
 <div align="center">
@@ -156,5 +156,5 @@
 		alt="README Update"
 		src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 	/>
-	<p>Last updated: 2024-05-27 03:06:05</p>
+	<p>Last updated: 2024-05-27 21:44:12</p>
 </div>
