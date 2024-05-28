@@ -1,7 +1,11 @@
+<img
+  alt="Github profile views"
+  src="https://pageview.vercel.app/?github_user=apl9000"
+/>
 <p>
   <text
-    >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-    —Walt Whitman</text
+    >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+    —Edsger W. Dijkstra</text
   >
 </p>
 <img
@@ -145,4 +149,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-05-27 23:42:29</p>
+<p>Last updated: 2024-05-27 23:56:21</p>
