@@ -117,8 +117,8 @@
   >
 </p>
 <p>
-  NYC 🗽 67°F
-  <i>(19°C)</i> Mostly cloudy. Low around 67, with temperatures rising to around 69 overnight. Southwest wind around 7 mph.
+  NYC 🗽 63°F
+  <i>(17°C)</i> Mostly clear. Low around 63, with temperatures rising to around 65 overnight. West wind around 6 mph.
 </p>
 <br />
 <div>
@@ -142,4 +142,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-05-28 03:05:47</p>
+<p>Last updated: 2024-05-29 03:05:20</p>
