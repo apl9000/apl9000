@@ -112,13 +112,13 @@
 
 <p>
   <text
-    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-    —Damian Conway</text
+    >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+    —Edsger W. Dijkstra</text
   >
 </p>
 <p>
-  NYC 🗽 63°F
-  <i>(17°C)</i> Mostly clear. Low around 63, with temperatures rising to around 65 overnight. West wind around 6 mph.
+  NYC 🗽 61°F
+  <i>(16°C)</i> Showers and thunderstorms likely. Cloudy, with a low around 61. Northwest wind 5 to 8 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.
 </p>
 <br />
 <div>
@@ -132,7 +132,7 @@
     width="68"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD | 1.36CAD</p>
+  <p>1.00USD | 1.37CAD</p>
 </div>
 <img
   alt="Github profile views"
@@ -142,4 +142,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-05-29 03:05:20</p>
+<p>Last updated: 2024-05-30 03:06:01</p>
