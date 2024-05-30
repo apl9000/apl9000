@@ -2,10 +2,24 @@
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI0ejZjbW5mdm1tOGFtanE1MGtkYjl4YnV1NXpya201bzUxYmF6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lidqP5DHoMTCg/giphy.gif"
   width="100%"
 />
-<h3>👋 World</h3>
+<h3>
+  <img
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp"
+    alt="Waving Hand"
+    width="24"
+    height="24"
+  />
+  World
+</h3>
 <p>
   Leading the engineering team at
   <a href="https://www.premiumbeat.com">Premiumbeat.com</a>.
+  <img
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Notes.webp"
+    alt="Musical Notes"
+    width="24"
+    height="24"
+  />
 </p>
 <p>Specialized in designing advanced web applications.</p>
 <p>
@@ -102,23 +116,15 @@
   src="https://github-profile-trophy.vercel.app/?username=apl9000&theme=darkhub&no-frame=true&no-bg=true"
   alt="GitHub Profile Trophy"
 /> -->
-<div>
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBscHowZDdwMXBnOG85amhqZ2RqNHVuZTIxeHZ0NnpwM2lkNGtwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k72YLm0kJQOZ5B5beU/giphy.gif"
-    width="100%"
-  />
-</div>
-<br />
-
 <p>
   <text
-    >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
-    —Edsger W. Dijkstra</text
+    >What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
+    —Robert M. Pirsig</text
   >
 </p>
 <p>
-  NYC 🗽 61°F
-  <i>(16°C)</i> Showers and thunderstorms likely. Cloudy, with a low around 61. Northwest wind 5 to 8 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.
+  NYC 🗽 56°F
+  <i>(13°C)</i> Partly cloudy, with a low around 56. Northwest wind around 12 mph.
 </p>
 <br />
 <div>
@@ -142,4 +148,11 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-05-30 03:06:01</p>
+<p>Last updated: 2024-05-30 18:56:18</p>
+<br />
+<div>
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBscHowZDdwMXBnOG85amhqZ2RqNHVuZTIxeHZ0NnpwM2lkNGtwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k72YLm0kJQOZ5B5beU/giphy.gif"
+    width="100%"
+  />
+</div>
