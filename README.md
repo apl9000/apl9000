@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >If you wish to make an apple pie from scratch you must first invent the universe.<br />
-    —Carl Sagan</text
+    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+    —Damian Conway</text
   >
 </p>
 <p>
-  NYC 🗽 58°F
-  <i>(14°C)</i> Isolated rain showers before 4am. Mostly cloudy. Low around 58, with temperatures rising to around 60 overnight. North wind around 12 mph. Chance of precipitation is 20%.
+  NYC 🗽 62°F
+  <i>(16°C)</i> Clear, with a low around 62. Northwest wind around 7 mph.
 </p>
 <br />
 <div>
@@ -138,7 +138,7 @@
     width="68"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD | 1.37CAD</p>
+  <p>1.00USD | 1.36CAD</p>
 </div>
 <img
   alt="Github profile views"
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-05-31 03:05:30</p>
+<p>Last updated: 2024-06-01 03:05:06</p>
 <br />
 <div>
   <img
