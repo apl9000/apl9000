@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-    —Walt Whitman</text
+    >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+    —Alfred North Whitehead</text
   >
 </p>
 <p>
-  NYC 🗽 65°F
-  <i>(18°C)</i> Partly cloudy, with a low around 65. West wind around 3 mph.
+  NYC 🗽 68°F
+  <i>(20°C)</i> A chance of rain showers. Mostly cloudy. Low around 68, with temperatures rising to around 71 overnight. West wind around 3 mph. Chance of precipitation is 30%.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-02 03:05:17</p>
+<p>Last updated: 2024-06-03 03:05:05</p>
 <br />
 <div>
   <img
