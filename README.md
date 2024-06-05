@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-    —Kent Beck</text
+    >If you wish to make an apple pie from scratch you must first invent the universe.<br />
+    —Carl Sagan</text
   >
 </p>
 <p>
-  NYC 🗽 67°F
-  <i>(19°C)</i> Partly cloudy. Low around 67, with temperatures rising to around 72 overnight. Southeast wind around 3 mph.
+  NYC 🗽 65°F
+  <i>(18°C)</i> Areas of fog. Mostly cloudy. Low around 65, with temperatures rising to around 67 overnight. South wind around 6 mph.
 </p>
 <br />
 <div>
@@ -138,7 +138,7 @@
     width="68"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD | 1.36CAD</p>
+  <p>1.00USD | 1.37CAD</p>
 </div>
 <img
   alt="Github profile views"
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-04 03:05:19</p>
+<p>Last updated: 2024-06-05 03:05:25</p>
 <br />
 <div>
   <img
