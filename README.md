@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >If you wish to make an apple pie from scratch you must first invent the universe.<br />
-    —Carl Sagan</text
+    >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+    —Edsger W. Dijkstra</text
   >
 </p>
 <p>
-  NYC 🗽 65°F
-  <i>(18°C)</i> Areas of fog. Mostly cloudy. Low around 65, with temperatures rising to around 67 overnight. South wind around 6 mph.
+  NYC 🗽 71°F
+  <i>(21°C)</i> Showers and thunderstorms. Cloudy, with a low around 71. South wind around 10 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-05 03:05:25</p>
+<p>Last updated: 2024-06-06 03:06:06</p>
 <br />
 <div>
   <img
