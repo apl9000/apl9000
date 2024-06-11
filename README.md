@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >Theory is good, but it doesn't prevent things from existing.<br />
-    —Jean-Martin Charcot</text
+    >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+    —Isaac Asimov</text
   >
 </p>
 <p>
-  NYC 🗽 64°F
-  <i>(17°C)</i> Mostly clear, with a low around 64. Northwest wind around 6 mph.
+  NYC 🗽 59°F
+  <i>(15°C)</i> Mostly cloudy. Low around 59, with temperatures rising to around 61 overnight. North wind around 6 mph.
 </p>
 <br />
 <div>
@@ -138,7 +138,7 @@
     width="68"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD | 1.37CAD</p>
+  <p>1.00USD | 1.38CAD</p>
 </div>
 <img
   alt="Github profile views"
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-10 03:05:20</p>
+<p>Last updated: 2024-06-11 03:05:13</p>
 <br />
 <div>
   <img
