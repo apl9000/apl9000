@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-    —Isaac Asimov</text
+    >Theory is good, but it doesn't prevent things from existing.<br />
+    —Jean-Martin Charcot</text
   >
 </p>
 <p>
-  NYC 🗽 59°F
-  <i>(15°C)</i> Mostly cloudy. Low around 59, with temperatures rising to around 61 overnight. North wind around 6 mph.
+  NYC 🗽 65°F
+  <i>(18°C)</i> Mostly cloudy, with a low around 65. Northwest wind around 5 mph.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-11 03:05:13</p>
+<p>Last updated: 2024-06-12 03:05:10</p>
 <br />
 <div>
   <img
