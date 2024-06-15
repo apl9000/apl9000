@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-    —Isaac Asimov</text
+    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+    —Damian Conway</text
   >
 </p>
 <p>
-  NYC 🗽 71°F
-  <i>(21°C)</i> A slight chance of rain showers after 5am. Mostly cloudy, with a low around 71. Southwest wind around 7 mph. Chance of precipitation is 20%.
+  NYC 🗽 68°F
+  <i>(20°C)</i> Partly cloudy, with a low around 68. North wind around 7 mph.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-14 03:05:49</p>
+<p>Last updated: 2024-06-15 03:05:03</p>
 <br />
 <div>
   <img
