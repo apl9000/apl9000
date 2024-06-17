@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
-    —Fred Brooks</text
+    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+    —Damian Conway</text
   >
 </p>
 <p>
-  NYC 🗽 61°F
-  <i>(16°C)</i> Clear, with a low around 61. North wind around 8 mph.
+  NYC 🗽 63°F
+  <i>(17°C)</i> Mostly cloudy, with a low around 63. South wind around 7 mph.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-16 03:05:28</p>
+<p>Last updated: 2024-06-17 03:05:15</p>
 <br />
 <div>
   <img
