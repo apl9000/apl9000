@@ -118,8 +118,8 @@
 /> -->
 <p>
   <text
-    >What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
-    —Robert M. Pirsig</text
+    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+    —Kent Beck</text
   >
 </p>
 <p>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-18 03:05:35</p>
+<p>Last updated: 2024-06-19 03:05:10</p>
 <br />
 <div>
   <img
