@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-    —Walt Whitman</text
+    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
+    —Kelly Ripley Feller</text
   >
 </p>
 <p>
-  NYC 🗽 73°F
-  <i>(22°C)</i> Partly cloudy, with a low around 73. Southwest wind around 9 mph.
+  NYC 🗽 75°F
+  <i>(23°C)</i> Partly cloudy, with a low around 75. Southwest wind around 7 mph.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-20 03:05:28</p>
+<p>Last updated: 2024-06-21 03:06:00</p>
 <br />
 <div>
   <img
