@@ -123,8 +123,8 @@
   >
 </p>
 <p>
-  NYC 🗽 75°F
-  <i>(23°C)</i> Partly cloudy, with a low around 75. Southwest wind around 7 mph.
+  NYC 🗽 76°F
+  <i>(24°C)</i> Partly cloudy, with a low around 76. Southwest wind around 6 mph.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-21 03:06:00</p>
+<p>Last updated: 2024-06-22 03:05:45</p>
 <br />
 <div>
   <img
