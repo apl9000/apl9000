@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-    —Kelly Ripley Feller</text
+    >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+    —Alfred North Whitehead</text
   >
 </p>
 <p>
-  NYC 🗽 76°F
-  <i>(24°C)</i> Partly cloudy, with a low around 76. Southwest wind around 6 mph.
+  NYC 🗽 78°F
+  <i>(25°C)</i> A chance of showers and thunderstorms before 5am. Mostly cloudy, with a low around 78. South wind around 6 mph. Chance of precipitation is 30%.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-22 03:05:45</p>
+<p>Last updated: 2024-06-23 03:05:43</p>
 <br />
 <div>
   <img
