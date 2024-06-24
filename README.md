@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-    —Alfred North Whitehead</text
+    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+    —Damian Conway</text
   >
 </p>
 <p>
-  NYC 🗽 78°F
-  <i>(25°C)</i> A chance of showers and thunderstorms before 5am. Mostly cloudy, with a low around 78. South wind around 6 mph. Chance of precipitation is 30%.
+  NYC 🗽 77°F
+  <i>(25°C)</i> A slight chance of showers and thunderstorms. Mostly cloudy. Low around 77, with temperatures rising to around 79 overnight. Southwest wind around 14 mph. Chance of precipitation is 20%.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-23 03:05:43</p>
+<p>Last updated: 2024-06-24 03:06:14</p>
 <br />
 <div>
   <img
