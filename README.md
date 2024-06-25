@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-    —Damian Conway</text
+    >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+    —Walt Whitman</text
   >
 </p>
 <p>
-  NYC 🗽 77°F
-  <i>(25°C)</i> A slight chance of showers and thunderstorms. Mostly cloudy. Low around 77, with temperatures rising to around 79 overnight. Southwest wind around 14 mph. Chance of precipitation is 20%.
+  NYC 🗽 70°F
+  <i>(21°C)</i> Clear. Low around 70, with temperatures rising to around 73 overnight. Northwest wind around 14 mph.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-24 03:06:14</p>
+<p>Last updated: 2024-06-25 03:05:09</p>
 <br />
 <div>
   <img
