@@ -12,19 +12,26 @@
   World
 </h3>
 <p>
-  Leading the engineering team at
-  <a href="https://www.premiumbeat.com">Premiumbeat.com</a>.
-  <img
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Notes.webp"
-    alt="Musical Notes"
-    width="24"
-    height="24"
-  />
+  I'm <strong>Andrew</strong>, a software engineer with a decade of experience
+  in bringing products to market and building high-functioning teams.
 </p>
-<p>Specialized in designing advanced web applications.</p>
 <p>
-  Could your project benefit from seasoned leadership and innovative solutions?
+  If you want to follow along as I spill the proverbial development beans—the
+  good, the bad, and the ugly—subscribe to my blog
+  <a href="" target="_blank"></a>.
 </p>
+<h3>Blog</h3>
+<table>
+  {{range .BlogPosts}}
+  <tr>
+    <td>{{ .PubDate }}</td>
+    <td>
+      <a href="{{ .Link }}" target="_blank">{{ .Title }}</a>
+    </td>
+    <td>{{ .Description }}</td>
+    {{end}}
+  </tr>
+</table>
 <h3>Let's Connect</h3>
 <p>
   <a href="https://linkedin.com/in/andrewpl" target="_blank"

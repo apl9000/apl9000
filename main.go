@@ -11,6 +11,7 @@ import (
 
 type ProfileData struct {
 	Timestamp       string
+	BlogPosts       []data.BlogPost
 	Quote           data.Quote
 	WeatherForecast data.WeatherForecast
 	Rates           data.Rates
@@ -29,6 +30,7 @@ func main() {
 		Quote:           data.GetRandomQuote(),
 		WeatherForecast: data.GetWeatherForecast(),
 		Rates:           data.GetRates(),
+		BlogPosts:       data.GetPosts(),
 	}
 
 	var htmlBuffer bytes.Buffer
