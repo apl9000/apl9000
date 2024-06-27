@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-    —Alfred North Whitehead</text
+    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
+    —Kelly Ripley Feller</text
   >
 </p>
 <p>
-  NYC 🗽 74°F
-  <i>(23°C)</i> A slight chance of rain showers after 5am. Mostly cloudy, with a low around 74. Southwest wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 20%.
+  NYC 🗽 73°F
+  <i>(22°C)</i> Showers and thunderstorms. Cloudy, with a low around 73. West wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-26 03:05:25</p>
+<p>Last updated: 2024-06-27 01:19:15</p>
 <br />
 <div>
   <img
