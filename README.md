@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-    —Kelly Ripley Feller</text
+    >Theory is good, but it doesn't prevent things from existing.<br />
+    —Jean-Martin Charcot</text
   >
 </p>
 <p>
   NYC 🗽 73°F
-  <i>(22°C)</i> Showers and thunderstorms. Cloudy, with a low around 73. West wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible.
+  <i>(22°C)</i> Showers and thunderstorms likely. Cloudy, with a low around 73. West wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-27 01:19:15</p>
+<p>Last updated: 2024-06-27 03:05:05</p>
 <br />
 <div>
   <img
