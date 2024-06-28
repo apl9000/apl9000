@@ -123,8 +123,8 @@
   >
 </p>
 <p>
-  NYC 🗽 73°F
-  <i>(22°C)</i> Showers and thunderstorms likely. Cloudy, with a low around 73. West wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible.
+  NYC 🗽 63°F
+  <i>(17°C)</i> Mostly clear, with a low around 63. North wind 7 to 10 mph.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-27 03:05:05</p>
+<p>Last updated: 2024-06-28 03:05:12</p>
 <br />
 <div>
   <img
