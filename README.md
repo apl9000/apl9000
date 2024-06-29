@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >Theory is good, but it doesn't prevent things from existing.<br />
-    —Jean-Martin Charcot</text
+    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+    —Kent Beck</text
   >
 </p>
 <p>
-  NYC 🗽 63°F
-  <i>(17°C)</i> Mostly clear, with a low around 63. North wind 7 to 10 mph.
+  NYC 🗽 66°F
+  <i>(18°C)</i> Mostly cloudy. Low around 66, with temperatures rising to around 68 overnight. Southeast wind around 7 mph.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-28 03:05:12</p>
+<p>Last updated: 2024-06-29 03:05:45</p>
 <br />
 <div>
   <img
