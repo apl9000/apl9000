@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-    —Kent Beck</text
+    >There are only two kinds of languages: the ones people complain about and the ones nobody uses.<br />
+    —Bjarne Stroustrup</text
   >
 </p>
 <p>
-  NYC 🗽 66°F
-  <i>(18°C)</i> Mostly cloudy. Low around 66, with temperatures rising to around 68 overnight. Southeast wind around 7 mph.
+  NYC 🗽 74°F
+  <i>(23°C)</i> Showers and thunderstorms likely. Cloudy. Low around 74, with temperatures rising to around 76 overnight. Southwest wind around 9 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-06-29 03:05:45</p>
+<p>Last updated: 2024-06-30 03:05:04</p>
 <br />
 <div>
   <img
