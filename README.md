@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-    —Walt Whitman</text
+    >What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
+    —Robert M. Pirsig</text
   >
 </p>
 <p>
-  NYC 🗽 68°F
-  <i>(20°C)</i> Partly cloudy, with a low around 68. Southwest wind around 5 mph.
+  NYC 🗽 71°F
+  <i>(21°C)</i> Partly cloudy, with a low around 71. Southwest wind around 9 mph.
 </p>
 <br />
 <div>
@@ -138,7 +138,7 @@
     width="68"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD | 1.37CAD</p>
+  <p>1.00USD | 1.36CAD</p>
 </div>
 <img
   alt="Github profile views"
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-03 03:05:12</p>
+<p>Last updated: 2024-07-04 03:06:05</p>
 <br />
 <div>
   <img
