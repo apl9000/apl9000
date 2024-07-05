@@ -118,13 +118,13 @@
 /> -->
 <p>
   <text
-    >What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
-    —Robert M. Pirsig</text
+    >If you wish to make an apple pie from scratch you must first invent the universe.<br />
+    —Carl Sagan</text
   >
 </p>
 <p>
-  NYC 🗽 71°F
-  <i>(21°C)</i> Partly cloudy, with a low around 71. Southwest wind around 9 mph.
+  NYC 🗽 75°F
+  <i>(23°C)</i> Patchy fog and a chance of showers and thunderstorms before 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 75. South wind around 6 mph. Chance of precipitation is 40%.
 </p>
 <br />
 <div>
@@ -148,7 +148,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-04 03:06:05</p>
+<p>Last updated: 2024-07-05 03:05:09</p>
 <br />
 <div>
   <img
