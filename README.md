@@ -11,39 +11,38 @@
   />
   World
 </h3>
-<p>
-  Leading the engineering team at
-  <a href="https://www.premiumbeat.com">Premiumbeat.com</a>.
-  <img
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Notes.webp"
-    alt="Musical Notes"
-    width="24"
-    height="24"
-  />
-</p>
-<p>Specialized in designing advanced web applications.</p>
-<p>
-  Could your project benefit from seasoned leadership and innovative solutions?
-</p>
+<p>I'm Andrew, a seasoned software engineer with a decade of experience leading teams and bringing tech visions to life. On my blog dev.log, I share success stories, challenges, and valuable lessons learned. Subscribe to access educational content and unfiltered tales from the frontlines of software development. Let's collaborate and dive into the exciting world of software together!</p>
+<h3><a href="https://www.apl.directory//blog" target="_blank">Blog: dev.log</a></h3>
+<table>
+  
+  <tr>
+    <td>2024-06-20</td>
+    <td>
+      <a href="https://www.apl.directory//blog/coming-soon" target="_blank">Coming Soon</a>
+    </td>
+    <td>This is dev.log.</td>
+    
+  </tr>
+</table>
 <h3>Let's Connect</h3>
 <p>
+  <a href="https://apl9000.substack.com" target="_blank"
+    ><img
+      alt="Substack"
+      src="https://img.shields.io/badge/substack-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=orange"
+  /></a>
   <a href="https://linkedin.com/in/andrewpl" target="_blank"
     ><img
       alt="LinkedIn"
       src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"
   /></a>
-  <a href="https://github.com/apl9000" target="_blank"
-    ><img
-      alt="Github"
-      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github"
-  /></a>
   <a href="https://twitter.com/apl8080" target="_blank"
     ><img
-      alt="Medium"
-      src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue"
+      alt="Twitter"
+      src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white"
   /></a>
 </p>
-<h3>Languages & Tools</h3>
+<!-- <h3>Languages & Tools</h3>
 <div>
   <img
     src="https://img.shields.io/badge/Typescript-%2312100E.svg?style=for-the-badge&logo=typescript"
@@ -106,7 +105,7 @@
     alt="Vercel"
   />
 </div>
-<br />
+<br /> -->
 
 <!-- <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=apl9000&theme=dark&hide_border=true"
@@ -118,13 +117,13 @@
 /> -->
 <p>
   <text
-    >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
-    —Edsger W. Dijkstra</text
+    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+    —Kent Beck</text
   >
 </p>
 <p>
-  NYC 🗽 74°F
-  <i>(23°C)</i> Patchy fog and a chance of showers and thunderstorms. Mostly cloudy. Low around 74, with temperatures rising to around 76 overnight. South wind around 7 mph. Chance of precipitation is 50%.
+  NYC 🗽 85°F
+  <i>(29°C)</i> A chance of showers and thunderstorms before 11am, then a chance of showers and thunderstorms. Partly sunny, with a high near 85. South wind 7 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.
 </p>
 <br />
 <div>
@@ -148,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-06 03:04:53</p>
+<p>Last updated: 2024-07-06 09:22:38</p>
 <br />
 <div>
   <img
