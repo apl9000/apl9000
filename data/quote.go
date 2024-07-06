@@ -55,7 +55,7 @@ var QuotesData = Quotes{
 		Author: "Carl Sagan",
 	},
 	{
-		Quote: "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+		Quote: "There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.",
 		Author: "Bjarne Stroustrup",
 	},
 }

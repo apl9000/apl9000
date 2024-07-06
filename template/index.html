@@ -11,18 +11,10 @@
   />
   World
 </h3>
-<p>
-  I'm <strong>Andrew</strong>, a software engineer with a decade of experience
-  in bringing products to market and building high-functioning teams.
-</p>
-<p>
-  If you want to follow along as I spill the proverbial development beans—the
-  good, the bad, and the ugly—subscribe to my blog
-  <a href="" target="_blank"></a>.
-</p>
-<h3>Blog</h3>
+<p>{{.Website.Description}}</p>
+<h3><a href="{{ .Website.Link }}/blog" target="_blank">Blog: dev.log</a></h3>
 <table>
-  {{range .BlogPosts}}
+  {{range .Website.BlogPosts}}
   <tr>
     <td>{{ .PubDate }}</td>
     <td>
@@ -34,23 +26,23 @@
 </table>
 <h3>Let's Connect</h3>
 <p>
+  <a href="https://apl9000.substack.com" target="_blank"
+    ><img
+      alt="Substack"
+      src="https://img.shields.io/badge/substack-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=orange"
+  /></a>
   <a href="https://linkedin.com/in/andrewpl" target="_blank"
     ><img
       alt="LinkedIn"
       src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"
   /></a>
-  <a href="https://github.com/apl9000" target="_blank"
-    ><img
-      alt="Github"
-      src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github"
-  /></a>
   <a href="https://twitter.com/apl8080" target="_blank"
     ><img
-      alt="Medium"
-      src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue"
+      alt="Twitter"
+      src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white"
   /></a>
 </p>
-<h3>Languages & Tools</h3>
+<!-- <h3>Languages & Tools</h3>
 <div>
   <img
     src="https://img.shields.io/badge/Typescript-%2312100E.svg?style=for-the-badge&logo=typescript"
@@ -113,7 +105,7 @@
     alt="Vercel"
   />
 </div>
-<br />
+<br /> -->
 
 <!-- <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=apl9000&theme=dark&hide_border=true"

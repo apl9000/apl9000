@@ -17,6 +17,7 @@ type Channel struct {
 	Title       string `xml:"title"`
 	Description string `xml:"description"`
 	Items       []Item `xml:"item"`
+	Link        string `xml:"link"`
 }
 
 type Item struct {
@@ -24,6 +25,13 @@ type Item struct {
 	Description string `xml:"description"`
 	Link        string `xml:"link"`
 	PubDate     string `xml:"pubDate"`
+}
+
+type Website struct {
+	Title       string
+	Description string
+	Link        string
+	BlogPosts   []BlogPost
 }
 
 type BlogPost struct {
@@ -47,26 +55,26 @@ func parseDate(dateString string) string {
 	return parsedTime.Format("2006-01-02")
 }
 
-func GetPosts() []BlogPost {
+func GetWebsiteData() Website {
 	url := "https://www.apl.directory/rss"
 
 	response, err := http.Get(url)
 	if err != nil {
 		fmt.Printf("The HTTP request failed with error %s\n", err)
-		return []BlogPost{}
+		return Website{}
 	}
 	defer response.Body.Close()
 	body, err := io.ReadAll(response.Body)
 
 	if err != nil {
 		fmt.Printf("The HTTP request failed with error %s\n", err)
-		return []BlogPost{}
+		return Website{}
 	}
 
 	var rss Rss
 	if err := xml.Unmarshal(body, &rss); err != nil {
 		fmt.Printf("Error parsing the feed: %v\n", err)
-		return []BlogPost{}
+		return Website{}
 	}
 
 	var blogPosts []BlogPost
@@ -82,5 +90,10 @@ func GetPosts() []BlogPost {
 		})
 	}
 
-	return blogPosts
+	return Website{
+		Title:       rss.Channel.Title,
+		Description: rss.Channel.Description,
+		Link:        rss.Channel.Link,
+		BlogPosts:   blogPosts,
+	}
 }
