@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-    —Kent Beck</text
+    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
+    —Kelly Ripley Feller</text
   >
 </p>
 <p>
-  NYC 🗽 85°F
-  <i>(29°C)</i> A chance of showers and thunderstorms before 11am, then a chance of showers and thunderstorms. Partly sunny, with a high near 85. South wind 7 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible.
+  NYC 🗽 78°F
+  <i>(25°C)</i> Partly cloudy. Low around 78, with temperatures rising to around 80 overnight. Northwest wind around 6 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-06 09:22:38</p>
+<p>Last updated: 2024-07-07 03:05:42</p>
 <br />
 <div>
   <img
