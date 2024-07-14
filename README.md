@@ -122,8 +122,8 @@
   >
 </p>
 <p>
-  NYC 🗽 72°F
-  <i>(22°C)</i> Widespread rain showers. Cloudy, with a low around 72. Southwest wind around 6 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.
+  NYC 🗽 75°F
+  <i>(23°C)</i> Partly cloudy, with a low around 75. West wind around 3 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-13 03:05:57</p>
+<p>Last updated: 2024-07-14 03:06:24</p>
 <br />
 <div>
   <img
