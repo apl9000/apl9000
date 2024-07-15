@@ -51,12 +51,16 @@ var QuotesData = Quotes{
 		Author: "Fred Brooks",
 	},
 	{
-		Quote: "If you wish to make an apple pie from scratch you must first invent the universe.",
+		Quote:  "If you wish to make an apple pie from scratch you must first invent the universe.",
 		Author: "Carl Sagan",
 	},
 	{
-		Quote: "There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.",
+		Quote:  "There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.",
 		Author: "Bjarne Stroustrup",
+	},
+	{
+		Quote:  "Syntactic sugar causes cancer of the semicolon.",
+		Author: "Alan Perlis",
 	},
 }
 
