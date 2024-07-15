@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-    —Kelly Ripley Feller</text
+    >Theory is good, but it doesn't prevent things from existing.<br />
+    —Jean-Martin Charcot</text
   >
 </p>
 <p>
-  NYC 🗽 75°F
-  <i>(23°C)</i> Partly cloudy, with a low around 75. West wind around 3 mph.
+  NYC 🗽 77°F
+  <i>(25°C)</i> Partly cloudy, with a low around 77. Southwest wind around 2 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-14 03:06:24</p>
+<p>Last updated: 2024-07-15 03:05:18</p>
 <br />
 <div>
   <img
