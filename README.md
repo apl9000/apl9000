@@ -122,8 +122,8 @@
   >
 </p>
 <p>
-  NYC 🗽 73°F
-  <i>(22°C)</i> Cloudy, with a low around 73. West wind around 5 mph.
+  NYC 🗽 68°F
+  <i>(20°C)</i> Mostly clear, with a low around 68. North wind around 9 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-18 03:05:08</p>
+<p>Last updated: 2024-07-19 03:06:32</p>
 <br />
 <div>
   <img
