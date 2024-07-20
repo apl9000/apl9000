@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-    —Damian Conway</text
+    >Syntactic sugar causes cancer of the semicolon.<br />
+    —Alan Perlis</text
   >
 </p>
 <p>
-  NYC 🗽 68°F
-  <i>(20°C)</i> Mostly clear, with a low around 68. North wind around 9 mph.
+  NYC 🗽 70°F
+  <i>(21°C)</i> Partly cloudy, with a low around 70. Southwest wind around 6 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-19 03:06:32</p>
+<p>Last updated: 2024-07-20 03:05:57</p>
 <br />
 <div>
   <img
