@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >Syntactic sugar causes cancer of the semicolon.<br />
-    —Alan Perlis</text
+    >What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
+    —Robert M. Pirsig</text
   >
 </p>
 <p>
-  NYC 🗽 70°F
-  <i>(21°C)</i> Partly cloudy, with a low around 70. Southwest wind around 6 mph.
+  NYC 🗽 72°F
+  <i>(22°C)</i> A slight chance of rain showers before 5am. Mostly cloudy, with a low around 72. West wind around 7 mph. Chance of precipitation is 20%.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-20 03:05:57</p>
+<p>Last updated: 2024-07-21 03:05:24</p>
 <br />
 <div>
   <img
