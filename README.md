@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-    —Walt Whitman</text
+    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+    —Kent Beck</text
   >
 </p>
 <p>
   NYC 🗽 73°F
-  <i>(22°C)</i> Mostly cloudy, with a low around 73. Southwest wind around 3 mph.
+  <i>(22°C)</i> Showers and thunderstorms likely. Cloudy, with a low around 73. East wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-22 03:05:18</p>
+<p>Last updated: 2024-07-23 03:05:06</p>
 <br />
 <div>
   <img
