@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-    —Kent Beck</text
+    >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+    —Alfred North Whitehead</text
   >
 </p>
 <p>
-  NYC 🗽 73°F
-  <i>(22°C)</i> Showers and thunderstorms likely. Cloudy, with a low around 73. East wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible.
+  NYC 🗽 72°F
+  <i>(22°C)</i> Showers and thunderstorms likely. Cloudy. Low around 72, with temperatures rising to around 77 overnight. Southeast wind around 3 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.
 </p>
 <br />
 <div>
@@ -137,7 +137,7 @@
     width="68"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD | 1.37CAD</p>
+  <p>1.00USD | 1.38CAD</p>
 </div>
 <img
   alt="Github profile views"
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-23 03:05:06</p>
+<p>Last updated: 2024-07-24 03:05:14</p>
 <br />
 <div>
   <img
