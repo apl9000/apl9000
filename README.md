@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-    —Alfred North Whitehead</text
+    >If you wish to make an apple pie from scratch you must first invent the universe.<br />
+    —Carl Sagan</text
   >
 </p>
 <p>
-  NYC 🗽 72°F
-  <i>(22°C)</i> Showers and thunderstorms likely. Cloudy. Low around 72, with temperatures rising to around 77 overnight. Southeast wind around 3 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible.
+  NYC 🗽 73°F
+  <i>(22°C)</i> A slight chance of showers and thunderstorms. Mostly cloudy. Low around 73, with temperatures rising to around 76 overnight. Southwest wind around 6 mph. Chance of precipitation is 20%.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-24 03:05:14</p>
+<p>Last updated: 2024-07-25 03:05:08</p>
 <br />
 <div>
   <img
