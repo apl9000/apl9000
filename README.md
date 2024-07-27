@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-    —Kelly Ripley Feller</text
+    >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+    —Fred Brooks</text
   >
 </p>
 <p>
-  NYC 🗽 68°F
-  <i>(20°C)</i> Mostly clear. Low around 68, with temperatures rising to around 70 overnight. Northwest wind around 10 mph.
+  NYC 🗽 70°F
+  <i>(21°C)</i> Mostly clear, with a low around 70. North wind around 6 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-07-26 03:05:27</p>
+<p>Last updated: 2024-07-27 03:05:18</p>
 <br />
 <div>
   <img
