@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
-    —Fred Brooks</text
+    >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+    —Bjarne Stroustrup</text
   >
 </p>
 <p>
-  NYC 🗽 76°F
-  <i>(24°C)</i> Mostly clear, with a low around 76. West wind around 6 mph.
+  NYC 🗽 78°F
+  <i>(25°C)</i> Partly cloudy, with a low around 78. Southwest wind around 5 mph.
 </p>
 <br />
 <div>
@@ -137,7 +137,7 @@
     width="68"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD | 1.38CAD</p>
+  <p>1.00USD | 1.39CAD</p>
 </div>
 <img
   alt="Github profile views"
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-01 03:05:10</p>
+<p>Last updated: 2024-08-02 03:06:08</p>
 <br />
 <div>
   <img
