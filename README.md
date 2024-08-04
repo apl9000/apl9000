@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-    —Alfred North Whitehead</text
+    >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+    —Isaac Asimov</text
   >
 </p>
 <p>
   NYC 🗽 77°F
-  <i>(25°C)</i> Mostly cloudy, with a low around 77. South wind around 5 mph.
+  <i>(25°C)</i> A slight chance of rain showers after 5am. Mostly cloudy, with a low around 77. Southwest wind around 5 mph. Chance of precipitation is 20%.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-03 03:04:51</p>
+<p>Last updated: 2024-08-04 03:05:52</p>
 <br />
 <div>
   <img
