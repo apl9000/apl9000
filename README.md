@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
-    —Fred Brooks</text
+    >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+    —Walt Whitman</text
   >
 </p>
 <p>
-  NYC 🗽 73°F
-  <i>(22°C)</i> Mostly clear, with a low around 73. West wind around 6 mph.
+  NYC 🗽 77°F
+  <i>(25°C)</i> Mostly cloudy, with a low around 77. Southwest wind around 7 mph.
 </p>
 <br />
 <div>
@@ -137,7 +137,7 @@
     width="68"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD | 1.39CAD</p>
+  <p>1.00USD | 1.38CAD</p>
 </div>
 <img
   alt="Github profile views"
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-05 03:05:35</p>
+<p>Last updated: 2024-08-06 03:05:09</p>
 <br />
 <div>
   <img
