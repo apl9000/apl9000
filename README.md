@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-    —Walt Whitman</text
+    >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
+    —Kelly Ripley Feller</text
   >
 </p>
 <p>
-  NYC 🗽 77°F
-  <i>(25°C)</i> Mostly cloudy, with a low around 77. Southwest wind around 7 mph.
+  NYC 🗽 68°F
+  <i>(20°C)</i> Showers and thunderstorms. Cloudy. Low around 68, with temperatures rising to around 70 overnight. North wind around 8 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-06 03:05:09</p>
+<p>Last updated: 2024-08-07 03:05:08</p>
 <br />
 <div>
   <img
