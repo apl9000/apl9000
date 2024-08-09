@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-    —Walt Whitman</text
+    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+    —Damian Conway</text
   >
 </p>
 <p>
-  NYC 🗽 66°F
-  <i>(18°C)</i> A chance of rain showers. Cloudy, with a low around 66. East wind around 13 mph. Chance of precipitation is 50%.
+  NYC 🗽 70°F
+  <i>(21°C)</i> Showers and thunderstorms likely. Cloudy. Low around 70, with temperatures rising to around 76 overnight. Southeast wind around 12 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-08 03:05:13</p>
+<p>Last updated: 2024-08-09 03:05:12</p>
 <br />
 <div>
   <img
