@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-    —Damian Conway</text
+    >If you wish to make an apple pie from scratch you must first invent the universe.<br />
+    —Carl Sagan</text
   >
 </p>
 <p>
-  NYC 🗽 70°F
-  <i>(21°C)</i> Showers and thunderstorms likely. Cloudy. Low around 70, with temperatures rising to around 76 overnight. Southeast wind around 12 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible.
+  NYC 🗽 75°F
+  <i>(23°C)</i> A slight chance of rain showers before 5am. Mostly cloudy. Low around 75, with temperatures rising to around 77 overnight. West wind around 10 mph. Chance of precipitation is 20%.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-09 03:05:12</p>
+<p>Last updated: 2024-08-10 03:04:58</p>
 <br />
 <div>
   <img
