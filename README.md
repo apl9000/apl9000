@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >If you wish to make an apple pie from scratch you must first invent the universe.<br />
-    —Carl Sagan</text
+    >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+    —Fred Brooks</text
   >
 </p>
 <p>
-  NYC 🗽 75°F
-  <i>(23°C)</i> A slight chance of rain showers before 5am. Mostly cloudy. Low around 75, with temperatures rising to around 77 overnight. West wind around 10 mph. Chance of precipitation is 20%.
+  NYC 🗽 68°F
+  <i>(20°C)</i> Mostly clear. Low around 68, with temperatures rising to around 71 overnight. Northwest wind around 7 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-10 03:04:58</p>
+<p>Last updated: 2024-08-11 03:04:59</p>
 <br />
 <div>
   <img
