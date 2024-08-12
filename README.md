@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
-    —Fred Brooks</text
+    >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+    —Isaac Asimov</text
   >
 </p>
 <p>
-  NYC 🗽 68°F
-  <i>(20°C)</i> Mostly clear. Low around 68, with temperatures rising to around 71 overnight. Northwest wind around 7 mph.
+  NYC 🗽 66°F
+  <i>(18°C)</i> Mostly clear. Low around 66, with temperatures rising to around 68 overnight. West wind around 6 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-11 03:04:59</p>
+<p>Last updated: 2024-08-12 03:05:46</p>
 <br />
 <div>
   <img
