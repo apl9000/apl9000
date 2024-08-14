@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-    —Bjarne Stroustrup</text
+    >Syntactic sugar causes cancer of the semicolon.<br />
+    —Alan Perlis</text
   >
 </p>
 <p>
-  NYC 🗽 65°F
-  <i>(18°C)</i> Clear. Low around 65, with temperatures rising to around 67 overnight. Northwest wind around 9 mph.
+  NYC 🗽 69°F
+  <i>(20°C)</i> Mostly clear, with a low around 69. North wind around 7 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-13 03:06:13</p>
+<p>Last updated: 2024-08-14 03:05:16</p>
 <br />
 <div>
   <img
