@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-    —Damian Conway</text
+    >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+    —Bjarne Stroustrup</text
   >
 </p>
 <p>
   NYC 🗽 72°F
-  <i>(22°C)</i> Mostly clear. Low around 72, with temperatures rising to around 74 overnight. Northwest wind around 6 mph.
+  <i>(22°C)</i> Mostly cloudy. Low around 72, with temperatures rising to around 74 overnight. Southeast wind around 6 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-16 03:05:32</p>
+<p>Last updated: 2024-08-17 03:05:02</p>
 <br />
 <div>
   <img
