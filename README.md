@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >If you wish to make an apple pie from scratch you must first invent the universe.<br />
-    —Carl Sagan</text
+    >Theory is good, but it doesn't prevent things from existing.<br />
+    —Jean-Martin Charcot</text
   >
 </p>
 <p>
-  NYC 🗽 72°F
-  <i>(22°C)</i> A chance of showers and thunderstorms before 5am, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 72. Southwest wind around 5 mph. Chance of precipitation is 30%.
+  NYC 🗽 64°F
+  <i>(17°C)</i> A slight chance of rain showers before 5am. Mostly cloudy, with a low around 64. Northwest wind 9 to 13 mph. Chance of precipitation is 20%.
 </p>
 <br />
 <div>
@@ -137,7 +137,7 @@
     width="68"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD | 1.37CAD</p>
+  <p>1.00USD | 1.36CAD</p>
 </div>
 <img
   alt="Github profile views"
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-19 03:06:54</p>
+<p>Last updated: 2024-08-20 03:06:16</p>
 <br />
 <div>
   <img
