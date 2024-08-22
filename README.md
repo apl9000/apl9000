@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-    —Kent Beck</text
+    >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+    —Alfred North Whitehead</text
   >
 </p>
 <p>
-  NYC 🗽 58°F
-  <i>(14°C)</i> Clear, with a low around 58. Northwest wind around 7 mph.
+  NYC 🗽 59°F
+  <i>(15°C)</i> Mostly clear, with a low around 59. West wind around 8 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-21 03:05:12</p>
+<p>Last updated: 2024-08-22 03:06:00</p>
 <br />
 <div>
   <img
