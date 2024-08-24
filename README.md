@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-    —Walt Whitman</text
+    >If you wish to make an apple pie from scratch you must first invent the universe.<br />
+    —Carl Sagan</text
   >
 </p>
 <p>
-  NYC 🗽 63°F
-  <i>(17°C)</i> Clear, with a low around 63. Northwest wind around 5 mph.
+  NYC 🗽 68°F
+  <i>(20°C)</i> Partly cloudy, with a low around 68. West wind around 5 mph.
 </p>
 <br />
 <div>
@@ -137,7 +137,7 @@
     width="68"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD | 1.36CAD</p>
+  <p>1.00USD | 1.35CAD</p>
 </div>
 <img
   alt="Github profile views"
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-23 03:06:15</p>
+<p>Last updated: 2024-08-24 03:05:00</p>
 <br />
 <div>
   <img
