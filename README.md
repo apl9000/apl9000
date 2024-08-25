@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >If you wish to make an apple pie from scratch you must first invent the universe.<br />
-    —Carl Sagan</text
+    >Theory is good, but it doesn't prevent things from existing.<br />
+    —Jean-Martin Charcot</text
   >
 </p>
 <p>
-  NYC 🗽 68°F
-  <i>(20°C)</i> Partly cloudy, with a low around 68. West wind around 5 mph.
+  NYC 🗽 67°F
+  <i>(19°C)</i> Mostly clear, with a low around 67. Southwest wind around 7 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-24 03:05:00</p>
+<p>Last updated: 2024-08-25 03:05:07</p>
 <br />
 <div>
   <img
