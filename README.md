@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
-    —Robert M. Pirsig</text
+    >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+    —Isaac Asimov</text
   >
 </p>
 <p>
-  NYC 🗽 68°F
-  <i>(20°C)</i> Mostly clear. Low around 68, with temperatures rising to around 72 overnight. Southwest wind around 6 mph.
+  NYC 🗽 69°F
+  <i>(20°C)</i> Patchy fog after 5am. Partly cloudy, with a low around 69. North wind around 3 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-26 03:05:34</p>
+<p>Last updated: 2024-08-27 03:05:21</p>
 <br />
 <div>
   <img
