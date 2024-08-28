@@ -122,8 +122,8 @@
   >
 </p>
 <p>
-  NYC 🗽 69°F
-  <i>(20°C)</i> Patchy fog after 5am. Partly cloudy, with a low around 69. North wind around 3 mph.
+  NYC 🗽 73°F
+  <i>(22°C)</i> Partly cloudy. Low around 73, with temperatures rising to around 75 overnight. Southwest wind around 8 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-08-27 03:05:21</p>
+<p>Last updated: 2024-08-28 03:05:09</p>
 <br />
 <div>
   <img
