@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >If you wish to make an apple pie from scratch you must first invent the universe.<br />
-    —Carl Sagan</text
+    >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+    —Bjarne Stroustrup</text
   >
 </p>
 <p>
-  NYC 🗽 69°F
-  <i>(20°C)</i> Partly cloudy. Low around 69, with temperatures rising to around 72 overnight. Northwest wind around 13 mph.
+  NYC 🗽 59°F
+  <i>(15°C)</i> Clear, with a low around 59. North wind 13 to 16 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-09-02 03:05:57</p>
+<p>Last updated: 2024-09-03 03:05:26</p>
 <br />
 <div>
   <img
