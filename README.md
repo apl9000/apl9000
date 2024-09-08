@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-    —Bjarne Stroustrup</text
+    >Theory is good, but it doesn't prevent things from existing.<br />
+    —Jean-Martin Charcot</text
   >
 </p>
 <p>
-  NYC 🗽 67°F
-  <i>(19°C)</i> A slight chance of rain showers after 5am. Mostly cloudy. Low around 67, with temperatures rising to around 69 overnight. Southeast wind around 6 mph. Chance of precipitation is 20%.
+  NYC 🗽 56°F
+  <i>(13°C)</i> Clear, with a low around 56. Northwest wind around 12 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-09-07 03:05:52</p>
+<p>Last updated: 2024-09-08 03:05:05</p>
 <br />
 <div>
   <img
