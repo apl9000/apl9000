@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >Theory is good, but it doesn't prevent things from existing.<br />
-    —Jean-Martin Charcot</text
+    >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+    —Kent Beck</text
   >
 </p>
 <p>
-  NYC 🗽 56°F
-  <i>(13°C)</i> Clear, with a low around 56. Northwest wind around 12 mph.
+  NYC 🗽 58°F
+  <i>(14°C)</i> Clear, with a low around 58. West wind around 6 mph.
 </p>
 <br />
 <div>
@@ -137,7 +137,7 @@
     width="68"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
   />
-  <p>1.00USD | 1.35CAD</p>
+  <p>1.00USD | 1.36CAD</p>
 </div>
 <img
   alt="Github profile views"
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-09-08 03:05:05</p>
+<p>Last updated: 2024-09-09 03:05:41</p>
 <br />
 <div>
   <img
