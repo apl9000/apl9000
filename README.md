@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-    —Alfred North Whitehead</text
+    >What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
+    —Robert M. Pirsig</text
   >
 </p>
 <p>
-  NYC 🗽 62°F
-  <i>(16°C)</i> Partly cloudy, with a low around 62. North wind around 5 mph.
+  NYC 🗽 63°F
+  <i>(17°C)</i> Mostly clear, with a low around 63. Southeast wind around 2 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-09-11 03:05:21</p>
+<p>Last updated: 2024-09-12 03:05:42</p>
 <br />
 <div>
   <img
