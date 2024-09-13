@@ -117,13 +117,13 @@
 /> -->
 <p>
   <text
-    >What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
-    —Robert M. Pirsig</text
+    >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+    —Damian Conway</text
   >
 </p>
 <p>
-  NYC 🗽 63°F
-  <i>(17°C)</i> Mostly clear, with a low around 63. Southeast wind around 2 mph.
+  NYC 🗽 64°F
+  <i>(17°C)</i> Patchy fog after 4am. Mostly cloudy, with a low around 64. West wind around 3 mph.
 </p>
 <br />
 <div>
@@ -147,7 +147,7 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-09-12 03:05:42</p>
+<p>Last updated: 2024-09-13 03:05:32</p>
 <br />
 <div>
   <img
