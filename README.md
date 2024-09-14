@@ -5,7 +5,7 @@
 		width="24"
 		height="24"
 	/>
-	world
+	World
 </h3>
 <p>I'm Andrew, a seasoned software engineer with a decade of experience leading teams and bringing tech visions to life. On my blog dev.log, I share success stories, challenges, and valuable lessons learned. Subscribe to access educational content and unfiltered tales from the frontlines of software development. Let's collaborate and dive into the exciting world of software together!</p>
 <h3>My blog <i><a href="https://www.apl.directory//blog" target="_blank">dev.log</a></i></h3>
