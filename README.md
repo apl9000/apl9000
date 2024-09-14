@@ -19,8 +19,8 @@
 
 <h3>Quote of the day</h3>
 <text
-	>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-	—Isaac Asimov</text>
+	>What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
+	—Robert M. Pirsig</text>
 
 
 <h3>Where to find me</h3>
@@ -46,7 +46,6 @@
 	alt="GitHub Readme Streak Stats"
 />
 <br />
-<br />
 <div>
 	<img
 		alt="US Flag"
@@ -68,4 +67,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-09-13 20:13:12</p>
+<p>Last updated: 2024-09-13 20:19:30</p>
