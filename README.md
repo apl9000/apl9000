@@ -5,7 +5,7 @@
 		width="24"
 		height="24"
 	/>
-	world
+	World
 </h3>
 <p>I'm Andrew, a seasoned software engineer with a decade of experience leading teams and bringing tech visions to life. On my blog dev.log, I share success stories, challenges, and valuable lessons learned. Subscribe to access educational content and unfiltered tales from the frontlines of software development. Let's collaborate and dive into the exciting world of software together!</p>
 <h3>My blog <i><a href="https://www.apl.directory//blog" target="_blank">dev.log</a></i></h3>
@@ -19,8 +19,8 @@
 
 <h3>Quote of the day</h3>
 <text
-	>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-	—Isaac Asimov</text>
+	>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+	—Walt Whitman</text>
 
 
 <h3>Where to find me</h3>
@@ -67,4 +67,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-09-13 20:21:08</p>
+<p>Last updated: 2024-09-13 20:23:16</p>
