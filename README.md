@@ -19,8 +19,8 @@
 
 <h3>Quote of the day</h3>
 <text
-	>If you wish to make an apple pie from scratch you must first invent the universe.<br />
-	—Carl Sagan</text>
+	>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+	—Isaac Asimov</text>
 
 
 <h3>Where to find me</h3>
@@ -67,4 +67,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-09-14 03:05:09</p>
+<p>Last updated: 2024-09-15 03:05:13</p>
