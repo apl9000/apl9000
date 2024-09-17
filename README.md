@@ -7,29 +7,23 @@
 	/>
 	World
 </h3>
-<p>I'm Andrew, a seasoned software engineer with a decade of experience leading teams and bringing tech visions to life. On my blog dev.log, I share success stories, challenges, and valuable lessons learned. Subscribe to access educational content and unfiltered tales from the frontlines of software development. Let's collaborate and dive into the exciting world of software together!</p>
-<h3>My blog <i><a href="https://www.apl.directory//blog" target="_blank">dev.log</a></i></h3>
+<p>If not coding probably canoeing. Software and life—the good, the bad, and the bugy.</p>
 <ul>
 
 <li>
-  2024-06-20 <a href="https://www.apl.directory//blog/coming-soon" target="_blank">Coming Soon</a> - This is dev.log.
+ 2024-06-20 <a href="https://www.apl.directory/blog/coming-soon" target="_blank">Coming Soon</a> - What is software? What is life?
 </li>
 
 </ul>
 
-<h3>Quote of the day</h3>
+<h3>Quote of the day :)</h3>
 <text
-	>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
-	—Fred Brooks</text>
+	>Syntactic sugar causes cancer of the semicolon.<br />
+	—Alan Perlis</text>
 
 
-<h3>Where to find me</h3>
+<h3>Where to find me?</h3>
 <p>
-	<a href="https://apl9000.substack.com" target="_blank"
-		><img
-			alt="Substack"
-			src="https://img.shields.io/badge/substack-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=orange"
-	/></a>
 	<a href="https://linkedin.com/in/andrewpl" target="_blank"
 		><img
 			alt="LinkedIn"
@@ -40,11 +34,17 @@
 			alt="Twitter"
 			src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white"
 	/></a>
+		<a href="https://apl9000.substack.com" target="_blank"
+		><img
+			alt="Substack"
+			src="https://img.shields.io/badge/substack-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=orange"
+	/></a>
 </p>
 <img
 	src="https://github-readme-streak-stats.herokuapp.com/?user=apl9000&theme=dark&hide_border=true"
 	alt="GitHub Readme Streak Stats"
 />
+<br />
 <br />
 <div>
 	<img
@@ -67,4 +67,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-09-16 03:06:01</p>
+<p>Last updated: 2024-09-17 01:00:18</p>
