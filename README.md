@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Syntactic sugar causes cancer of the semicolon.<br />
-	—Alan Perlis</text>
+	>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+	—Fred Brooks</text>
 
 
 <h3>Where to find me?</h3>
@@ -67,4 +67,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-09-17 01:00:18</p>
+<p>Last updated: 2024-09-17 03:05:13</p>
