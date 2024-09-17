@@ -8,28 +8,22 @@
 	World
 </h3>
 <p>{{.Website.Description}}</p>
-<h3>My blog <i><a href="{{ .Website.Link }}/blog" target="_blank">dev.log</a></i></h3>
 <ul>
 {{range .Website.BlogPosts}}
 <li>
-  {{ .PubDate }} <a href="{{ .Link }}" target="_blank">{{ .Title }}</a> - {{ .Description }}
+ {{ .PubDate }} <a href="{{ .Link }}" target="_blank">{{ .Title }}</a> - {{ .Description }}
 </li>
 {{end}}
 </ul>
 
-<h3>Quote of the day</h3>
+<h3>Quote of the day :)</h3>
 <text
 	>{{ .Quote.Quote }}<br />
 	—{{ .Quote.Author }}</text>
 
 
-<h3>Where to find me</h3>
+<h3>Where to find me?</h3>
 <p>
-	<a href="https://apl9000.substack.com" target="_blank"
-		><img
-			alt="Substack"
-			src="https://img.shields.io/badge/substack-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=orange"
-	/></a>
 	<a href="https://linkedin.com/in/andrewpl" target="_blank"
 		><img
 			alt="LinkedIn"
@@ -40,11 +34,17 @@
 			alt="Twitter"
 			src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white"
 	/></a>
+		<a href="https://apl9000.substack.com" target="_blank"
+		><img
+			alt="Substack"
+			src="https://img.shields.io/badge/substack-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=orange"
+	/></a>
 </p>
 <img
 	src="https://github-readme-streak-stats.herokuapp.com/?user=apl9000&theme=dark&hide_border=true"
 	alt="GitHub Readme Streak Stats"
 />
+<br />
 <br />
 <div>
 	<img
