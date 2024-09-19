@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-	—Walt Whitman</text>
+	>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+	—Damian Conway</text>
 
 
 <h3>Where to find me?</h3>
@@ -67,4 +67,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-09-18 03:05:15</p>
+<p>Last updated: 2024-09-19 03:05:28</p>
