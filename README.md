@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
-	—Robert M. Pirsig</text>
+	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+	—Bjarne Stroustrup</text>
 
 
 <h3>Where to find me?</h3>
@@ -67,4 +67,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-10-02 03:05:27</p>
+<p>Last updated: 2024-10-03 03:05:31</p>
