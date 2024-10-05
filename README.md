@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>If you wish to make an apple pie from scratch you must first invent the universe.<br />
-	—Carl Sagan</text>
+	>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+	—Fred Brooks</text>
 
 
 <h3>Where to find me?</h3>
@@ -57,7 +57,7 @@
 		width="68"
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
 	/>
-	<p>1.00USD | 1.35CAD</p>
+	<p>1.00USD | 1.36CAD</p>
 </div>
 <img
 	alt="Github profile views"
@@ -67,4 +67,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-10-04 03:05:39</p>
+<p>Last updated: 2024-10-05 03:06:21</p>
