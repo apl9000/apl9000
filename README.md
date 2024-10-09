@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-	—Kelly Ripley Feller</text>
+	>What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
+	—Robert M. Pirsig</text>
 
 
 <h3>Where to find me?</h3>
@@ -57,7 +57,7 @@
 		width="68"
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
 	/>
-	<p>1.00USD | 1.36CAD</p>
+	<p>1.00USD | 1.37CAD</p>
 </div>
 <img
 	alt="Github profile views"
@@ -67,4 +67,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-10-08 03:06:13</p>
+<p>Last updated: 2024-10-09 03:05:59</p>
