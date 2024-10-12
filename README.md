@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-	—Isaac Asimov</text>
+	>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+	—Damian Conway</text>
 
 
 <h3>Where to find me?</h3>
@@ -57,7 +57,7 @@
 		width="68"
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
 	/>
-	<p>1.00USD | 1.37CAD</p>
+	<p>1.00USD | 1.38CAD</p>
 </div>
 <img
 	alt="Github profile views"
@@ -67,4 +67,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-10-11 03:06:05</p>
+<p>Last updated: 2024-10-12 03:05:06</p>
