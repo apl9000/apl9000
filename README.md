@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
-	—Fred Brooks</text>
+	>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+	—Walt Whitman</text>
 
 
 <h3>Where to find me?</h3>
@@ -67,4 +67,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-10-18 03:05:32</p>
+<p>Last updated: 2024-10-19 03:05:13</p>
