@@ -8,10 +8,13 @@
 	World
 </h3>
 <p>{{.Website.Description}}</p>
+
+<h3>Publications</h3>
 <ul>
 {{range .Website.BlogPosts}}
 <li>
- {{ .PubDate }} <a href="{{ .Link }}" target="_blank">{{ .Title }}</a> - {{ .Description }}
+	{{ .PubDate }} |
+	<a href="{{ .Link }}" target="_blank"> {{ .Title }} - {{ .Description }}</a>
 </li>
 {{end}}
 </ul>
@@ -19,8 +22,8 @@
 <h3>Quote of the day :)</h3>
 <text
 	>{{ .Quote.Quote }}<br />
-	—{{ .Quote.Author }}</text>
-
+	—{{ .Quote.Author }}</text
+>
 
 <h3>Where to find me?</h3>
 <p>
@@ -34,7 +37,7 @@
 			alt="Twitter"
 			src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white"
 	/></a>
-		<a href="https://apl9000.substack.com" target="_blank"
+	<a href="https://apl9000.substack.com" target="_blank"
 		><img
 			alt="Substack"
 			src="https://img.shields.io/badge/substack-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=orange"
@@ -48,16 +51,16 @@
 <br />
 <div>
 	<img
-		alt="US Flag"
-		width="66"
-		src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
-	/>
-	<img
 		alt="Canada Flag"
 		width="68"
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
 	/>
-	<p>{{ .Rates.USD }}USD | {{ .Rates.CAD }}CAD</p>
+	<img
+		alt="US Flag"
+		width="66"
+		src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
+	/>
+	<p>{{ .Rates.CAD }}CAD | {{ .Rates.USD }}USD</p>
 </div>
 <img
 	alt="Github profile views"

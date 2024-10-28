@@ -7,20 +7,23 @@
 	/>
 	World
 </h3>
-<p>If not coding probably canoeing. Software and life—the good, the bad, and the bugy.</p>
+<p>Software engineering and such. Spilling the proverbial development beans—the good, the bad, and the buggy.</p>
+
+<h3>Publications</h3>
 <ul>
 
 <li>
- 2024-06-20 <a href="https://www.apl.directory/blog/coming-soon" target="_blank">Coming Soon</a> - What is software? What is life?
+	2024-10-28 |
+	<a href="https://www.apl.directory/blog/coming-soon" target="_blank"> Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a>
 </li>
 
 </ul>
 
 <h3>Quote of the day :)</h3>
 <text
-	>What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
-	—Robert M. Pirsig</text>
-
+	>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+	—Fred Brooks</text
+>
 
 <h3>Where to find me?</h3>
 <p>
@@ -34,7 +37,7 @@
 			alt="Twitter"
 			src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white"
 	/></a>
-		<a href="https://apl9000.substack.com" target="_blank"
+	<a href="https://apl9000.substack.com" target="_blank"
 		><img
 			alt="Substack"
 			src="https://img.shields.io/badge/substack-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=orange"
@@ -48,16 +51,16 @@
 <br />
 <div>
 	<img
-		alt="US Flag"
-		width="66"
-		src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
-	/>
-	<img
 		alt="Canada Flag"
 		width="68"
 		src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
 	/>
-	<p>1.00USD | 1.39CAD</p>
+	<img
+		alt="US Flag"
+		width="66"
+		src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
+	/>
+	<p>1.39CAD | 1.00USD</p>
 </div>
 <img
 	alt="Github profile views"
@@ -67,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-10-28 03:06:02</p>
+<p>Last updated: 2024-10-28 19:30:56</p>
