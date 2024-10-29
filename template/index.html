@@ -7,17 +7,17 @@
 	/>
 	World
 </h3>
+<p>
+	I'm <strong>Andrew</strong>, a seasoned software engineer with over a decade and counting of experience leading teams and bringing tech visions to life. When I'm not immersed in code, you might find me canoeing (touching grass), creating music, or painting—pursuits that keep me grounded and inspired.
+</p>
+<h3>Publications</h3>
 <p>{{.Website.Description}}</p>
 
-<h3>Publications</h3>
-<ul>
 {{range .Website.BlogPosts}}
-<li>
-	{{ .PubDate }} |
-	<a href="{{ .Link }}" target="_blank"> {{ .Title }} - {{ .Description }}</a>
-</li>
+{{ .PubDate }} <br />
+<a href="{{ .Link }}" target="_blank"> {{ .Title }} - {{ .Description }}</a>
 {{end}}
-</ul>
+
 
 <h3>Quote of the day :)</h3>
 <text
