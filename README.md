@@ -7,22 +7,22 @@
 	/>
 	World
 </h3>
+<p>
+	I'm <strong>Andrew</strong>, a seasoned software engineer with over a decade and counting of experience leading teams and bringing tech visions to life. When I'm not immersed in code, you might find me canoeing (touching grass), creating music, or painting—pursuits that keep me grounded and inspired.
+</p>
+<h3>Publications</h3>
 <p>Software engineering and such. Spilling the proverbial development beans—the good, the bad, and the buggy.</p>
 
-<h3>Publications</h3>
-<ul>
 
-<li>
-	2024-10-28 |
-	<a href="https://www.apl.directory/blog/coming-soon" target="_blank"> Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a>
-</li>
+2024-10-28 <br />
+<a href="https://www.apl.directory/blog/coming-soon" target="_blank"> Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a>
 
-</ul>
+
 
 <h3>Quote of the day :)</h3>
 <text
-	>A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-	—Kent Beck</text
+	>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+	—Alfred North Whitehead</text
 >
 
 <h3>Where to find me?</h3>
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-10-28 19:32:22</p>
+<p>Last updated: 2024-10-28 20:21:42</p>
