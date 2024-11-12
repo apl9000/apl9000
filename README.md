@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-	—Walt Whitman</text
+	>If you wish to make an apple pie from scratch you must first invent the universe.<br />
+	—Carl Sagan</text
 >
 
 <h3>Where to find me?</h3>
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-11-11 02:06:10</p>
+<p>Last updated: 2024-11-12 02:05:34</p>
