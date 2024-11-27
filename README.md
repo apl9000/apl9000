@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-	—Bjarne Stroustrup</text
+	>Syntactic sugar causes cancer of the semicolon.<br />
+	—Alan Perlis</text
 >
 
 <h3>Where to find me?</h3>
@@ -60,7 +60,7 @@
 		width="66"
 		src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
 	/>
-	<p>1.40CAD | 1.00USD</p>
+	<p>1.41CAD | 1.00USD</p>
 </div>
 <img
 	alt="Github profile views"
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-11-26 02:06:07</p>
+<p>Last updated: 2024-11-27 02:06:04</p>
