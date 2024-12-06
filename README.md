@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-	—Kent Beck</text
+	>If you wish to make an apple pie from scratch you must first invent the universe.<br />
+	—Carl Sagan</text
 >
 
 <h3>Where to find me?</h3>
@@ -60,7 +60,7 @@
 		width="66"
 		src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
 	/>
-	<p>1.41CAD | 1.00USD</p>
+	<p>1.40CAD | 1.00USD</p>
 </div>
 <img
 	alt="Github profile views"
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-12-05 02:06:05</p>
+<p>Last updated: 2024-12-06 02:06:06</p>
