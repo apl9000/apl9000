@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>If you wish to make an apple pie from scratch you must first invent the universe.<br />
-	—Carl Sagan</text
+	>What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
+	—Robert M. Pirsig</text
 >
 
 <h3>Where to find me?</h3>
@@ -60,7 +60,7 @@
 		width="66"
 		src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
 	/>
-	<p>1.40CAD | 1.00USD</p>
+	<p>1.41CAD | 1.00USD</p>
 </div>
 <img
 	alt="Github profile views"
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-12-06 02:06:06</p>
+<p>Last updated: 2024-12-07 02:05:35</p>
