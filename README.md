@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-	—Damian Conway</text
+	>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+	—Isaac Asimov</text
 >
 
 <h3>Where to find me?</h3>
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-12-22 02:05:24</p>
+<p>Last updated: 2024-12-23 02:05:55</p>
