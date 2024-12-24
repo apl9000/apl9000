@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-	—Isaac Asimov</text
+	>Syntactic sugar causes cancer of the semicolon.<br />
+	—Alan Perlis</text
 >
 
 <h3>Where to find me?</h3>
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2024-12-23 02:05:55</p>
+<p>Last updated: 2024-12-24 02:05:40</p>
