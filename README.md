@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
-	—Edsger W. Dijkstra</text
+	>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+	—Alfred North Whitehead</text
 >
 
 <h3>Where to find me?</h3>
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-01-03 02:05:34</p>
+<p>Last updated: 2025-01-04 02:05:05</p>
