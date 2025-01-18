@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Theory is good, but it doesn't prevent things from existing.<br />
-	—Jean-Martin Charcot</text
+	>Syntactic sugar causes cancer of the semicolon.<br />
+	—Alan Perlis</text
 >
 
 <h3>Where to find me?</h3>
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-01-17 02:05:38</p>
+<p>Last updated: 2025-01-18 02:05:08</p>
