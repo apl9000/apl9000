@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-	—Isaac Asimov</text
+	>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+	—Walt Whitman</text
 >
 
 <h3>Where to find me?</h3>
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-01-30 02:05:29</p>
+<p>Last updated: 2025-01-31 02:05:35</p>
