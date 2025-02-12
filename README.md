@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-	—Alfred North Whitehead</text
+	>Theory is good, but it doesn't prevent things from existing.<br />
+	—Jean-Martin Charcot</text
 >
 
 <h3>Where to find me?</h3>
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-02-11 02:05:51</p>
+<p>Last updated: 2025-02-12 02:05:40</p>
