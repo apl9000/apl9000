@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-	—Alfred North Whitehead</text
+	>If you wish to make an apple pie from scratch you must first invent the universe.<br />
+	—Carl Sagan</text
 >
 
 <h3>Where to find me?</h3>
@@ -60,7 +60,7 @@
 		width="66"
 		src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
 	/>
-	<p>1.43CAD | 1.00USD</p>
+	<p>1.42CAD | 1.00USD</p>
 </div>
 <img
 	alt="Github profile views"
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-02-13 02:05:44</p>
+<p>Last updated: 2025-02-14 02:05:40</p>
