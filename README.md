@@ -21,8 +21,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-	—Damian Conway</text
+	>Syntactic sugar causes cancer of the semicolon.<br />
+	—Alan Perlis</text
 >
 
 <h3>Where to find me?</h3>
@@ -70,4 +70,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-02-17 02:06:18</p>
+<p>Last updated: 2025-02-18 02:05:43</p>
