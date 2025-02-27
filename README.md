@@ -11,18 +11,22 @@
 	I'm <strong>Andrew</strong>, a seasoned software engineer with over a decade and counting of experience leading teams and bringing tech visions to life. When I'm not immersed in code, you might find me canoeing (touching grass), creating music, or painting—pursuits that keep me grounded and inspired.
 </p>
 <h3>Publications</h3>
-<p>Software engineering and such. Spilling the proverbial development beans—the good, the bad, and the buggy.</p>
+<p>I'm Andrew, a software engineer from Montreal, Canada. I have a decade of practical software development experience leading teams and bringing tech visions to life. When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook. 
+Currently leading the engineering team at Premiumbeat.com and incubating a couple of side projects. Stay tuned!</p>
 
 
-2024-10-28 <br />
+2025-02-26 <br />
+<a href="https://www.apl.directory/blog/fighting-entropy" target="_blank"> Fighting Entropy - The Software Developer's Struggle for Stability</a>
+
+2025-01-29 <br />
 <a href="https://www.apl.directory/blog/coming-soon" target="_blank"> Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a>
 
 
 
 <h3>Quote of the day :)</h3>
 <text
-	>To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-	—Kelly Ripley Feller</text
+	>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+	—Fred Brooks</text
 >
 
 <h3>Where to find me?</h3>
@@ -70,4 +74,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-02-26 02:06:03</p>
+<p>Last updated: 2025-02-27 02:06:02</p>
