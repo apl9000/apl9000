@@ -25,8 +25,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>If you wish to make an apple pie from scratch you must first invent the universe.<br />
-	—Carl Sagan</text
+	>Theory is good, but it doesn't prevent things from existing.<br />
+	—Jean-Martin Charcot</text
 >
 
 <h3>Where to find me?</h3>
@@ -74,4 +74,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-03-02 02:05:19</p>
+<p>Last updated: 2025-03-03 02:06:28</p>
