@@ -62,6 +62,14 @@ var QuotesData = Quotes{
 		Quote:  "Syntactic sugar causes cancer of the semicolon.",
 		Author: "Alan Perlis",
 	},
+	{
+		Quote:  "Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.",
+		Author: "James C. Scott",
+	},
+	{
+		Quote:  "Power is also like love, easier to experience than to define or measure, but no less real for that.",
+		Author: "Joseph Nye",
+	},
 }
 
 func GetRandomQuote() Quote {

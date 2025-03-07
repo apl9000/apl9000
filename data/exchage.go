@@ -24,11 +24,22 @@ type ExchangeRateResponse struct {
 type Rates struct {
 	USD string
 	CAD string
+	EUR string
+	GBP string
+	JPY string
+	MXN string
+	CNY string
+	INR string
+	AUD string
+	ZAR string
+	RUB string
+	BRL string
+	CHF string
 }
 
 func GetRates() Rates {
 	// https://www.exchangerate-api.com/docs/free
-	uri := "https://open.er-api.com/v6/latest/USD"
+	uri := "https://open.er-api.com/v6/latest/CAD"
 
 	response, err := http.Get(uri)
 	if err != nil {
@@ -50,7 +61,12 @@ func GetRates() Rates {
 	}
 
 	return Rates{
-		USD: fmt.Sprintf("%.2f", data.Rates["USD"]),
 		CAD: fmt.Sprintf("%.2f", data.Rates["CAD"]),
+		USD: fmt.Sprintf("%.2f", data.Rates["USD"]),
+		EUR: fmt.Sprintf("%.2f", data.Rates["EUR"]),
+		GBP: fmt.Sprintf("%.2f", data.Rates["GBP"]),
+		JPY: fmt.Sprintf("%.2f", data.Rates["JPY"]),
+		MXN: fmt.Sprintf("%.2f", data.Rates["MXN"]),
+		AUD: fmt.Sprintf("%.2f", data.Rates["AUD"]),
 	}
 }
