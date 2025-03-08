@@ -28,8 +28,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>Power is also like love, easier to experience than to define or measure, but no less real for that.<br />
-	—Joseph Nye</text
+	>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+	—Alfred North Whitehead</text
 >
 
 <h3>Where to find me?</h3>
@@ -92,7 +92,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>MXN</td>
-		<td>14.19</td>
+		<td>14.11</td>
 	</tr>
 	<tr>
 		<td>
@@ -103,7 +103,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>EUR</td>
-		<td>0.65</td>
+		<td>0.64</td>
 	</tr>
 	<tr>
 		<td>
@@ -136,7 +136,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>103.40</td>
+		<td>102.91</td>
 	</tr>
 </table>
 <br />
@@ -148,4 +148,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-03-07 13:12:00</p>
+<p>Last updated: 2025-03-08 02:05:06</p>
