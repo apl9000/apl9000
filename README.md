@@ -28,8 +28,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-	—Alfred North Whitehead</text
+	>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+	—Damian Conway</text
 >
 
 <h3>Where to find me?</h3>
@@ -136,7 +136,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>102.91</td>
+		<td>102.97</td>
 	</tr>
 </table>
 <br />
@@ -148,4 +148,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-03-08 02:05:06</p>
+<p>Last updated: 2025-03-09 03:05:09</p>
