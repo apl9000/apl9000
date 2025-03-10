@@ -7,17 +7,9 @@
 	/>
 	World
 </h3>
-<p>
-	I'm <strong>Andrew</strong>, a software engineer from Montreal, Canada with
-	over a decade and counting of experience leading teams and bringing tech
-	visions to life. When I'm not immersed in code, you might find me canoeing
-	(touching grass), creating music, or painting—pursuits that keep me grounded
-	and inspired.
-</p>
-<h3>Publications</h3>
 <p>I'm Andrew, a software engineer from Montreal, Canada. I have a decade of practical software development experience leading teams and bringing tech visions to life. When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook. 
 Currently leading the engineering team at Premiumbeat.com and incubating a couple of side projects. Stay tuned!</p>
-
+<h3>Publications</h3>
  
 2025-02-26 <br />
 <a href="https://www.apl.directory/blog/fighting-entropy" target="_blank"> Fighting Entropy - The Software Developer's Struggle for Stability</a>
@@ -25,13 +17,11 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 2025-01-29 <br />
 <a href="https://www.apl.directory/blog/coming-soon" target="_blank"> Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a>
 
-
 <h3>Quote of the day :)</h3>
 <text
-	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-	—Bjarne Stroustrup</text
+	>Theory is good, but it doesn't prevent things from existing.<br />
+	—Jean-Martin Charcot</text
 >
-
 <h3>Where to find me?</h3>
 <p>
 	<a href="https://linkedin.com/in/andrewpl" target="_blank"
@@ -39,27 +29,19 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			alt="LinkedIn"
 			src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"
 	/></a>
-	<a href="https://twitter.com/apl8080" target="_blank"
-		><img
-			alt="Twitter"
-			src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white"
-	/></a>
 	<a href="https://apl9000.substack.com" target="_blank"
 		><img
 			alt="Substack"
 			src="https://img.shields.io/badge/substack-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=orange"
 	/></a>
 </p>
-<img
-	src="https://github-readme-streak-stats.herokuapp.com/?user=apl9000&theme=dark&hide_border=true"
-	alt="GitHub Readme Streak Stats"
-/>
-<br />
+<h3>Exchange Rates</h3>
 <table>
 	<tr>
 		<th></th>
 		<th>Currency</th>
 		<th>Rate</th>
+		<!-- <th>YTD % Change </th> -->
 	</tr>
 	<tr>
 		<td>
@@ -148,4 +130,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-03-10 03:05:42</p>
+<p>Last updated: 2025-03-10 15:33:31</p>
