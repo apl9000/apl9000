@@ -19,8 +19,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-	—Alfred North Whitehead</text
+	>Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
+	—James C. Scott</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -118,7 +118,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>103.25</td>
+		<td>103.38</td>
 	</tr>
 </table>
 <br />
@@ -130,4 +130,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-03-16 03:05:34</p>
+<p>Last updated: 2025-03-17 03:06:20</p>
