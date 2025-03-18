@@ -19,8 +19,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
-	—James C. Scott</text
+	>Power is also like love, easier to experience than to define or measure, but no less real for that.<br />
+	—Joseph Nye</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -74,7 +74,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.87</td>
+		<td>13.94</td>
 	</tr>
 	<tr>
 		<td>
@@ -118,7 +118,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>103.38</td>
+		<td>104.15</td>
 	</tr>
 </table>
 <br />
@@ -130,4 +130,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-03-17 03:06:20</p>
+<p>Last updated: 2025-03-18 03:06:11</p>
