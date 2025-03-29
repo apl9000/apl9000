@@ -10,29 +10,24 @@
 <p>I'm Andrew, a software engineer from Montreal, Canada. I have a decade of practical software development experience leading teams and bringing tech visions to life. When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook. 
 Currently leading the engineering team at Premiumbeat.com and incubating a couple of side projects. Stay tuned!</p>
 <h3>Publications</h3>
- 
+
 2025-02-26 <br />
 <a href="https://www.apl.directory/blog/fighting-entropy" target="_blank"> Fighting Entropy - The Software Developer's Struggle for Stability</a>
- 
+
 2025-01-29 <br />
 <a href="https://www.apl.directory/blog/coming-soon" target="_blank"> Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a>
 
 <h3>Quote of the day :)</h3>
 <text
-	>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-	—Damian Conway</text
+	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+	—Bjarne Stroustrup</text
 >
 <h3>Where to find me?</h3>
 <p>
 	<a href="https://linkedin.com/in/andrewpl" target="_blank"
 		><img
 			alt="LinkedIn"
-			src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"
-	/></a>
-	<a href="https://apl9000.substack.com" target="_blank"
-		><img
-			alt="Substack"
-			src="https://img.shields.io/badge/substack-%2312100E.svg?&style=for-the-badge&logo=substack&logoColor=orange"
+			src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
 	/></a>
 </p>
 <h3>Exchange Rates</h3>
@@ -98,7 +93,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 		<td>GBP</td>
 		<td>0.54</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>
 			<img
 				alt="Australia Flag"
@@ -130,4 +125,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-03-28 03:06:28</p>
+<p>Last updated: 2025-03-28 20:25:23</p>
