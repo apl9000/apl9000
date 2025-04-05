@@ -19,8 +19,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-	—Kent Beck</text
+	>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+	—Alfred North Whitehead</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -58,7 +58,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>USD</td>
-		<td>0.71</td>
+		<td>0.70</td>
 	</tr>
 	<tr>
 		<td>
@@ -69,7 +69,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>MXN</td>
-		<td>14.17</td>
+		<td>14.36</td>
 	</tr>
 	<tr>
 		<td>
@@ -102,7 +102,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>AUD</td>
-		<td>1.12</td>
+		<td>1.16</td>
 	</tr>
 	<tr>
 		<td>
@@ -113,7 +113,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>103.74</td>
+		<td>103.10</td>
 	</tr>
 </table>
 <br />
@@ -125,4 +125,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-04-04 03:06:16</p>
+<p>Last updated: 2025-04-05 03:05:37</p>
