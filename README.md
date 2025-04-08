@@ -19,8 +19,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>Power is also like love, easier to experience than to define or measure, but no less real for that.<br />
-	—Joseph Nye</text
+	>If you wish to make an apple pie from scratch you must first invent the universe.<br />
+	—Carl Sagan</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -69,7 +69,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>MXN</td>
-		<td>14.44</td>
+		<td>14.54</td>
 	</tr>
 	<tr>
 		<td>
@@ -91,7 +91,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>GBP</td>
-		<td>0.54</td>
+		<td>0.55</td>
 	</tr>
 	<tr>
 		<td>
@@ -113,7 +113,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>102.11</td>
+		<td>103.61</td>
 	</tr>
 </table>
 <br />
@@ -125,4 +125,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-04-07 03:06:46</p>
+<p>Last updated: 2025-04-08 03:06:23</p>
