@@ -19,8 +19,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>If you wish to make an apple pie from scratch you must first invent the universe.<br />
-	—Carl Sagan</text
+	>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+	—Alfred North Whitehead</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -69,7 +69,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>MXN</td>
-		<td>14.62</td>
+		<td>14.48</td>
 	</tr>
 	<tr>
 		<td>
@@ -80,7 +80,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>EUR</td>
-		<td>0.64</td>
+		<td>0.63</td>
 	</tr>
 	<tr>
 		<td>
@@ -102,7 +102,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>AUD</td>
-		<td>1.15</td>
+		<td>1.14</td>
 	</tr>
 	<tr>
 		<td>
@@ -113,7 +113,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>103.60</td>
+		<td>103.11</td>
 	</tr>
 </table>
 <br />
@@ -125,4 +125,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-04-14 03:06:44</p>
+<p>Last updated: 2025-04-15 03:06:42</p>
