@@ -24,7 +24,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 >
 <h3>Where to find me?</h3>
 <p>
-	<a href="https://linkedin.com/in/andrewpl" target="_blank"
+	<a href="https://linkedin.com/in/andrewperks" target="_blank"
 		><img
 			alt="LinkedIn"
 			src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -125,4 +125,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-04-17 03:06:55</p>
+<p>Last updated: 2025-04-17 11:17:36</p>
