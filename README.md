@@ -19,8 +19,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
-	—Edsger W. Dijkstra</text
+	>A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+	—Kent Beck</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -69,7 +69,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>MXN</td>
-		<td>14.15</td>
+		<td>14.14</td>
 	</tr>
 	<tr>
 		<td>
@@ -80,7 +80,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>EUR</td>
-		<td>0.64</td>
+		<td>0.63</td>
 	</tr>
 	<tr>
 		<td>
@@ -113,7 +113,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>102.99</td>
+		<td>102.90</td>
 	</tr>
 </table>
 <br />
@@ -125,4 +125,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-04-24 03:06:53</p>
+<p>Last updated: 2025-04-25 03:06:29</p>
