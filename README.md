@@ -19,8 +19,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>Syntactic sugar causes cancer of the semicolon.<br />
-	—Alan Perlis</text
+	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+	—Bjarne Stroustrup</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -69,7 +69,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>MXN</td>
-		<td>14.13</td>
+		<td>14.14</td>
 	</tr>
 	<tr>
 		<td>
@@ -113,7 +113,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>103.06</td>
+		<td>102.85</td>
 	</tr>
 </table>
 <br />
@@ -125,4 +125,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-04-29 03:06:55</p>
+<p>Last updated: 2025-04-30 03:06:30</p>
