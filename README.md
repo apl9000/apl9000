@@ -19,8 +19,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
-	—James C. Scott</text
+	>Theory is good, but it doesn't prevent things from existing.<br />
+	—Jean-Martin Charcot</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -69,7 +69,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.99</td>
+		<td>13.98</td>
 	</tr>
 	<tr>
 		<td>
@@ -125,4 +125,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-05-10 03:05:27</p>
+<p>Last updated: 2025-05-11 03:05:34</p>
