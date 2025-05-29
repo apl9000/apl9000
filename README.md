@@ -19,8 +19,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-	—Walt Whitman</text
+	>To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
+	—Kelly Ripley Feller</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -58,7 +58,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>USD</td>
-		<td>0.73</td>
+		<td>0.72</td>
 	</tr>
 	<tr>
 		<td>
@@ -69,7 +69,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.96</td>
+		<td>13.98</td>
 	</tr>
 	<tr>
 		<td>
@@ -102,7 +102,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>AUD</td>
-		<td>1.13</td>
+		<td>1.12</td>
 	</tr>
 	<tr>
 		<td>
@@ -113,7 +113,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>104.50</td>
+		<td>104.82</td>
 	</tr>
 </table>
 <br />
@@ -125,4 +125,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-05-28 03:06:37</p>
+<p>Last updated: 2025-05-29 03:06:49</p>
