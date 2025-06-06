@@ -19,8 +19,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-	—Bjarne Stroustrup</text
+	>Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
+	—James C. Scott</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -102,7 +102,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>AUD</td>
-		<td>1.13</td>
+		<td>1.12</td>
 	</tr>
 	<tr>
 		<td>
@@ -113,7 +113,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>104.56</td>
+		<td>105.01</td>
 	</tr>
 </table>
 <br />
@@ -125,4 +125,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-06-05 03:06:42</p>
+<p>Last updated: 2025-06-06 03:06:33</p>
