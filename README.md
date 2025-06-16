@@ -19,8 +19,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-	—Bjarne Stroustrup</text
+	>Power is also like love, easier to experience than to define or measure, but no less real for that.<br />
+	—Joseph Nye</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -69,7 +69,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.95</td>
+		<td>13.94</td>
 	</tr>
 	<tr>
 		<td>
@@ -113,7 +113,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>105.94</td>
+		<td>106.32</td>
 	</tr>
 </table>
 <br />
@@ -125,4 +125,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-06-15 03:05:54</p>
+<p>Last updated: 2025-06-16 03:07:41</p>
