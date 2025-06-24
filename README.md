@@ -7,8 +7,7 @@
 	/>
 	World
 </h3>
-<p>I'm Andrew, a software engineer from Montreal, Canada. I have a decade of practical software development experience leading teams and bringing tech visions to life. When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook. 
-Currently leading the engineering team at Premiumbeat.com and incubating a couple of side projects. Stay tuned!</p>
+<p>I'm Andrew, an engineering leader from Montreal with a decade of experience building scalable software systems and leading high-performing teams. Currently Engineering Manager at PremiumBeat by Shutterstock, I've delivered product innovation across frontend, backend, and distributed systems. Passionate about early-stage teams, product-market fit, and building elegant, user-first technology. Open to senior IC or engineering leadership roles that offer autonomy, mentorship, and opportunities to build meaningful, high-impact technology.</p>
 <h3>Publications</h3>
 
 2025-02-26 <br />
@@ -19,8 +18,8 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 
 <h3>Quote of the day :)</h3>
 <text
-	>What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
-	—Robert M. Pirsig</text
+	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+	—Bjarne Stroustrup</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -69,7 +68,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.97</td>
+		<td>13.93</td>
 	</tr>
 	<tr>
 		<td>
@@ -113,7 +112,7 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 			/>
 		</td>
 		<td>JPY</td>
-		<td>106.34</td>
+		<td>106.49</td>
 	</tr>
 </table>
 <br />
@@ -125,4 +124,4 @@ Currently leading the engineering team at Premiumbeat.com and incubating a coupl
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-06-23 03:07:37</p>
+<p>Last updated: 2025-06-24 03:07:00</p>
