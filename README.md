@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-	—Bjarne Stroustrup</text
+	>If you wish to make an apple pie from scratch you must first invent the universe.<br />
+	—Carl Sagan</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.93</td>
+		<td>13.86</td>
 	</tr>
 	<tr>
 		<td>
@@ -101,7 +101,7 @@
 			/>
 		</td>
 		<td>AUD</td>
-		<td>1.13</td>
+		<td>1.12</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>106.49</td>
+		<td>105.58</td>
 	</tr>
 </table>
 <br />
@@ -124,4 +124,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-06-24 03:07:00</p>
+<p>Last updated: 2025-06-25 03:07:22</p>
