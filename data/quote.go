@@ -71,7 +71,7 @@ var QuotesData = Quotes{
 		Author: "Joseph Nye",
 	},
 	{
-		Quote: "The man who works so moderately as to be able to work constantly not only preserves his the longest, but, in the course of a year, executes the greatest quantity of work.",
+		Quote: "The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.",
 		Author: "Adam Smith",
 	},
 	{
