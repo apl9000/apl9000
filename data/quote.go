@@ -70,6 +70,14 @@ var QuotesData = Quotes{
 		Quote:  "Power is also like love, easier to experience than to define or measure, but no less real for that.",
 		Author: "Joseph Nye",
 	},
+	{
+		Quote: "The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.",
+		Author: "Adam Smith",
+	},
+	{
+		Quote:  "In the seen, only the seen. In the heard, only the heard. In the sensed, only the sensed. In the cognized, only the cognized. That is how you should train yourself. When for you, there will be only the seen in the seen...then there is no you in that. That is the end of suffering",
+		Author: "Buddha",
+	},
 }
 
 func GetRandomQuote() Quote {
