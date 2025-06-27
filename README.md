@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-	—Bjarne Stroustrup</text
+	>Power is also like love, easier to experience than to define or measure, but no less real for that.<br />
+	—Joseph Nye</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.81</td>
+		<td>13.83</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>105.82</td>
+		<td>105.80</td>
 	</tr>
 </table>
 <br />
@@ -124,4 +124,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-06-26 03:07:07</p>
+<p>Last updated: 2025-06-27 03:06:57</p>
