@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Power is also like love, easier to experience than to define or measure, but no less real for that.<br />
-	—Joseph Nye</text
+	>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+	—Alfred North Whitehead</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -117,11 +117,7 @@
 </table>
 <br />
 <img
-	alt="Github profile views"
-	src="https://pageview.vercel.app/?github_user=apl9000"
-/>
-<img
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-06-27 03:06:57</p>
+<p>Last updated: 2025-06-27 11:24:06</p>
