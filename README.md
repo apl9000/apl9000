@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-	—Alfred North Whitehead</text
+	>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+	—Walt Whitman</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.83</td>
+		<td>13.78</td>
 	</tr>
 	<tr>
 		<td>
@@ -79,7 +79,7 @@
 			/>
 		</td>
 		<td>EUR</td>
-		<td>0.63</td>
+		<td>0.62</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>105.80</td>
+		<td>105.78</td>
 	</tr>
 </table>
 <br />
@@ -120,4 +120,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-06-27 11:24:06</p>
+<p>Last updated: 2025-06-28 03:05:41</p>
