@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>105.78</td>
+		<td>105.80</td>
 	</tr>
 </table>
 <br />
@@ -120,4 +120,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-06-28 03:05:41</p>
+<p>Last updated: 2025-06-29 03:06:10</p>
