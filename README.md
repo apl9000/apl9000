@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Syntactic sugar causes cancer of the semicolon.<br />
-	—Alan Perlis</text
+	>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+	—Damian Conway</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.74</td>
+		<td>13.79</td>
 	</tr>
 	<tr>
 		<td>
@@ -90,7 +90,7 @@
 			/>
 		</td>
 		<td>GBP</td>
-		<td>0.53</td>
+		<td>0.54</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>105.14</td>
+		<td>105.55</td>
 	</tr>
 </table>
 <br />
@@ -120,4 +120,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-07-02 03:07:13</p>
+<p>Last updated: 2025-07-03 03:07:19</p>
