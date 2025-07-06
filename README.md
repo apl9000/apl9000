@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.<br />
-	—Adam Smith</text
+	>Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
+	—James C. Scott</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.70</td>
+		<td>13.71</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>106.24</td>
+		<td>106.25</td>
 	</tr>
 </table>
 <br />
@@ -120,4 +120,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-07-05 03:05:47</p>
+<p>Last updated: 2025-07-06 03:06:03</p>
