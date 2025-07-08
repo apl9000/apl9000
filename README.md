@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-	—Damian Conway</text
+	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+	—Bjarne Stroustrup</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -57,7 +57,7 @@
 			/>
 		</td>
 		<td>USD</td>
-		<td>0.74</td>
+		<td>0.73</td>
 	</tr>
 	<tr>
 		<td>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.69</td>
+		<td>13.66</td>
 	</tr>
 	<tr>
 		<td>
@@ -101,7 +101,7 @@
 			/>
 		</td>
 		<td>AUD</td>
-		<td>1.12</td>
+		<td>1.13</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>106.21</td>
+		<td>106.74</td>
 	</tr>
 </table>
 <br />
@@ -120,4 +120,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-07-07 03:07:44</p>
+<p>Last updated: 2025-07-08 03:07:16</p>
