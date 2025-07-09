@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-	—Bjarne Stroustrup</text
+	>A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+	—Kent Beck</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.66</td>
+		<td>13.64</td>
 	</tr>
 	<tr>
 		<td>
@@ -101,7 +101,7 @@
 			/>
 		</td>
 		<td>AUD</td>
-		<td>1.13</td>
+		<td>1.12</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>106.74</td>
+		<td>107.33</td>
 	</tr>
 </table>
 <br />
@@ -120,4 +120,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-07-08 03:07:16</p>
+<p>Last updated: 2025-07-09 03:07:38</p>
