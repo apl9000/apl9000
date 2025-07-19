@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.<br />
-	—Adam Smith</text
+	>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+	—Isaac Asimov</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.66</td>
+		<td>13.65</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>108.06</td>
+		<td>108.35</td>
 	</tr>
 </table>
 <br />
@@ -120,4 +120,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-07-18 03:09:02</p>
+<p>Last updated: 2025-07-19 03:06:19</p>
