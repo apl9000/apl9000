@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Theory is good, but it doesn't prevent things from existing.<br />
-	—Jean-Martin Charcot</text
+	>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+	—Isaac Asimov</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.61</td>
+		<td>13.55</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>107.70</td>
+		<td>107.80</td>
 	</tr>
 </table>
 <br />
@@ -120,4 +120,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-07-25 03:08:52</p>
+<p>Last updated: 2025-07-26 03:06:52</p>
