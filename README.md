@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-	—Isaac Asimov</text
+	>Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+	—Damian Conway</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.55</td>
+		<td>13.52</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>107.82</td>
+		<td>107.89</td>
 	</tr>
 </table>
 <br />
@@ -120,4 +120,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-07-27 03:06:39</p>
+<p>Last updated: 2025-07-28 03:10:21</p>
