@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Theory is good, but it doesn't prevent things from existing.<br />
-	—Jean-Martin Charcot</text
+	>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+	—Walt Whitman</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.64</td>
+		<td>13.63</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>108.10</td>
+		<td>107.89</td>
 	</tr>
 </table>
 <br />
@@ -120,4 +120,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-07-29 03:09:24</p>
+<p>Last updated: 2025-07-30 03:10:09</p>
