@@ -18,8 +18,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-	>Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-	—Walt Whitman</text
+	>Syntactic sugar causes cancer of the semicolon.<br />
+	—Alan Perlis</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -57,7 +57,7 @@
 			/>
 		</td>
 		<td>USD</td>
-		<td>0.73</td>
+		<td>0.72</td>
 	</tr>
 	<tr>
 		<td>
@@ -68,7 +68,7 @@
 			/>
 		</td>
 		<td>MXN</td>
-		<td>13.63</td>
+		<td>13.62</td>
 	</tr>
 	<tr>
 		<td>
@@ -112,7 +112,7 @@
 			/>
 		</td>
 		<td>JPY</td>
-		<td>107.89</td>
+		<td>107.91</td>
 	</tr>
 </table>
 <br />
@@ -120,4 +120,4 @@
 	alt="README Update"
 	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-07-30 03:10:09</p>
+<p>Last updated: 2025-07-31 03:09:13</p>
