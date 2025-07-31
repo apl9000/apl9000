@@ -78,6 +78,14 @@ var QuotesData = Quotes{
 		Quote:  "In the seen, only the seen. In the heard, only the heard. In the sensed, only the sensed. In the cognized, only the cognized. That is how you should train yourself. When for you, there will be only the seen in the seen...then there is no you in that. That is the end of suffering",
 		Author: "Buddha",
 	},
+	{
+		Quote:  "All we have to decide is what to do with the time that is given us.",
+		Author: "J.R.R. Tolkien",
+	},
+	{
+		Quote: "You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.",
+		Author: "Pablo Picasso",
+	}
 }
 
 func GetRandomQuote() Quote {
