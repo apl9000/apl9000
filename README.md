@@ -2,15 +2,15 @@
 <h3>Blog</h3>
  
 2025-02-26 <br />
-<a href="https://www.apl.directory/fighting-entropy" target="_blank">Fighting Entropy - The Software Developer's Struggle for Stability</a><br />
+<a href="https://www.apl.directory/blog/fighting-entropy" target="_blank">Fighting Entropy - The Software Developer's Struggle for Stability</a><br />
  
 2025-01-29 <br />
-<a href="https://www.apl.directory/coming-soon" target="_blank">Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a><br />
+<a href="https://www.apl.directory/blog/coming-soon" target="_blank">Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a><br />
 
 <h3>Quote of the day :)</h3>
 <text
-  >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-  —Alfred North Whitehead</text
+  >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+  —Edsger W. Dijkstra</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-08-04 14:39:14</p>
+<p>Last updated: 2025-08-04 15:14:26</p>
