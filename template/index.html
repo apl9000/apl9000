@@ -1,120 +1,109 @@
-<h3>
-	<img
-		src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp"
-		alt="Waving Hand"
-		width="24"
-		height="24"
-	/>
-	World
-</h3>
 <p>{{.Website.Description}}</p>
-<h3>Publications</h3>
-{{range .Website.BlogPosts}}
+<h3>Blog</h3>
+{{ range .Website.BlogPosts }} 
 {{ .PubDate }} <br />
-<a href="{{ .Link }}" target="_blank"> {{ .Title }} - {{ .Description }}</a>
+<a href="{{$.Website.Url}}{{ .Slug }}" target="_blank">{{ .Title }} - {{ .Summary }}</a><br />
 {{end}}
 <h3>Quote of the day :)</h3>
 <text
-	>{{ .Quote.Quote }}<br />
-	—{{ .Quote.Author }}</text
+  >{{ .Quote.Quote }}<br />
+  —{{ .Quote.Author }}</text
 >
 <h3>Where to find me?</h3>
 <p>
-	<a href="https://linkedin.com/in/andrewperks" target="_blank"
-		><img
-			alt="LinkedIn"
-			src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-	/></a>
+  {{ range .Website.Socials }}
+  <a href="{{ .Href }}" target="_blank">{{ .Name }}</a><br />
+  {{ end }}
 </p>
 <h3>Exchange Rates</h3>
 <table>
-	<tr>
-		<th></th>
-		<th>Currency</th>
-		<th>Rate</th>
-		<!-- <th>YTD % Change </th> -->
-	</tr>
-	<tr>
-		<td>
-			<img
-				alt="Canada Flag"
-				width="68"
-				src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
-			/>
-		</td>
-		<td>CAD</td>
-		<td>{{ .Rates.CAD }}</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				alt="US Flag"
-				width="66"
-				src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
-			/>
-		</td>
-		<td>USD</td>
-		<td>{{ .Rates.USD }}</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				alt="Mexico Flag"
-				width="66"
-				src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png"
-			/>
-		</td>
-		<td>MXN</td>
-		<td>{{ .Rates.MXN }}</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				alt="Euro Flag"
-				width="66"
-				src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/2560px-Flag_of_Europe.svg.png"
-			/>
-		</td>
-		<td>EUR</td>
-		<td>{{ .Rates.EUR }}</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				alt="UK Flag"
-				width="66"
-				src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png"
-			/>
-		</td>
-		<td>GBP</td>
-		<td>{{ .Rates.GBP }}</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				alt="Australia Flag"
-				width="66"
-				src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/2560px-Flag_of_Australia_%28converted%29.svg.png"
-			/>
-		</td>
-		<td>AUD</td>
-		<td>{{ .Rates.AUD }}</td>
-	</tr>
-	<tr>
-		<td>
-			<img
-				alt="Japan Flag"
-				width="66"
-				src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1920px-Flag_of_Japan.svg.png"
-			/>
-		</td>
-		<td>JPY</td>
-		<td>{{ .Rates.JPY }}</td>
-	</tr>
+  <tr>
+    <th></th>
+    <th>Currency</th>
+    <th>Rate</th>
+    <!-- <th>YTD % Change </th> -->
+  </tr>
+  <tr>
+    <td>
+      <img
+        alt="Canada Flag"
+        width="68"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
+      />
+    </td>
+    <td>CAD</td>
+    <td>{{ .Rates.CAD }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        alt="US Flag"
+        width="66"
+        src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
+      />
+    </td>
+    <td>USD</td>
+    <td>{{ .Rates.USD }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        alt="Mexico Flag"
+        width="66"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png"
+      />
+    </td>
+    <td>MXN</td>
+    <td>{{ .Rates.MXN }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        alt="Euro Flag"
+        width="66"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/2560px-Flag_of_Europe.svg.png"
+      />
+    </td>
+    <td>EUR</td>
+    <td>{{ .Rates.EUR }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        alt="UK Flag"
+        width="66"
+        src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png"
+      />
+    </td>
+    <td>GBP</td>
+    <td>{{ .Rates.GBP }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        alt="Australia Flag"
+        width="66"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/2560px-Flag_of_Australia_%28converted%29.svg.png"
+      />
+    </td>
+    <td>AUD</td>
+    <td>{{ .Rates.AUD }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img
+        alt="Japan Flag"
+        width="66"
+        src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1920px-Flag_of_Japan.svg.png"
+      />
+    </td>
+    <td>JPY</td>
+    <td>{{ .Rates.JPY }}</td>
+  </tr>
 </table>
 <br />
 <img
-	alt="README Update"
-	src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
+  alt="README Update"
+  src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
 <p>Last updated: {{ .Timestamp }}</p>
