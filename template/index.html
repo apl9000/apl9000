@@ -2,7 +2,7 @@
 <h3>Blog</h3>
 {{ range .Website.BlogPosts }} 
 {{ .PubDate }} <br />
-<a href="{{$.Website.Url}}{{ .Slug }}" target="_blank">{{ .Title }} - {{ .Summary }}</a><br />
+<a href="{{$.Website.Url}}blog/{{ .Slug }}" target="_blank">{{ .Title }} - {{ .Summary }}</a><br />
 {{end}}
 <h3>Quote of the day :)</h3>
 <text
