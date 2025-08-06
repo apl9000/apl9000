@@ -63,7 +63,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.71</td>
+    <td>13.64</td>
   </tr>
   <tr>
     <td>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.80</td>
+    <td>107.10</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-08-05 03:10:20</p>
+<p>Last updated: 2025-08-06 03:10:33</p>
