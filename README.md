@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >Syntactic sugar causes cancer of the semicolon.<br />
-  —Alan Perlis</text
+  >All we have to decide is what to do with the time that is given us.<br />
+  —J.R.R. Tolkien</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -85,7 +85,7 @@
       />
     </td>
     <td>GBP</td>
-    <td>0.55</td>
+    <td>0.54</td>
   </tr>
   <tr>
     <td>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>107.17</td>
+    <td>107.08</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-08-07 03:10:29</p>
+<p>Last updated: 2025-08-08 03:10:32</p>
