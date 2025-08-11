@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >Theory is good, but it doesn't prevent things from existing.<br />
-  —Jean-Martin Charcot</text
+  >In the seen, only the seen. In the heard, only the heard. In the sensed, only the sensed. In the cognized, only the cognized. That is how you should train yourself. When for you, there will be only the seen in the seen...then there is no you in that. That is the end of suffering<br />
+  —Buddha</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>107.43</td>
+    <td>107.40</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-08-10 03:06:03</p>
+<p>Last updated: 2025-08-11 03:10:01</p>
