@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >In the seen, only the seen. In the heard, only the heard. In the sensed, only the sensed. In the cognized, only the cognized. That is how you should train yourself. When for you, there will be only the seen in the seen...then there is no you in that. That is the end of suffering<br />
-  —Buddha</text
+  >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+  —Edsger W. Dijkstra</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -63,7 +63,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.52</td>
+    <td>13.54</td>
   </tr>
   <tr>
     <td>
@@ -96,7 +96,7 @@
       />
     </td>
     <td>AUD</td>
-    <td>1.12</td>
+    <td>1.11</td>
   </tr>
   <tr>
     <td>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>107.40</td>
+    <td>107.47</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-08-11 03:10:01</p>
+<p>Last updated: 2025-08-12 03:07:20</p>
