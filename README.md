@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-  —Damian Conway</text
+  >In the seen, only the seen. In the heard, only the heard. In the sensed, only the sensed. In the cognized, only the cognized. That is how you should train yourself. When for you, there will be only the seen in the seen...then there is no you in that. That is the end of suffering<br />
+  —Buddha</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -63,7 +63,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.57</td>
+    <td>13.55</td>
   </tr>
   <tr>
     <td>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.50</td>
+    <td>106.60</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-08-17 03:06:05</p>
+<p>Last updated: 2025-08-18 03:08:51</p>
