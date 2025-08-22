@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >All we have to decide is what to do with the time that is given us.<br />
-  —J.R.R. Tolkien</text
+  >If you wish to make an apple pie from scratch you must first invent the universe.<br />
+  —Carl Sagan</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -63,7 +63,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.53</td>
+    <td>13.49</td>
   </tr>
   <tr>
     <td>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.22</td>
+    <td>106.62</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-08-21 03:08:44</p>
+<p>Last updated: 2025-08-22 03:06:34</p>
