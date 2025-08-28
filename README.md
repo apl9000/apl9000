@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >Syntactic sugar causes cancer of the semicolon.<br />
-  —Alan Perlis</text
+  >Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
+  —James C. Scott</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -63,7 +63,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.49</td>
+    <td>13.53</td>
   </tr>
   <tr>
     <td>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.54</td>
+    <td>106.86</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-08-27 03:06:29</p>
+<p>Last updated: 2025-08-28 03:06:24</p>
