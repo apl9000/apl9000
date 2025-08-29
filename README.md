@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
-  —James C. Scott</text
+  >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+  —Fred Brooks</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -52,7 +52,7 @@
       />
     </td>
     <td>USD</td>
-    <td>0.72</td>
+    <td>0.73</td>
   </tr>
   <tr>
     <td>
@@ -63,7 +63,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.53</td>
+    <td>13.56</td>
   </tr>
   <tr>
     <td>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.86</td>
+    <td>106.81</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-08-28 03:06:24</p>
+<p>Last updated: 2025-08-29 03:06:23</p>
