@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-  —Kent Beck</text
+  >You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.<br />
+  —Pablo Picasso</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.97</td>
+    <td>107.08</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-08-31 03:05:53</p>
+<p>Last updated: 2025-09-01 03:06:52</p>
