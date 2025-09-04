@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
-  —Fred Brooks</text
+  >If you wish to make an apple pie from scratch you must first invent the universe.<br />
+  —Carl Sagan</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -52,7 +52,7 @@
       />
     </td>
     <td>USD</td>
-    <td>0.73</td>
+    <td>0.72</td>
   </tr>
   <tr>
     <td>
@@ -63,7 +63,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.59</td>
+    <td>13.56</td>
   </tr>
   <tr>
     <td>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>107.69</td>
+    <td>107.40</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-03 03:06:04</p>
+<p>Last updated: 2025-09-04 03:06:17</p>
