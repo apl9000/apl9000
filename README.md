@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >Theory is good, but it doesn't prevent things from existing.<br />
-  —Jean-Martin Charcot</text
+  >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+  —Edsger W. Dijkstra</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -63,7 +63,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.46</td>
+    <td>13.42</td>
   </tr>
   <tr>
     <td>
@@ -96,7 +96,7 @@
       />
     </td>
     <td>AUD</td>
-    <td>1.10</td>
+    <td>1.09</td>
   </tr>
   <tr>
     <td>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.42</td>
+    <td>106.35</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-10 03:06:32</p>
+<p>Last updated: 2025-09-11 03:06:41</p>
