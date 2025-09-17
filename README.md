@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-  —Walt Whitman</text
+  >Theory is good, but it doesn't prevent things from existing.<br />
+  —Jean-Martin Charcot</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -52,7 +52,7 @@
       />
     </td>
     <td>USD</td>
-    <td>0.72</td>
+    <td>0.73</td>
   </tr>
   <tr>
     <td>
@@ -74,7 +74,7 @@
       />
     </td>
     <td>EUR</td>
-    <td>0.62</td>
+    <td>0.61</td>
   </tr>
   <tr>
     <td>
@@ -107,7 +107,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.84</td>
+    <td>106.66</td>
   </tr>
 </table>
 <br />
@@ -115,4 +115,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-16 03:07:07</p>
+<p>Last updated: 2025-09-17 03:06:13</p>
