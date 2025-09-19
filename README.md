@@ -1,4 +1,4 @@
-<p>Hello World!<br/> I'm <strong>Andrew</strong>, an engineer from <i>Montreal, Canada</i>. I have a decade of hands-on software development experience, leading teams and bringing product visions to life. When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook.</p>
+<p></p>
 <h3>Blog</h3>
  
 2025-02-26 <br />
@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >In the seen, only the seen. In the heard, only the heard. In the sensed, only the sensed. In the cognized, only the cognized. That is how you should train yourself. When for you, there will be only the seen in the seen...then there is no you in that. That is the end of suffering<br />
-  —Buddha</text
+  >You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.<br />
+  —Pablo Picasso</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -18,8 +18,6 @@
   <a href="https://www.linkedin.com/in/andrewperks" target="_blank">linkedin</a><br />
   
   <a href="https://github.com/apl9000" target="_blank">github</a><br />
-  
-  <a href="https://x.com/apl8080" target="_blank">x</a><br />
   
   <a href="mailto:ceo@apl.directory" target="_blank">email</a><br />
   
@@ -63,7 +61,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.30</td>
+    <td>13.31</td>
   </tr>
   <tr>
     <td>
@@ -107,7 +105,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.55</td>
+    <td>107.16</td>
   </tr>
 </table>
 <br />
@@ -115,4 +113,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-18 03:06:20</p>
+<p>Last updated: 2025-09-19 03:06:36</p>
