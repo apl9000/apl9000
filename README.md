@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.<br />
-  —Pablo Picasso</text
+  >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+  —Kent Beck</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -61,7 +61,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.31</td>
+    <td>13.35</td>
   </tr>
   <tr>
     <td>
@@ -72,7 +72,7 @@
       />
     </td>
     <td>EUR</td>
-    <td>0.61</td>
+    <td>0.62</td>
   </tr>
   <tr>
     <td>
@@ -83,7 +83,7 @@
       />
     </td>
     <td>GBP</td>
-    <td>0.53</td>
+    <td>0.54</td>
   </tr>
   <tr>
     <td>
@@ -94,7 +94,7 @@
       />
     </td>
     <td>AUD</td>
-    <td>1.09</td>
+    <td>1.10</td>
   </tr>
   <tr>
     <td>
@@ -105,7 +105,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>107.16</td>
+    <td>107.30</td>
   </tr>
 </table>
 <br />
@@ -113,4 +113,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-19 03:06:36</p>
+<p>Last updated: 2025-09-20 03:05:22</p>
