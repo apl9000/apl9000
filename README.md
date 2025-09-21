@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-  —Kent Beck</text
+  >The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.<br />
+  —Adam Smith</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -61,7 +61,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.35</td>
+    <td>13.34</td>
   </tr>
   <tr>
     <td>
@@ -105,7 +105,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>107.30</td>
+    <td>107.28</td>
   </tr>
 </table>
 <br />
@@ -113,4 +113,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-20 03:05:22</p>
+<p>Last updated: 2025-09-21 03:05:40</p>
