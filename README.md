@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-  —Kent Beck</text
+  >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+  —Alfred North Whitehead</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -50,7 +50,7 @@
       />
     </td>
     <td>USD</td>
-    <td>0.73</td>
+    <td>0.72</td>
   </tr>
   <tr>
     <td>
@@ -61,7 +61,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.36</td>
+    <td>13.30</td>
   </tr>
   <tr>
     <td>
@@ -72,7 +72,7 @@
       />
     </td>
     <td>EUR</td>
-    <td>0.62</td>
+    <td>0.61</td>
   </tr>
   <tr>
     <td>
@@ -105,7 +105,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>107.39</td>
+    <td>106.93</td>
   </tr>
 </table>
 <br />
@@ -113,4 +113,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-22 03:07:05</p>
+<p>Last updated: 2025-09-23 03:06:48</p>
