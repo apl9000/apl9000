@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-  —Alfred North Whitehead</text
+  >Theory is good, but it doesn't prevent things from existing.<br />
+  —Jean-Martin Charcot</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -61,7 +61,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.30</td>
+    <td>13.26</td>
   </tr>
   <tr>
     <td>
@@ -83,7 +83,7 @@
       />
     </td>
     <td>GBP</td>
-    <td>0.54</td>
+    <td>0.53</td>
   </tr>
   <tr>
     <td>
@@ -105,7 +105,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.93</td>
+    <td>106.77</td>
   </tr>
 </table>
 <br />
@@ -113,4 +113,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-23 03:06:48</p>
+<p>Last updated: 2025-09-24 03:06:43</p>
