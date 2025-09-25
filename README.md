@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >Theory is good, but it doesn't prevent things from existing.<br />
-  —Jean-Martin Charcot</text
+  >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+  —Kent Beck</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -83,7 +83,7 @@
       />
     </td>
     <td>GBP</td>
-    <td>0.53</td>
+    <td>0.54</td>
   </tr>
   <tr>
     <td>
@@ -94,7 +94,7 @@
       />
     </td>
     <td>AUD</td>
-    <td>1.10</td>
+    <td>1.09</td>
   </tr>
   <tr>
     <td>
@@ -105,7 +105,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.77</td>
+    <td>107.04</td>
   </tr>
 </table>
 <br />
@@ -113,4 +113,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-24 03:06:43</p>
+<p>Last updated: 2025-09-25 03:06:51</p>
