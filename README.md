@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
-  —Kent Beck</text
+  >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+  —Fred Brooks</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -94,7 +94,7 @@
       />
     </td>
     <td>AUD</td>
-    <td>1.09</td>
+    <td>1.10</td>
   </tr>
   <tr>
     <td>
@@ -105,7 +105,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>107.04</td>
+    <td>107.38</td>
   </tr>
 </table>
 <br />
@@ -113,4 +113,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-25 03:06:51</p>
+<p>Last updated: 2025-09-26 03:06:38</p>
