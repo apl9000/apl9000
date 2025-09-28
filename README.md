@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-  —Alfred North Whitehead</text
+  >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+  —Edsger W. Dijkstra</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -105,7 +105,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>107.29</td>
+    <td>107.30</td>
   </tr>
 </table>
 <br />
@@ -113,4 +113,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-27 03:05:42</p>
+<p>Last updated: 2025-09-28 03:05:49</p>
