@@ -1,16 +1,26 @@
-<p></p>
+
+<p>Hello World! I'm Andrew, a software developer from Montreal, Canada.</p>
+
+<p>I’ve helped build and scale products at <a href="https://www.shutterstock.com" target="_blank">Shutterstock</a> (<a href="https://www.premiumbeat.com" target="_blank">PremiumBeat</a>), <a href="https://www.ssense.com" target="_blank">SSENSE</a>, and <a href="https://www.peoplelikeus.ca" target="_blank">People Like Us</a>.</p>
+
+<p>For more than a decade, I’ve combined technical expertise with leadership to bring ambitious product ideas to life.</p>
+
+<p> When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook.</p>
+
 <h3>Blog</h3>
- 
-2025-02-26 <br />
-<a href="https://www.apl.directory/blog/fighting-entropy" target="_blank">Fighting Entropy - The Software Developer's Struggle for Stability</a><br />
- 
-2025-01-29 <br />
-<a href="https://www.apl.directory/blog/coming-soon" target="_blank">Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a><br />
+ 2025-02-26 <br />
+<a href="https://www.apl.directory/blog/fighting-entropy" target="_blank"
+  >Fighting Entropy - The Software Developer's Struggle for Stability</a
+><br />
+ 2025-01-29 <br />
+<a href="https://www.apl.directory/blog/coming-soon" target="_blank"
+  >Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a
+><br />
 
 <h3>Quote of the day :)</h3>
 <text
-  >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-  —Kelly Ripley Feller</text
+  >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+  —Damian Conway</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -113,4 +123,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-29 03:07:01</p>
+<p>Last updated: 2025-09-29 17:59:30</p>
