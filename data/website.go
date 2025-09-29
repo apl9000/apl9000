@@ -3,8 +3,7 @@ package data
 import (
 	"fmt"
 	"time"
-) 
-
+)
 
 type WebsiteResponseData struct {
 	Metadata Metadata `json:"metadata"`
@@ -12,10 +11,10 @@ type WebsiteResponseData struct {
 }
 
 type Metadata struct {
-	Url    string `json:"url"`
-	Title  string `json:"title"`
-	Description string `json:"descriptionHtml"`
-	Socials []Social `json:"socials"`
+	Url         string   `json:"url"`
+	Title       string   `json:"title"`
+	Description []string `json:"description"`
+	Socials     []Social `json:"socials"`
 }
 
 type Social struct {
@@ -24,22 +23,22 @@ type Social struct {
 }
 
 type Blog struct {
-	Posts []BlogPost `json:"posts"`
-	Description string `json:"description"`
+	Posts       []BlogPost `json:"posts"`
+	Description string     `json:"description"`
 }
 
 type BlogPost struct {
-	Title       string `json:"title"`
-	Summary 		string `json:"summary"`
-	Slug        string `json:"slug"`
-	PubDate     string `json:"publishedAt"`
+	Title   string `json:"title"`
+	Summary string `json:"summary"`
+	Slug    string `json:"slug"`
+	PubDate string `json:"publishedAt"`
 }
 
 type Website struct {
 	Title       string
-	Description string
-	Url        string
-	Socials    []Social
+	Description []string
+	Url         string
+	Socials     []Social
 	BlogPosts   []BlogPost
 }
 
@@ -60,7 +59,7 @@ func parseDate(dateString string) string {
 func GetWebsiteData() Website {
 	url := "https://www.apl.directory/api"
 
- 	response, err := MakeRequest(url, &WebsiteResponseData{})
+	response, err := MakeRequest(url, &WebsiteResponseData{})
 
 	if err != nil {
 		fmt.Println("Error fetching website data:", err)
@@ -77,8 +76,8 @@ func GetWebsiteData() Website {
 	return Website{
 		Title:       data.Metadata.Title,
 		Description: data.Metadata.Description,
-		Url:        data.Metadata.Url,
-		Socials:    data.Metadata.Socials,
+		Url:         data.Metadata.Url,
+		Socials:     data.Metadata.Socials,
 		BlogPosts:   posts,
 	}
 }
