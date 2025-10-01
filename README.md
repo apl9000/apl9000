@@ -19,8 +19,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.<br />
-  —Adam Smith</text
+  >All we have to decide is what to do with the time that is given us.<br />
+  —J.R.R. Tolkien</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -71,7 +71,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.19</td>
+    <td>13.16</td>
   </tr>
   <tr>
     <td>
@@ -115,7 +115,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.77</td>
+    <td>106.30</td>
   </tr>
 </table>
 <br />
@@ -123,4 +123,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-09-30 03:06:53</p>
+<p>Last updated: 2025-10-01 03:06:41</p>
