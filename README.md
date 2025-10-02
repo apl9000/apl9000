@@ -19,8 +19,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >All we have to decide is what to do with the time that is given us.<br />
-  —J.R.R. Tolkien</text
+  >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+  —Fred Brooks</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -71,7 +71,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.16</td>
+    <td>13.17</td>
   </tr>
   <tr>
     <td>
@@ -115,7 +115,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>106.30</td>
+    <td>105.54</td>
   </tr>
 </table>
 <br />
@@ -123,4 +123,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-01 03:06:41</p>
+<p>Last updated: 2025-10-02 03:06:15</p>
