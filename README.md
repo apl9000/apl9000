@@ -19,8 +19,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >What's new? is an interesting and broadening eternal question, but one which, if pursued exclusively, results only in an endless parade of trivia and fashion, the silt of tomorrow. I would like, instead, to be concerned with the question 'What is best?', a question which cuts deeply rather than broadly, a question whose answers tend to move the silt downstream.<br />
-  —Robert M. Pirsig</text
+  >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+  —Kent Beck</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -115,7 +115,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>105.64</td>
+    <td>105.62</td>
   </tr>
 </table>
 <br />
@@ -123,4 +123,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-04 03:05:28</p>
+<p>Last updated: 2025-10-05 03:05:46</p>
