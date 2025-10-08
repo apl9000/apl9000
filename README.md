@@ -8,23 +8,29 @@
 <p> When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook.</p>
 
 <h3>Blog</h3>
- 2025-02-26 <br />
-<a href="https://www.apl.directory/blog/fighting-entropy" target="_blank"
-  >Fighting Entropy - The Software Developer's Struggle for Stability</a
-><br />
- 2025-01-29 <br />
-<a href="https://www.apl.directory/blog/coming-soon" target="_blank"
-  >Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a
-><br />
- 2025-10-07 <br />
-<a href="https://www.apl.directory/blog/beyond-the-ai-vibe" target="_blank"
-  >Beyond the AI Vibe: Shipping Value Over Hype - Amid the AI buzz, value still comes from understanding customers, not generating more code.</a
-><br />
+ 2025-10-07
+<br />
+<a href="https://www.apl.directory/blog/beyond-the-ai-vibe" target="_blank">
+Beyond the AI Vibe: Shipping Value Over Hype - Amid the AI buzz, value still comes from understanding customers, not generating more code.</a>
+<br />
+<br />
+ 2025-02-26
+<br />
+<a href="https://www.apl.directory/blog/fighting-entropy" target="_blank">
+Fighting Entropy - The Software Developer's Struggle for Stability</a>
+<br />
+<br />
+ 2025-01-29
+<br />
+<a href="https://www.apl.directory/blog/coming-soon" target="_blank">
+Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a>
+<br />
+<br />
 
 <h3>Quote of the day :)</h3>
 <text
-  >In the seen, only the seen. In the heard, only the heard. In the sensed, only the sensed. In the cognized, only the cognized. That is how you should train yourself. When for you, there will be only the seen in the seen...then there is no you in that. That is the end of suffering<br />
-  —Buddha</text
+  >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+  —Damian Conway</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -127,4 +133,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-08 03:06:14</p>
+<p>Last updated: 2025-10-08 08:08:18</p>
