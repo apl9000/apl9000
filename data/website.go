@@ -67,11 +67,7 @@ func GetWebsiteData() Website {
 	}
 	data := response.(*WebsiteResponseData)
 
-	// Reverse the order of blog posts
 	posts := data.Blog.Posts
-	for i, j := 0, len(posts)-1; i < j; i, j = i+1, j-1 {
-		posts[i], posts[j] = posts[j], posts[i]
-	}
 
 	return Website{
 		Title:       data.Metadata.Title,
