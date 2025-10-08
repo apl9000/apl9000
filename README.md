@@ -16,11 +16,15 @@
 <a href="https://www.apl.directory/blog/coming-soon" target="_blank"
   >Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a
 ><br />
+ 2025-10-07 <br />
+<a href="https://www.apl.directory/blog/beyond-the-ai-vibe" target="_blank"
+  >Beyond the AI Vibe: Shipping Value Over Hype - Amid the AI buzz, value still comes from understanding customers, not generating more code.</a
+><br />
 
 <h3>Quote of the day :)</h3>
 <text
-  >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-  —Alfred North Whitehead</text
+  >In the seen, only the seen. In the heard, only the heard. In the sensed, only the sensed. In the cognized, only the cognized. That is how you should train yourself. When for you, there will be only the seen in the seen...then there is no you in that. That is the end of suffering<br />
+  —Buddha</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -71,7 +75,7 @@
       />
     </td>
     <td>MXN</td>
-    <td>13.16</td>
+    <td>13.18</td>
   </tr>
   <tr>
     <td>
@@ -104,7 +108,7 @@
       />
     </td>
     <td>AUD</td>
-    <td>1.08</td>
+    <td>1.09</td>
   </tr>
   <tr>
     <td>
@@ -115,7 +119,7 @@
       />
     </td>
     <td>JPY</td>
-    <td>107.68</td>
+    <td>108.55</td>
   </tr>
 </table>
 <br />
@@ -123,4 +127,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-07 03:06:57</p>
+<p>Last updated: 2025-10-08 03:06:14</p>
