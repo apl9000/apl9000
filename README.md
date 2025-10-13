@@ -29,8 +29,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-  —Bjarne Stroustrup</text
+  >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+  —Damian Conway</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -81,7 +81,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>13.23</td>
+    <td>13.22</td>
   </tr>
   <tr>
     <td>
@@ -114,7 +114,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>AUD</td>
-    <td>1.09</td>
+    <td>1.10</td>
   </tr>
   <tr>
     <td>
@@ -125,7 +125,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>108.54</td>
+    <td>108.61</td>
   </tr>
 </table>
 <br />
@@ -133,4 +133,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-12 03:05:55</p>
+<p>Last updated: 2025-10-13 03:07:06</p>
