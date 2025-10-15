@@ -29,8 +29,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.<br />
-  —Pablo Picasso</text
+  >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
+  —Edsger W. Dijkstra</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -81,7 +81,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>13.17</td>
+    <td>13.18</td>
   </tr>
   <tr>
     <td>
@@ -92,7 +92,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>EUR</td>
-    <td>0.62</td>
+    <td>0.61</td>
   </tr>
   <tr>
     <td>
@@ -114,7 +114,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>AUD</td>
-    <td>1.09</td>
+    <td>1.10</td>
   </tr>
   <tr>
     <td>
@@ -125,7 +125,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>108.56</td>
+    <td>108.11</td>
   </tr>
 </table>
 <br />
@@ -133,4 +133,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-14 03:06:49</p>
+<p>Last updated: 2025-10-15 03:06:50</p>
