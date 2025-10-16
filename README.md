@@ -29,8 +29,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
-  —Edsger W. Dijkstra</text
+  >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+  —Damian Conway</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -81,7 +81,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>13.18</td>
+    <td>13.15</td>
   </tr>
   <tr>
     <td>
@@ -114,7 +114,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>AUD</td>
-    <td>1.10</td>
+    <td>1.09</td>
   </tr>
   <tr>
     <td>
@@ -125,7 +125,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>108.11</td>
+    <td>107.64</td>
   </tr>
 </table>
 <br />
@@ -133,4 +133,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-15 03:06:50</p>
+<p>Last updated: 2025-10-16 03:06:53</p>
