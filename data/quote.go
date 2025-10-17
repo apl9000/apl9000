@@ -86,6 +86,10 @@ var QuotesData = Quotes{
 		Quote: "You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.",
 		Author: "Pablo Picasso",
 	},
+	{
+		Quote: "The numbers have no way of speaking for themselves. We speak for them. We imbue them with meaning.",
+		Author: "Nate Silver",
+	},
 }
 
 func GetRandomQuote() Quote {
