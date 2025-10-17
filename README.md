@@ -29,8 +29,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >All we have to decide is what to do with the time that is given us.<br />
-  —J.R.R. Tolkien</text
+  >In the seen, only the seen. In the heard, only the heard. In the sensed, only the sensed. In the cognized, only the cognized. That is how you should train yourself. When for you, there will be only the seen in the seen...then there is no you in that. That is the end of suffering<br />
+  —Buddha</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -133,4 +133,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-17 03:06:46</p>
+<p>Last updated: 2025-10-17 11:03:33</p>
