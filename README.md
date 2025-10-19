@@ -29,8 +29,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >All we have to decide is what to do with the time that is given us.<br />
-  —J.R.R. Tolkien</text
+  >Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
+  —James C. Scott</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -125,7 +125,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>107.30</td>
+    <td>107.29</td>
   </tr>
 </table>
 <br />
@@ -133,4 +133,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-18 03:06:01</p>
+<p>Last updated: 2025-10-19 03:05:46</p>
