@@ -29,8 +29,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >If you wish to make an apple pie from scratch you must first invent the universe.<br />
-  —Carl Sagan</text
+  >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+  —Alfred North Whitehead</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -133,4 +133,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-22 03:07:00</p>
+<p>Last updated: 2025-10-22 20:14:08</p>
