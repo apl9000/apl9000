@@ -6,8 +6,9 @@ import (
 )
 
 type WebsiteResponseData struct {
-	Metadata Metadata `json:"metadata"`
-	Blog     Blog     `json:"blog"`
+	Metadata      Metadata      `json:"metadata"`
+	Blog          Blog          `json:"blog"`
+	QuoteOfTheDay QuoteOfTheDay `json:"quoteOfTheDay"`
 }
 
 type Metadata struct {
@@ -34,12 +35,18 @@ type BlogPost struct {
 	PubDate string `json:"publishedAt"`
 }
 
+type QuoteOfTheDay struct {
+	Text   string `json:"text"`
+	Author string `json:"author"`
+}
+
 type Website struct {
-	Title       string
-	Description []string
-	Url         string
-	Socials     []Social
-	BlogPosts   []BlogPost
+	Title         string
+	Description   []string
+	Url           string
+	Socials       []Social
+	BlogPosts     []BlogPost
+	QuoteOfTheDay QuoteOfTheDay
 }
 
 func parseDate(dateString string) string {
@@ -75,5 +82,9 @@ func GetWebsiteData() Website {
 		Url:         data.Metadata.Url,
 		Socials:     data.Metadata.Socials,
 		BlogPosts:   posts,
+		QuoteOfTheDay: QuoteOfTheDay{
+			Text:   data.QuoteOfTheDay.Text,
+			Author: data.QuoteOfTheDay.Author,
+		},
 	}
 }
