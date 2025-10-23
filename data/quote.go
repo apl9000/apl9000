@@ -71,7 +71,7 @@ var QuotesData = Quotes{
 		Author: "Joseph Nye",
 	},
 	{
-		Quote: "The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.",
+		Quote:  "The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.",
 		Author: "Adam Smith",
 	},
 	{
@@ -83,12 +83,16 @@ var QuotesData = Quotes{
 		Author: "J.R.R. Tolkien",
 	},
 	{
-		Quote: "You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.",
+		Quote:  "You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.",
 		Author: "Pablo Picasso",
 	},
 	{
-		Quote: "The numbers have no way of speaking for themselves. We speak for them. We imbue them with meaning.",
+		Quote:  "The numbers have no way of speaking for themselves. We speak for them. We imbue them with meaning.",
 		Author: "Nate Silver",
+	},
+	{
+		Quote:  "All models are wrong, some are useful.",
+		Author: "George Box",
 	},
 }
 
