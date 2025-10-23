@@ -2,7 +2,6 @@ package data
 
 import (
 	"fmt"
-	"time"
 )
 
 type WebsiteResponseData struct {
@@ -47,20 +46,6 @@ type Website struct {
 	Socials       []Social
 	BlogPosts     []BlogPost
 	QuoteOfTheDay QuoteOfTheDay
-}
-
-func parseDate(dateString string) string {
-	// Layout to parse the original date string
-	layout := "Mon, 02 Jan 2006 15:04:05 MST"
-
-	// Parse the date string
-	parsedTime, err := time.Parse(layout, dateString)
-	if err != nil {
-		fmt.Println("Error parsing date:", err)
-		return ""
-	}
-	// Format the parsed time to the new layout
-	return parsedTime.Format("2006-01-02")
 }
 
 func GetWebsiteData() Website {
