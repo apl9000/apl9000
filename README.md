@@ -29,8 +29,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-  —Alfred North Whitehead</text
+  >All we have to decide is what to do with the time that is given us.<br />
+  —J.R.R. Tolkien</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -81,7 +81,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>13.15</td>
+    <td>13.17</td>
   </tr>
   <tr>
     <td>
@@ -92,7 +92,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>EUR</td>
-    <td>0.61</td>
+    <td>0.62</td>
   </tr>
   <tr>
     <td>
@@ -103,7 +103,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>GBP</td>
-    <td>0.53</td>
+    <td>0.54</td>
   </tr>
   <tr>
     <td>
@@ -125,7 +125,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>108.23</td>
+    <td>108.50</td>
   </tr>
 </table>
 <br />
@@ -133,4 +133,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-22 20:14:08</p>
+<p>Last updated: 2025-10-23 03:06:55</p>
