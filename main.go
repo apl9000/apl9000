@@ -12,7 +12,6 @@ import (
 type ProfileData struct {
 	Timestamp       string
 	Website         data.Website
-	Quote           data.Quote
 	WeatherForecast data.WeatherForecast
 	Rates           data.Rates
 }
@@ -27,7 +26,6 @@ func main() {
 
 	data := ProfileData{
 		Timestamp:       data.GetCurrentTime(),
-		Quote:           data.GetRandomQuote(),
 		WeatherForecast: data.GetWeatherForecast(),
 		Rates:           data.GetRates(),
 		Website:         data.GetWebsiteData(),

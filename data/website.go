@@ -2,12 +2,12 @@ package data
 
 import (
 	"fmt"
-	"time"
 )
 
 type WebsiteResponseData struct {
-	Metadata Metadata `json:"metadata"`
-	Blog     Blog     `json:"blog"`
+	Metadata      Metadata      `json:"metadata"`
+	Blog          Blog          `json:"blog"`
+	QuoteOfTheDay QuoteOfTheDay `json:"quoteOfTheDay"`
 }
 
 type Metadata struct {
@@ -34,26 +34,18 @@ type BlogPost struct {
 	PubDate string `json:"publishedAt"`
 }
 
-type Website struct {
-	Title       string
-	Description []string
-	Url         string
-	Socials     []Social
-	BlogPosts   []BlogPost
+type QuoteOfTheDay struct {
+	Text   string `json:"text"`
+	Author string `json:"author"`
 }
 
-func parseDate(dateString string) string {
-	// Layout to parse the original date string
-	layout := "Mon, 02 Jan 2006 15:04:05 MST"
-
-	// Parse the date string
-	parsedTime, err := time.Parse(layout, dateString)
-	if err != nil {
-		fmt.Println("Error parsing date:", err)
-		return ""
-	}
-	// Format the parsed time to the new layout
-	return parsedTime.Format("2006-01-02")
+type Website struct {
+	Title         string
+	Description   []string
+	Url           string
+	Socials       []Social
+	BlogPosts     []BlogPost
+	QuoteOfTheDay QuoteOfTheDay
 }
 
 func GetWebsiteData() Website {
@@ -75,5 +67,9 @@ func GetWebsiteData() Website {
 		Url:         data.Metadata.Url,
 		Socials:     data.Metadata.Socials,
 		BlogPosts:   posts,
+		QuoteOfTheDay: QuoteOfTheDay{
+			Text:   data.QuoteOfTheDay.Text,
+			Author: data.QuoteOfTheDay.Author,
+		},
 	}
 }
