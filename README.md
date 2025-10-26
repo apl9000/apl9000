@@ -8,6 +8,12 @@
 <p> When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook.</p>
 
 <h3>Blog</h3>
+ 2025-10-25
+<br />
+<a href="https://www.apl.directory/blog/7-key-metrics-and-vitals-for-saas" target="_blank">
+7 Key Metrics & Vitals for SaaS - Understanding the Pulse of Your Business</a>
+<br />
+<br />
  2025-10-07
 <br />
 <a href="https://www.apl.directory/blog/beyond-the-ai-vibe" target="_blank">
@@ -29,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-  —Alfred North Whitehead</text
+  >The numbers have no way of speaking for themselves. We speak for them. We imbue them with meaning.<br />
+  —Nate Silver</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -81,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>13.15</td>
+    <td>13.16</td>
   </tr>
   <tr>
     <td>
@@ -125,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>109.14</td>
+    <td>109.15</td>
   </tr>
 </table>
 <br />
@@ -133,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-25 03:06:05</p>
+<p>Last updated: 2025-10-26 03:06:02</p>
