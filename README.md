@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >The numbers have no way of speaking for themselves. We speak for them. We imbue them with meaning.<br />
-  —Nate Silver</text
+  >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+  —Bjarne Stroustrup</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>109.42</td>
+    <td>110.17</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-10-30 03:06:37</p>
+<p>Last updated: 2025-10-31 03:06:40</p>
