@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-  —Isaac Asimov</text
+  >If you wish to make an apple pie from scratch you must first invent the universe.<br />
+  —Carl Sagan</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>13.07</td>
+    <td>13.05</td>
   </tr>
   <tr>
     <td>
@@ -98,7 +98,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>EUR</td>
-    <td>0.62</td>
+    <td>0.61</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>110.48</td>
+    <td>110.27</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-11-13 02:06:48</p>
+<p>Last updated: 2025-11-14 02:06:47</p>
