@@ -76,7 +76,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>USD</td>
-    <td>0.71</td>
+    <td>0.72</td>
   </tr>
   <tr>
     <td>
@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>13.08</td>
+    <td>13.09</td>
   </tr>
   <tr>
     <td>
@@ -98,7 +98,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>EUR</td>
-    <td>0.61</td>
+    <td>0.62</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>111.36</td>
+    <td>111.64</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-11-28 02:06:50</p>
+<p>Last updated: 2025-11-29 02:06:13</p>
