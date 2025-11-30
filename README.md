@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-  —Isaac Asimov</text
+  >Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
+  —James C. Scott</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>111.64</td>
+    <td>111.60</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-11-29 02:06:13</p>
+<p>Last updated: 2025-11-30 02:06:10</p>
