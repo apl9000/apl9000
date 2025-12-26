@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >All models are wrong, some are useful.<br />
-  —George Box</text
+  >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+  —Isaac Asimov</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>13.11</td>
+    <td>13.12</td>
   </tr>
   <tr>
     <td>
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2025-12-25 02:08:09</p>
+<p>Last updated: 2025-12-26 02:08:33</p>
