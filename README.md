@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-  —Damian Conway</text
+  >Theory is good, but it doesn't prevent things from existing.<br />
+  —Jean-Martin Charcot</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>12.68</td>
+    <td>12.67</td>
   </tr>
   <tr>
     <td>
@@ -98,7 +98,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>EUR</td>
-    <td>0.62</td>
+    <td>0.61</td>
   </tr>
   <tr>
     <td>
@@ -120,7 +120,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>AUD</td>
-    <td>1.06</td>
+    <td>1.05</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>113.54</td>
+    <td>112.50</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-01-26 02:12:47</p>
+<p>Last updated: 2026-01-27 02:12:05</p>
