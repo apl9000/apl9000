@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>12.62</td>
+    <td>12.61</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>112.35</td>
+    <td>112.20</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-02-15 02:18:56</p>
+<p>Last updated: 2026-02-16 02:27:42</p>
