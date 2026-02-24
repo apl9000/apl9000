@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  > The only Zen you can find on the tops of mountains is the Zen you bring up there.<br />
-  —Robert M. Pirsig</text
+  >Syntactic sugar causes cancer of the semicolon.<br />
+  —Alan Perlis</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>12.54</td>
+    <td>12.60</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>113.18</td>
+    <td>112.94</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-02-23 02:28:34</p>
+<p>Last updated: 2026-02-24 02:25:33</p>
