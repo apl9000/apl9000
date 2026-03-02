@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
-  —James C. Scott</text
+  >Syntactic sugar causes cancer of the semicolon.<br />
+  —Alan Perlis</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>12.62</td>
+    <td>12.65</td>
   </tr>
   <tr>
     <td>
@@ -109,7 +109,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>GBP</td>
-    <td>0.54</td>
+    <td>0.55</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>114.34</td>
+    <td>114.39</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-03-01 02:17:31</p>
+<p>Last updated: 2026-03-02 02:25:17</p>
