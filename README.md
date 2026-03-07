@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >I know that I am mortal by nature, and ephemeral; but when I trace at my pleasure the windings to and fro of the heavenly bodies I no longer touch the earth with my feet: I stand in the presence of Zeus himself and take my fill of ambrosia.<br />
-  —Ptolemy</text
+  >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
+  —Kelly Ripley Feller</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -76,7 +76,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>USD</td>
-    <td>0.73</td>
+    <td>0.74</td>
   </tr>
   <tr>
     <td>
@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>12.95</td>
+    <td>13.08</td>
   </tr>
   <tr>
     <td>
@@ -120,7 +120,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>AUD</td>
-    <td>1.04</td>
+    <td>1.05</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>115.28</td>
+    <td>115.97</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-03-06 02:19:57</p>
+<p>Last updated: 2026-03-07 02:13:14</p>
