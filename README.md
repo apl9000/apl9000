@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-  —Damian Conway</text
+  > The only Zen you can find on the tops of mountains is the Zen you bring up there.<br />
+  —Robert M. Pirsig</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -76,7 +76,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>USD</td>
-    <td>0.73</td>
+    <td>0.72</td>
   </tr>
   <tr>
     <td>
@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>12.94</td>
+    <td>12.87</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>115.42</td>
+    <td>115.36</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-03-25 03:26:42</p>
+<p>Last updated: 2026-03-26 03:31:19</p>
