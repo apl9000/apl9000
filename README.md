@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-  —Bjarne Stroustrup</text
+  >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+  —Isaac Asimov</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-03-28 03:23:23</p>
+<p>Last updated: 2026-03-29 03:26:21</p>
