@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >All we have to decide is what to do with the time that is given us.<br />
-  —J.R.R. Tolkien</text
+  >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+  —Walt Whitman</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>12.83</td>
+    <td>12.78</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>114.57</td>
+    <td>114.72</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-04-06 03:37:22</p>
+<p>Last updated: 2026-04-07 03:35:48</p>
