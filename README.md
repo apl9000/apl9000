@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-  —Alfred North Whitehead</text
+  >If you wish to make an apple pie from scratch you must first invent the universe.<br />
+  —Carl Sagan</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>12.71</td>
+    <td>12.59</td>
   </tr>
   <tr>
     <td>
@@ -120,7 +120,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>AUD</td>
-    <td>1.03</td>
+    <td>1.02</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>114.71</td>
+    <td>114.42</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-04-08 03:36:40</p>
+<p>Last updated: 2026-04-09 03:37:11</p>
