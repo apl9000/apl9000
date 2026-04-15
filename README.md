@@ -35,8 +35,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >In the seen, only the seen. In the heard, only the heard. In the sensed, only the sensed. In the cognized, only the cognized. That is how you should train yourself. When for you, there will be only the seen in the seen...then there is no you in that. That is the end of suffering<br />
-  —Buddha</text
+  >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+  —Bjarne Stroustrup</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -76,7 +76,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>USD</td>
-    <td>0.72</td>
+    <td>0.73</td>
   </tr>
   <tr>
     <td>
@@ -87,7 +87,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>12.55</td>
+    <td>12.54</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +131,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>115.49</td>
+    <td>115.41</td>
   </tr>
 </table>
 <br />
@@ -139,4 +139,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-04-14 03:38:06</p>
+<p>Last updated: 2026-04-15 03:37:49</p>
