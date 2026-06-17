@@ -10,10 +10,9 @@ import (
 )
 
 type ProfileData struct {
-	Timestamp       string
-	Website         data.Website
-	WeatherForecast data.WeatherForecast
-	Rates           data.Rates
+	Timestamp string
+	Website   data.Website
+	Rates     data.Rates
 }
 
 func main() {
@@ -25,10 +24,9 @@ func main() {
 	}
 
 	data := ProfileData{
-		Timestamp:       data.GetCurrentTime(),
-		WeatherForecast: data.GetWeatherForecast(),
-		Rates:           data.GetRates(),
-		Website:         data.GetWebsiteData(),
+		Timestamp: data.GetCurrentTime(),
+		Rates:     data.GetRates(),
+		Website:   data.GetWebsiteData(),
 	}
 
 	var htmlBuffer bytes.Buffer
