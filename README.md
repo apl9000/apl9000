@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >All models are wrong, some are useful.<br />
-  —George Box</text
+  >If you wish to make an apple pie from scratch you must first invent the universe.<br />
+  —Carl Sagan</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -78,8 +78,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
     <td>
       <img
         alt="Canada Flag"
-        width="68"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
+        width="66"
+        src="https://flagcdn.com/w80/ca.png"
       />
     </td>
     <td>CAD</td>
@@ -90,7 +90,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img
         alt="US Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
+        src="https://flagcdn.com/w80/us.png"
       />
     </td>
     <td>USD</td>
@@ -101,7 +101,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img
         alt="Mexico Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png"
+        src="https://flagcdn.com/w80/mx.png"
       />
     </td>
     <td>MXN</td>
@@ -112,7 +112,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img
         alt="Euro Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/2560px-Flag_of_Europe.svg.png"
+        src="https://flagcdn.com/w80/eu.png"
       />
     </td>
     <td>EUR</td>
@@ -123,7 +123,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img
         alt="UK Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png"
+        src="https://flagcdn.com/w80/gb.png"
       />
     </td>
     <td>GBP</td>
@@ -134,7 +134,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img
         alt="Australia Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/2560px-Flag_of_Australia_%28converted%29.svg.png"
+        src="https://flagcdn.com/w80/au.png"
       />
     </td>
     <td>AUD</td>
@@ -145,7 +145,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img
         alt="Japan Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1920px-Flag_of_Japan.svg.png"
+        src="https://flagcdn.com/w80/jp.png"
       />
     </td>
     <td>JPY</td>
@@ -157,4 +157,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-06-17 13:46:01</p>
+<p>Last updated: 2026-06-17 13:53:21</p>
