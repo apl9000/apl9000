@@ -50,12 +50,26 @@ func GetWeatherForecast() WeatherForecast {
 	// https://api.weather.gov/gridpoints/OKX/33,35/forecast
 	nycUri := "https://api.weather.gov/gridpoints/OKX/33,35/forecast"
 
-	response, err := http.Get(nycUri)
+	request, err := http.NewRequest(http.MethodGet, nycUri, nil)
+	if err != nil {
+		fmt.Printf("Failed to build the weather request: %s\n", err)
+		return WeatherForecast{}
+	}
+	// api.weather.gov requires a User-Agent header and rejects requests without one.
+	request.Header.Set("User-Agent", "apl9000-readme (https://github.com/apl9000/apl9000)")
+	request.Header.Set("Accept", "application/geo+json")
+
+	response, err := http.DefaultClient.Do(request)
 	if err != nil {
 		fmt.Printf("The HTTP request failed with error %s\n", err)
 		return WeatherForecast{}
 	}
 	defer response.Body.Close()
+
+	if response.StatusCode != http.StatusOK {
+		fmt.Printf("The weather API returned status %d\n", response.StatusCode)
+		return WeatherForecast{}
+	}
 
 	body, err := io.ReadAll(response.Body)
 	if err != nil {
@@ -67,6 +81,11 @@ func GetWeatherForecast() WeatherForecast {
 	err = json.Unmarshal(body, &data)
 	if err != nil {
 		fmt.Println("Error unmarshalling JSON: ", err)
+		return WeatherForecast{}
+	}
+
+	if len(data.Properties.Periods) == 0 {
+		fmt.Println("The weather API returned no forecast periods")
 		return WeatherForecast{}
 	}
 
