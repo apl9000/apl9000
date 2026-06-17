@@ -8,6 +8,12 @@
 <p> When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook.</p>
 
 <h3>Blog</h3>
+ 2025-11-12
+<br />
+<a href="https://www.apl.directory/blog/k-nearest-neighbors" target="_blank">
+K-Nearest Neigbhors (KNN) from Scratch - A JavaScript Implementation and Explanation</a>
+<br />
+<br />
  2025-10-25
 <br />
 <a href="https://www.apl.directory/blog/7-key-metrics-and-vitals-for-saas" target="_blank">
@@ -18,6 +24,18 @@
 <br />
 <a href="https://www.apl.directory/blog/beyond-the-ai-vibe" target="_blank">
 Beyond the AI Vibe: Shipping Value Over Hype - Amid the AI buzz, value still comes from understanding customers, not generating more code.</a>
+<br />
+<br />
+ 2025-08-19
+<br />
+<a href="https://www.apl.directory/blog/multi-tenant-architecture-what-is-it" target="_blank">
+Multi-Tenant Architecture: What Is It? - Exploring the Foundations of Scalable SaaS Solutions</a>
+<br />
+<br />
+ 2025-05-14
+<br />
+<a href="https://www.apl.directory/blog/the-3-pillars-of-observability" target="_blank">
+The 3 Pillars of Observability - Building a Robust Observability Strategy</a>
 <br />
 <br />
  2025-02-26
@@ -35,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
-  —James C. Scott</text
+  >All models are wrong, some are useful.<br />
+  —George Box</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -76,7 +94,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>USD</td>
-    <td>0.73</td>
+    <td>0.71</td>
   </tr>
   <tr>
     <td>
@@ -87,7 +105,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>12.56</td>
+    <td>12.29</td>
   </tr>
   <tr>
     <td>
@@ -109,7 +127,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>GBP</td>
-    <td>0.54</td>
+    <td>0.53</td>
   </tr>
   <tr>
     <td>
@@ -120,7 +138,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>AUD</td>
-    <td>1.02</td>
+    <td>1.01</td>
   </tr>
   <tr>
     <td>
@@ -131,7 +149,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>115.60</td>
+    <td>114.61</td>
   </tr>
 </table>
 <br />
@@ -139,4 +157,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-04-16 03:37:32</p>
+<p>Last updated: 2026-06-17 13:46:01</p>
