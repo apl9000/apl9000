@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >If you wish to make an apple pie from scratch you must first invent the universe.<br />
-  —Carl Sagan</text
+  >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+  —Bjarne Stroustrup</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -105,7 +105,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>MXN</td>
-    <td>12.29</td>
+    <td>12.27</td>
   </tr>
   <tr>
     <td>
@@ -149,7 +149,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       />
     </td>
     <td>JPY</td>
-    <td>114.61</td>
+    <td>114.17</td>
   </tr>
 </table>
 <br />
@@ -157,4 +157,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-06-17 13:53:21</p>
+<p>Last updated: 2026-06-18 04:36:54</p>
