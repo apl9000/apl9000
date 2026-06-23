@@ -1,0 +1,86 @@
+{% for line in website.description %}
+<p>{{ line }}</p>
+{% endfor %}
+<h3>Blog</h3>
+{% for post in website.blogPosts %} {{ post.pubDate }}
+<br />
+<a href="{{ website.url }}blog/{{ post.slug }}" target="_blank">
+{{ post.title }} - {{ post.summary }}</a>
+<br />
+<br />
+{% endfor %}
+<h3>Quote of the day :)</h3>
+<text
+  >{{ website.quoteOfTheDay.text }}<br />
+  —{{ website.quoteOfTheDay.author }}</text
+>
+<h3>Where to find me?</h3>
+<p>
+  {% for social in website.socials %}
+  <a href="{{ social.href }}" target="_blank">{{ social.name }}</a><br />
+  {% endfor %}
+</p>
+<h3>Exchange Rates</h3>
+<table>
+  <tr>
+    <th></th>
+    <th>Currency</th>
+    <th>Rate</th>
+    <!-- <th>YTD % Change </th> -->
+  </tr>
+  <tr>
+    <td>
+      <img alt="Canada Flag" width="66" src="https://flagcdn.com/w80/ca.png" />
+    </td>
+    <td>CAD</td>
+    <td>{{ rates.cad }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="US Flag" width="66" src="https://flagcdn.com/w80/us.png" />
+    </td>
+    <td>USD</td>
+    <td>{{ rates.usd }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
+    </td>
+    <td>MXN</td>
+    <td>{{ rates.mxn }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Euro Flag" width="66" src="https://flagcdn.com/w80/eu.png" />
+    </td>
+    <td>EUR</td>
+    <td>{{ rates.eur }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="UK Flag" width="66" src="https://flagcdn.com/w80/gb.png" />
+    </td>
+    <td>GBP</td>
+    <td>{{ rates.gbp }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Australia Flag" width="66" src="https://flagcdn.com/w80/au.png" />
+    </td>
+    <td>AUD</td>
+    <td>{{ rates.aud }}</td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
+    </td>
+    <td>JPY</td>
+    <td>{{ rates.jpy }}</td>
+  </tr>
+</table>
+<br />
+<img
+  alt="README Update"
+  src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
+/>
+<p>Last updated: {{ timestamp }}</p>

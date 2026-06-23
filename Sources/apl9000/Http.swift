@@ -11,8 +11,8 @@ func printErr(_ message: String) {
 
 /// Performs an HTTP GET and returns the raw response body, or `nil` on failure.
 ///
-/// A User-Agent is always set: api.weather.gov rejects requests without one,
-/// and it is good manners for the other endpoints too.
+/// A descriptive User-Agent is always set: it is good manners for the upstream
+/// APIs, and some reject requests that omit one.
 func fetchData(_ urlString: String) async -> Data? {
     guard let url = URL(string: urlString) else {
         printErr("Invalid URL: \(urlString)")

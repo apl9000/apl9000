@@ -6,10 +6,17 @@ let package = Package(
     platforms: [
         .macOS(.v13)
     ],
+    dependencies: [
+        .package(url: "https://github.com/stencilproject/Stencil.git", from: "0.15.1")
+    ],
     targets: [
         .executableTarget(
             name: "apl9000",
-            path: "Sources/apl9000"
+            dependencies: ["Stencil"],
+            path: "Sources/apl9000",
+            resources: [
+                .copy("Templates")
+            ]
         )
     ]
 )

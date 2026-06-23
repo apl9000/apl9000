@@ -5,17 +5,15 @@ import Foundation
 let profile = ProfileData(
     timestamp: getCurrentTime(),
     website: await getWebsiteData(),
-    weatherForecast: await getWeatherForecast(),
     rates: await getRates()
 )
 
-let html = renderReadme(profile)
-
 let filename = "README.md"
 do {
+    let html = try renderReadme(profile)
     try html.write(toFile: filename, atomically: true, encoding: .utf8)
     print("README written successfully to \(filename)")
 } catch {
-    printErr("Error writing README to file: \(error)")
+    printErr("Error generating README: \(error)")
     exit(1)
 }

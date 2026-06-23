@@ -8,6 +8,12 @@
 <p> When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook.</p>
 
 <h3>Blog</h3>
+ 2025-11-12
+<br />
+<a href="https://www.apl.directory/blog/k-nearest-neighbors" target="_blank">
+K-Nearest Neigbhors (KNN) from Scratch - A JavaScript Implementation and Explanation</a>
+<br />
+<br />
  2025-10-25
 <br />
 <a href="https://www.apl.directory/blog/7-key-metrics-and-vitals-for-saas" target="_blank">
@@ -18,6 +24,18 @@
 <br />
 <a href="https://www.apl.directory/blog/beyond-the-ai-vibe" target="_blank">
 Beyond the AI Vibe: Shipping Value Over Hype - Amid the AI buzz, value still comes from understanding customers, not generating more code.</a>
+<br />
+<br />
+ 2025-08-19
+<br />
+<a href="https://www.apl.directory/blog/multi-tenant-architecture-what-is-it" target="_blank">
+Multi-Tenant Architecture: What Is It? - Exploring the Foundations of Scalable SaaS Solutions</a>
+<br />
+<br />
+ 2025-05-14
+<br />
+<a href="https://www.apl.directory/blog/the-3-pillars-of-observability" target="_blank">
+The 3 Pillars of Observability - Building a Robust Observability Strategy</a>
 <br />
 <br />
  2025-02-26
@@ -35,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
-  —James C. Scott</text
+  >You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.<br />
+  —Pablo Picasso</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -60,8 +78,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
     <td>
       <img
         alt="Canada Flag"
-        width="68"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/2880px-Flag_of_Canada_%28Pantone%29.svg.png"
+        width="66"
+        src="https://flagcdn.com/w80/ca.png"
       />
     </td>
     <td>CAD</td>
@@ -72,29 +90,29 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img
         alt="US Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1600px-Flag_of_the_United_States.svg.png?20151118161041"
+        src="https://flagcdn.com/w80/us.png"
       />
     </td>
     <td>USD</td>
-    <td>0.73</td>
+    <td>0.71</td>
   </tr>
   <tr>
     <td>
       <img
         alt="Mexico Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png"
+        src="https://flagcdn.com/w80/mx.png"
       />
     </td>
     <td>MXN</td>
-    <td>12.56</td>
+    <td>12.25</td>
   </tr>
   <tr>
     <td>
       <img
         alt="Euro Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/2560px-Flag_of_Europe.svg.png"
+        src="https://flagcdn.com/w80/eu.png"
       />
     </td>
     <td>EUR</td>
@@ -105,33 +123,33 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img
         alt="UK Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png"
+        src="https://flagcdn.com/w80/gb.png"
       />
     </td>
     <td>GBP</td>
-    <td>0.54</td>
+    <td>0.53</td>
   </tr>
   <tr>
     <td>
       <img
         alt="Australia Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/2560px-Flag_of_Australia_%28converted%29.svg.png"
+        src="https://flagcdn.com/w80/au.png"
       />
     </td>
     <td>AUD</td>
-    <td>1.02</td>
+    <td>1.01</td>
   </tr>
   <tr>
     <td>
       <img
         alt="Japan Flag"
         width="66"
-        src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1920px-Flag_of_Japan.svg.png"
+        src="https://flagcdn.com/w80/jp.png"
       />
     </td>
     <td>JPY</td>
-    <td>115.60</td>
+    <td>113.95</td>
   </tr>
 </table>
 <br />
@@ -139,4 +157,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-04-16 03:37:32</p>
+<p>Last updated: 2026-06-22 05:08:17</p>
