@@ -76,80 +76,52 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   </tr>
   <tr>
     <td>
-      <img
-        alt="Canada Flag"
-        width="66"
-        src="https://flagcdn.com/w80/ca.png"
-      />
+      <img alt="Canada Flag" width="66" src="https://flagcdn.com/w80/ca.png" />
     </td>
     <td>CAD</td>
     <td>1.00</td>
   </tr>
   <tr>
     <td>
-      <img
-        alt="US Flag"
-        width="66"
-        src="https://flagcdn.com/w80/us.png"
-      />
+      <img alt="US Flag" width="66" src="https://flagcdn.com/w80/us.png" />
     </td>
     <td>USD</td>
     <td>0.71</td>
   </tr>
   <tr>
     <td>
-      <img
-        alt="Mexico Flag"
-        width="66"
-        src="https://flagcdn.com/w80/mx.png"
-      />
+      <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
     <td>12.25</td>
   </tr>
   <tr>
     <td>
-      <img
-        alt="Euro Flag"
-        width="66"
-        src="https://flagcdn.com/w80/eu.png"
-      />
+      <img alt="Euro Flag" width="66" src="https://flagcdn.com/w80/eu.png" />
     </td>
     <td>EUR</td>
     <td>0.62</td>
   </tr>
   <tr>
     <td>
-      <img
-        alt="UK Flag"
-        width="66"
-        src="https://flagcdn.com/w80/gb.png"
-      />
+      <img alt="UK Flag" width="66" src="https://flagcdn.com/w80/gb.png" />
     </td>
     <td>GBP</td>
     <td>0.53</td>
   </tr>
   <tr>
     <td>
-      <img
-        alt="Australia Flag"
-        width="66"
-        src="https://flagcdn.com/w80/au.png"
-      />
+      <img alt="Australia Flag" width="66" src="https://flagcdn.com/w80/au.png" />
     </td>
     <td>AUD</td>
     <td>1.01</td>
   </tr>
   <tr>
     <td>
-      <img
-        alt="Japan Flag"
-        width="66"
-        src="https://flagcdn.com/w80/jp.png"
-      />
+      <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>113.95</td>
+    <td>114.14</td>
   </tr>
 </table>
 <br />
@@ -157,4 +129,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-06-22 05:08:17</p>
+<p>Last updated: 2026-06-23 00:51:04</p>
