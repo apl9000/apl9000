@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >If you wish to make an apple pie from scratch you must first invent the universe.<br />
-  —Carl Sagan</text
+  > It's one of the greatest gifts you can give yourself, to forgive. Forgive everybody.<br />
+  —Maya Angelou</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -86,14 +86,14 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="US Flag" width="66" src="https://flagcdn.com/w80/us.png" />
     </td>
     <td>USD</td>
-    <td>0.71</td>
+    <td>0.70</td>
   </tr>
   <tr>
     <td>
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.25</td>
+    <td>12.35</td>
   </tr>
   <tr>
     <td>
@@ -114,14 +114,14 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Australia Flag" width="66" src="https://flagcdn.com/w80/au.png" />
     </td>
     <td>AUD</td>
-    <td>1.01</td>
+    <td>1.02</td>
   </tr>
   <tr>
     <td>
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>114.14</td>
+    <td>113.76</td>
   </tr>
 </table>
 <br />
@@ -129,4 +129,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-06-23 04:17:16</p>
+<p>Last updated: 2026-06-24 04:13:41</p>
