@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >All we have to decide is what to do with the time that is given us.<br />
-  —J.R.R. Tolkien</text
+  > The only Zen you can find on the tops of mountains is the Zen you bring up there.<br />
+  —Robert M. Pirsig</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -121,7 +121,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>113.62</td>
+    <td>113.64</td>
   </tr>
 </table>
 <br />
@@ -129,4 +129,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-07-04 05:26:54</p>
+<p>Last updated: 2026-07-05 05:44:46</p>
