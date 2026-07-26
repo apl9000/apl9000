@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.<br />
-  —Pablo Picasso</text
+  >All we have to decide is what to do with the time that is given us.<br />
+  —J.R.R. Tolkien</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -129,4 +129,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-07-25 05:03:03</p>
+<p>Last updated: 2026-07-26 05:18:47</p>
