@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >The numbers have no way of speaking for themselves. We speak for them. We imbue them with meaning.<br />
-  —Nate Silver</text
+  >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+  —Isaac Asimov</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -93,7 +93,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.29</td>
+    <td>12.28</td>
   </tr>
   <tr>
     <td>
@@ -121,7 +121,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>113.09</td>
+    <td>113.06</td>
   </tr>
 </table>
 <br />
@@ -129,4 +129,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-08-08 03:52:59</p>
+<p>Last updated: 2026-08-09 03:55:51</p>
