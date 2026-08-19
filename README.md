@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-  —Bjarne Stroustrup</text
+  >The numbers have no way of speaking for themselves. We speak for them. We imbue them with meaning.<br />
+  —Nate Silver</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -114,14 +114,14 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Australia Flag" width="66" src="https://flagcdn.com/w80/au.png" />
     </td>
     <td>AUD</td>
-    <td>1.01</td>
+    <td>1.02</td>
   </tr>
   <tr>
     <td>
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>114.91</td>
+    <td>114.89</td>
   </tr>
 </table>
 <br />
@@ -129,4 +129,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-08-18 03:41:49</p>
+<p>Last updated: 2026-08-19 03:20:08</p>
