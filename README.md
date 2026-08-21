@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
-  —Walt Whitman</text
+  >Theory is good, but it doesn't prevent things from existing.<br />
+  —Jean-Martin Charcot</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -86,14 +86,14 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="US Flag" width="66" src="https://flagcdn.com/w80/us.png" />
     </td>
     <td>USD</td>
-    <td>0.72</td>
+    <td>0.73</td>
   </tr>
   <tr>
     <td>
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.28</td>
+    <td>12.30</td>
   </tr>
   <tr>
     <td>
@@ -121,7 +121,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>114.66</td>
+    <td>115.28</td>
   </tr>
 </table>
 <br />
@@ -129,4 +129,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-08-20 03:21:00</p>
+<p>Last updated: 2026-08-21 03:21:34</p>
