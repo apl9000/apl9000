@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >Theory is good, but it doesn't prevent things from existing.<br />
-  —Jean-Martin Charcot</text
+  >Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
+  —James C. Scott</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -93,7 +93,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.30</td>
+    <td>12.29</td>
   </tr>
   <tr>
     <td>
@@ -114,14 +114,14 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Australia Flag" width="66" src="https://flagcdn.com/w80/au.png" />
     </td>
     <td>AUD</td>
-    <td>1.02</td>
+    <td>1.01</td>
   </tr>
   <tr>
     <td>
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>115.28</td>
+    <td>115.46</td>
   </tr>
 </table>
 <br />
@@ -129,4 +129,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-08-21 03:21:34</p>
+<p>Last updated: 2026-08-22 03:16:17</p>
