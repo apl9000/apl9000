@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
-  —Damian Conway</text
+  >The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.<br />
+  —Adam Smith</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -121,7 +121,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>115.16</td>
+    <td>115.17</td>
   </tr>
 </table>
 <br />
@@ -129,4 +129,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-08-29 03:15:59</p>
+<p>Last updated: 2026-08-30 03:16:43</p>
