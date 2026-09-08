@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >In the seen, only the seen. In the heard, only the heard. In the sensed, only the sensed. In the cognized, only the cognized. That is how you should train yourself. When for you, there will be only the seen in the seen...then there is no you in that. That is the end of suffering<br />
-  —Buddha</text
+  >All we have to decide is what to do with the time that is given us.<br />
+  —J.R.R. Tolkien</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -93,7 +93,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.21</td>
+    <td>12.26</td>
   </tr>
   <tr>
     <td>
@@ -121,7 +121,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>112.93</td>
+    <td>111.73</td>
   </tr>
 </table>
 <br />
@@ -129,4 +129,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-09-07 03:25:37</p>
+<p>Last updated: 2026-09-08 03:18:12</p>
