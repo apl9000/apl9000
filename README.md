@@ -53,8 +53,8 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
 
 <h3>Quote of the day :)</h3>
 <text
-  >You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.<br />
-  —Pablo Picasso</text
+  >Do I contradict myself? Very well then I contradict myself. (I am large, I contain multitudes)<br />
+  —Walt Whitman</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -121,7 +121,7 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>110.85</td>
+    <td>110.84</td>
   </tr>
 </table>
 <br />
@@ -129,4 +129,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-09-12 03:15:46</p>
+<p>Last updated: 2026-09-13 03:16:17</p>
