@@ -1,14 +1,6 @@
 {% for line in website.description %}
 <p>{{ line }}</p>
 {% endfor %}
-<h3>Blog</h3>
-{% for post in website.blogPosts %} {{ post.pubDate }}
-<br />
-<a href="{{ website.url }}blog/{{ post.slug }}" target="_blank">
-{{ post.title }} - {{ post.summary }}</a>
-<br />
-<br />
-{% endfor %}
 <h3>Quote of the day :)</h3>
 <text
   >{{ website.quoteOfTheDay.text }}<br />

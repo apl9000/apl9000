@@ -7,54 +7,10 @@
 
 <p> When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook.</p>
 
-<h3>Blog</h3>
- 2025-11-12
-<br />
-<a href="https://www.apl.directory/blog/k-nearest-neighbors" target="_blank">
-K-Nearest Neighbors (KNN) from Scratch - A JavaScript Implementation and Explanation</a>
-<br />
-<br />
- 2025-10-25
-<br />
-<a href="https://www.apl.directory/blog/7-key-metrics-and-vitals-for-saas" target="_blank">
-7 Key Metrics & Vitals for SaaS - Understanding the Pulse of Your Business</a>
-<br />
-<br />
- 2025-10-07
-<br />
-<a href="https://www.apl.directory/blog/beyond-the-ai-vibe" target="_blank">
-Beyond the AI Vibe: Shipping Value Over Hype - Amid the AI buzz, value still comes from understanding customers, not generating more code.</a>
-<br />
-<br />
- 2025-08-19
-<br />
-<a href="https://www.apl.directory/blog/multi-tenant-architecture-what-is-it" target="_blank">
-Multi-Tenant Architecture: What Is It? - Exploring the Foundations of Scalable SaaS Solutions</a>
-<br />
-<br />
- 2025-05-14
-<br />
-<a href="https://www.apl.directory/blog/the-3-pillars-of-observability" target="_blank">
-The 3 Pillars of Observability - Building a Robust Observability Strategy</a>
-<br />
-<br />
- 2025-02-26
-<br />
-<a href="https://www.apl.directory/blog/fighting-entropy" target="_blank">
-Fighting Entropy - The Software Developer's Struggle for Stability</a>
-<br />
-<br />
- 2025-01-29
-<br />
-<a href="https://www.apl.directory/blog/coming-soon" target="_blank">
-Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.</a>
-<br />
-<br />
-
 <h3>Quote of the day :)</h3>
 <text
-  >Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
-  —James C. Scott</text
+  >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
+  —Fred Brooks</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -129,4 +85,4 @@ Coming Soon - Weekly insights into tech, touching grass, and creative pursuits.<
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-05 03:41:04</p>
+<p>Last updated: 2026-10-05 06:24:40</p>
