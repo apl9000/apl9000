@@ -34,14 +34,6 @@ func renderReadme(_ data: ProfileData) throws -> String {
         "website": [
             "url": data.website.url,
             "description": data.website.description,
-            "blogPosts": data.website.blogPosts.map { post in
-                [
-                    "pubDate": post.publishedAt,
-                    "slug": post.slug,
-                    "title": post.title,
-                    "summary": post.summary,
-                ]
-            },
             "socials": data.website.socials.map { social in
                 ["href": social.href, "name": social.name]
             },
