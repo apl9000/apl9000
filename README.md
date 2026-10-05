@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.<br />
-  —Fred Brooks</text
+  >You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.<br />
+  —Pablo Picasso</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -85,4 +85,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-05 06:24:40</p>
+<p>Last updated: 2026-10-05 06:43:32</p>
