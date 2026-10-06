@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >You must always work not just within, but below your means. If you can handle three elements, handle only two. If you can handle ten, then handle only five. In that way, the ones you do handle, you handle with more ease, more mastery, and you create a feeling of strength in reserve.<br />
-  —Pablo Picasso</text
+  >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
+  —Alfred North Whitehead</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -49,14 +49,14 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.76</td>
+    <td>12.70</td>
   </tr>
   <tr>
     <td>
       <img alt="Euro Flag" width="66" src="https://flagcdn.com/w80/eu.png" />
     </td>
     <td>EUR</td>
-    <td>0.62</td>
+    <td>0.63</td>
   </tr>
   <tr>
     <td>
@@ -77,7 +77,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>110.68</td>
+    <td>110.80</td>
   </tr>
 </table>
 <br />
@@ -85,4 +85,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-05 06:43:32</p>
+<p>Last updated: 2026-10-06 03:24:40</p>
