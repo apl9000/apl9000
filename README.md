@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato.<br />
-  —Alfred North Whitehead</text
+  >The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.<br />
+  —Adam Smith</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -49,14 +49,14 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.70</td>
+    <td>12.64</td>
   </tr>
   <tr>
     <td>
       <img alt="Euro Flag" width="66" src="https://flagcdn.com/w80/eu.png" />
     </td>
     <td>EUR</td>
-    <td>0.63</td>
+    <td>0.62</td>
   </tr>
   <tr>
     <td>
@@ -77,7 +77,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>110.80</td>
+    <td>111.19</td>
   </tr>
 </table>
 <br />
@@ -85,4 +85,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-06 03:24:40</p>
+<p>Last updated: 2026-10-07 03:25:20</p>
