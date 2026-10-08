@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.<br />
-  —Adam Smith</text
+  >The numbers have no way of speaking for themselves. We speak for them. We imbue them with meaning.<br />
+  —Nate Silver</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -49,14 +49,14 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.64</td>
+    <td>12.63</td>
   </tr>
   <tr>
     <td>
       <img alt="Euro Flag" width="66" src="https://flagcdn.com/w80/eu.png" />
     </td>
     <td>EUR</td>
-    <td>0.62</td>
+    <td>0.63</td>
   </tr>
   <tr>
     <td>
@@ -77,7 +77,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>111.19</td>
+    <td>110.94</td>
   </tr>
 </table>
 <br />
@@ -85,4 +85,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-07 03:25:20</p>
+<p>Last updated: 2026-10-08 03:26:31</p>
