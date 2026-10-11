@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  > The only Zen you can find on the tops of mountains is the Zen you bring up there.<br />
-  —Robert M. Pirsig</text
+  >All models are wrong, some are useful.<br />
+  —George Box</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -49,7 +49,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.87</td>
+    <td>12.85</td>
   </tr>
   <tr>
     <td>
@@ -77,7 +77,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>111.04</td>
+    <td>111.05</td>
   </tr>
 </table>
 <br />
@@ -85,4 +85,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-10 03:21:05</p>
+<p>Last updated: 2026-10-11 03:22:26</p>
