@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >All models are wrong, some are useful.<br />
-  —George Box</text
+  >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
+  —Isaac Asimov</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -49,7 +49,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.85</td>
+    <td>12.91</td>
   </tr>
   <tr>
     <td>
@@ -70,14 +70,14 @@
       <img alt="Australia Flag" width="66" src="https://flagcdn.com/w80/au.png" />
     </td>
     <td>AUD</td>
-    <td>1.01</td>
+    <td>1.00</td>
   </tr>
   <tr>
     <td>
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>111.05</td>
+    <td>110.98</td>
   </tr>
 </table>
 <br />
@@ -85,4 +85,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-11 03:22:26</p>
+<p>Last updated: 2026-10-12 03:45:01</p>
