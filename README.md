@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest.<br />
-  —Isaac Asimov</text
+  > The only Zen you can find on the tops of mountains is the Zen you bring up there.<br />
+  —Robert M. Pirsig</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -49,7 +49,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.91</td>
+    <td>12.81</td>
   </tr>
   <tr>
     <td>
@@ -70,14 +70,14 @@
       <img alt="Australia Flag" width="66" src="https://flagcdn.com/w80/au.png" />
     </td>
     <td>AUD</td>
-    <td>1.00</td>
+    <td>1.01</td>
   </tr>
   <tr>
     <td>
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>110.98</td>
+    <td>111.06</td>
   </tr>
 </table>
 <br />
@@ -85,4 +85,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-12 03:45:01</p>
+<p>Last updated: 2026-10-13 03:30:23</p>
