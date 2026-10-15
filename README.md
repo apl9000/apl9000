@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-  —Bjarne Stroustrup</text
+  >I know that I am mortal by nature, and ephemeral; but when I trace at my pleasure the windings to and fro of the heavenly bodies I no longer touch the earth with my feet: I stand in the presence of Zeus himself and take my fill of ambrosia.<br />
+  —Ptolemy</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -49,7 +49,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.91</td>
+    <td>12.97</td>
   </tr>
   <tr>
     <td>
@@ -77,7 +77,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>111.31</td>
+    <td>111.23</td>
   </tr>
 </table>
 <br />
@@ -85,4 +85,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-14 03:52:00</p>
+<p>Last updated: 2026-10-15 03:21:24</p>
