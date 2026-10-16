@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >I know that I am mortal by nature, and ephemeral; but when I trace at my pleasure the windings to and fro of the heavenly bodies I no longer touch the earth with my feet: I stand in the presence of Zeus himself and take my fill of ambrosia.<br />
-  —Ptolemy</text
+  >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
+  —Kelly Ripley Feller</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -49,7 +49,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.97</td>
+    <td>13.00</td>
   </tr>
   <tr>
     <td>
@@ -70,14 +70,14 @@
       <img alt="Australia Flag" width="66" src="https://flagcdn.com/w80/au.png" />
     </td>
     <td>AUD</td>
-    <td>1.01</td>
+    <td>1.02</td>
   </tr>
   <tr>
     <td>
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>111.23</td>
+    <td>111.34</td>
   </tr>
 </table>
 <br />
@@ -85,4 +85,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-15 03:21:24</p>
+<p>Last updated: 2026-10-16 03:19:15</p>
