@@ -9,8 +9,8 @@
 
 <h3>Quote of the day :)</h3>
 <text
-  >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-  —Kelly Ripley Feller</text
+  >The man who works so moderately as to be able to work constantly not only preserves his health the longest, but, in the course of a year, executes the greatest quantity of work.<br />
+  —Adam Smith</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -42,14 +42,14 @@
       <img alt="US Flag" width="66" src="https://flagcdn.com/w80/us.png" />
     </td>
     <td>USD</td>
-    <td>0.70</td>
+    <td>0.71</td>
   </tr>
   <tr>
     <td>
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>13.00</td>
+    <td>13.06</td>
   </tr>
   <tr>
     <td>
@@ -77,7 +77,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>111.34</td>
+    <td>111.68</td>
   </tr>
 </table>
 <br />
@@ -85,4 +85,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-16 03:19:15</p>
+<p>Last updated: 2026-10-17 03:15:16</p>
