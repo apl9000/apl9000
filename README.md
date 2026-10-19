@@ -1,16 +1,7 @@
-
-<p>Hello World! I'm Andrew, a software developer from Montreal, Canada.</p>
-
-<p>I’ve helped build and scale products at <a href="https://www.shutterstock.com" target="_blank">Shutterstock</a> (<a href="https://www.premiumbeat.com" target="_blank">PremiumBeat</a>), <a href="https://www.ssense.com" target="_blank">SSENSE</a>, and <a href="https://www.peoplelikeus.ca" target="_blank">People Like Us</a>.</p>
-
-<p>For more than a decade, I’ve combined technical expertise with leadership to bring ambitious product ideas to life.</p>
-
-<p> When I'm not immersed in code, you can find me canoeing—touching grass, creating music, or doodling in my sketchbook.</p>
-
 <h3>Quote of the day :)</h3>
 <text
-  > It's one of the greatest gifts you can give yourself, to forgive. Forgive everybody.<br />
-  —Maya Angelou</text
+  >All models are wrong, some are useful.<br />
+  —George Box</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -85,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-19 03:33:14</p>
+<p>Last updated: 2026-10-19 08:19:43</p>
