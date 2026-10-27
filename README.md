@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  >Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.<br />
-  —Edsger W. Dijkstra</text
+  >A design is 'simple' if it follows these rules: Runs all the tests; Contains no duplication; Expresses the intent of the programmer; Minimizes the number of classes and methods.<br />
+  —Kent Beck</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -40,7 +40,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>13.36</td>
+    <td>13.26</td>
   </tr>
   <tr>
     <td>
@@ -68,7 +68,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>111.95</td>
+    <td>112.34</td>
   </tr>
 </table>
 <br />
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-26 03:34:52</p>
+<p>Last updated: 2026-10-27 03:23:46</p>
