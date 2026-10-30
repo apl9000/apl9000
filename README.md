@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  > The only Zen you can find on the tops of mountains is the Zen you bring up there.<br />
-  —Robert M. Pirsig</text
+  >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
+  —Kelly Ripley Feller</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -40,7 +40,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>13.31</td>
+    <td>13.47</td>
   </tr>
   <tr>
     <td>
@@ -61,14 +61,14 @@
       <img alt="Australia Flag" width="66" src="https://flagcdn.com/w80/au.png" />
     </td>
     <td>AUD</td>
-    <td>1.01</td>
+    <td>1.02</td>
   </tr>
   <tr>
     <td>
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>112.69</td>
+    <td>112.86</td>
   </tr>
 </table>
 <br />
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-29 03:14:19</p>
+<p>Last updated: 2026-10-30 03:13:37</p>
