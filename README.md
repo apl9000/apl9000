@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  >To be an expert in a field that changes from one day to the next is akin to placing your hand in a running river; you can trap a small bit of water for the moment, but once you lift your hand again the river rushes on...<br />
-  —Kelly Ripley Feller</text
+  > It's one of the greatest gifts you can give yourself, to forgive. Forgive everybody.<br />
+  —Maya Angelou</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -33,14 +33,14 @@
       <img alt="US Flag" width="66" src="https://flagcdn.com/w80/us.png" />
     </td>
     <td>USD</td>
-    <td>0.71</td>
+    <td>0.72</td>
   </tr>
   <tr>
     <td>
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>13.47</td>
+    <td>13.48</td>
   </tr>
   <tr>
     <td>
@@ -54,7 +54,7 @@
       <img alt="UK Flag" width="66" src="https://flagcdn.com/w80/gb.png" />
     </td>
     <td>GBP</td>
-    <td>0.54</td>
+    <td>0.53</td>
   </tr>
   <tr>
     <td>
@@ -68,7 +68,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>112.86</td>
+    <td>112.74</td>
   </tr>
 </table>
 <br />
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-30 03:13:37</p>
+<p>Last updated: 2026-10-31 03:10:14</p>
