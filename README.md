@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  > It's one of the greatest gifts you can give yourself, to forgive. Forgive everybody.<br />
-  —Maya Angelou</text
+  >All models are wrong, some are useful.<br />
+  —George Box</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-10-31 03:10:14</p>
+<p>Last updated: 2026-11-01 02:10:41</p>
