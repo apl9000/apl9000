@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  > It's one of the greatest gifts you can give yourself, to forgive. Forgive everybody.<br />
-  —Maya Angelou</text
+  >Theory is good, but it doesn't prevent things from existing.<br />
+  —Jean-Martin Charcot</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-11-05 20:05:32</p>
+<p>Last updated: 2026-11-06 02:12:10</p>
