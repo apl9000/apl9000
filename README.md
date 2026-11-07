@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  >Theory is good, but it doesn't prevent things from existing.<br />
-  —Jean-Martin Charcot</text
+  > The only Zen you can find on the tops of mountains is the Zen you bring up there.<br />
+  —Robert M. Pirsig</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -40,7 +40,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>13.38</td>
+    <td>13.22</td>
   </tr>
   <tr>
     <td>
@@ -68,7 +68,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>112.86</td>
+    <td>112.31</td>
   </tr>
 </table>
 <br />
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-11-06 02:12:10</p>
+<p>Last updated: 2026-11-07 02:10:21</p>
