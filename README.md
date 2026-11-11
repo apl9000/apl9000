@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
-  —Bjarne Stroustrup</text
+  >Programmers have to fight against the two most destructive forces in the universe: entropy and stupidity.<br />
+  —Damian Conway</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -40,7 +40,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>13.15</td>
+    <td>13.13</td>
   </tr>
   <tr>
     <td>
@@ -68,7 +68,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>111.94</td>
+    <td>111.86</td>
   </tr>
 </table>
 <br />
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-11-10 02:11:43</p>
+<p>Last updated: 2026-11-11 02:12:07</p>
