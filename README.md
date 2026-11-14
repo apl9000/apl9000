@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  > The only Zen you can find on the tops of mountains is the Zen you bring up there.<br />
-  —Robert M. Pirsig</text
+  >There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.<br />
+  —Bjarne Stroustrup</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -40,14 +40,14 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>13.06</td>
+    <td>13.01</td>
   </tr>
   <tr>
     <td>
       <img alt="Euro Flag" width="66" src="https://flagcdn.com/w80/eu.png" />
     </td>
     <td>EUR</td>
-    <td>0.63</td>
+    <td>0.64</td>
   </tr>
   <tr>
     <td>
@@ -68,7 +68,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>112.08</td>
+    <td>112.03</td>
   </tr>
 </table>
 <br />
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-11-13 02:12:03</p>
+<p>Last updated: 2026-11-14 02:10:44</p>
