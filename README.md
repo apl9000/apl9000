@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  >If you wish to make an apple pie from scratch you must first invent the universe.<br />
-  —Carl Sagan</text
+  >Always plan under the assumption that those who become involved with the project later will have or have developed the experience and insight to improve on the design.<br />
+  —James C. Scott</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -40,7 +40,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>13.01</td>
+    <td>13.00</td>
   </tr>
   <tr>
     <td>
@@ -68,7 +68,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>112.01</td>
+    <td>111.99</td>
   </tr>
 </table>
 <br />
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-11-15 02:10:50</p>
+<p>Last updated: 2026-11-16 02:19:29</p>
