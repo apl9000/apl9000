@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  >It is not that we have a short time to live, but that we waste a great deal of it.<br />
-  —Seneca</text
+  >No man ever steps in the same river twice, for it is not the same river and he is not the same man.<br />
+  —Heraclitus</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -40,7 +40,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>12.98</td>
+    <td>12.90</td>
   </tr>
   <tr>
     <td>
@@ -68,7 +68,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>111.62</td>
+    <td>111.49</td>
   </tr>
 </table>
 <br />
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-11-17 02:12:20</p>
+<p>Last updated: 2026-11-18 02:13:01</p>
