@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  >The impediment to action advances action. What stands in the way becomes the way.<br />
-  —Marcus Aurelius</text
+  >It is not that we have a short time to live, but that we waste a great deal of it.<br />
+  —Seneca</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -40,7 +40,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>13.29</td>
+    <td>13.34</td>
   </tr>
   <tr>
     <td>
@@ -68,7 +68,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>111.50</td>
+    <td>110.74</td>
   </tr>
 </table>
 <br />
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-11-21 02:10:34</p>
+<p>Last updated: 2026-11-22 02:11:01</p>
