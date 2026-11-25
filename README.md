@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  >Well begun is half done.<br />
-  —Aristotle</text
+  >I know that I am mortal by nature, and ephemeral; but when I trace at my pleasure the windings to and fro of the heavenly bodies I no longer touch the earth with my feet: I stand in the presence of Zeus himself and take my fill of ambrosia.<br />
+  —Ptolemy</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -40,7 +40,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>13.35</td>
+    <td>13.58</td>
   </tr>
   <tr>
     <td>
@@ -68,7 +68,7 @@
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>110.74</td>
+    <td>111.42</td>
   </tr>
 </table>
 <br />
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-11-24 02:12:07</p>
+<p>Last updated: 2026-11-25 02:12:49</p>
