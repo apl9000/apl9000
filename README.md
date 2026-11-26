@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  >I know that I am mortal by nature, and ephemeral; but when I trace at my pleasure the windings to and fro of the heavenly bodies I no longer touch the earth with my feet: I stand in the presence of Zeus himself and take my fill of ambrosia.<br />
-  —Ptolemy</text
+  >The impediment to action advances action. What stands in the way becomes the way.<br />
+  —Marcus Aurelius</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-11-25 02:12:49</p>
+<p>Last updated: 2026-11-26 02:12:27</p>
