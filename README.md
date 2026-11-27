@@ -1,7 +1,7 @@
 <h3>Quote of the day :)</h3>
 <text
-  >The impediment to action advances action. What stands in the way becomes the way.<br />
-  —Marcus Aurelius</text
+  >It is not that we have a short time to live, but that we waste a great deal of it.<br />
+  —Seneca</text
 >
 <h3>Where to find me?</h3>
 <p>
@@ -40,7 +40,7 @@
       <img alt="Mexico Flag" width="66" src="https://flagcdn.com/w80/mx.png" />
     </td>
     <td>MXN</td>
-    <td>13.58</td>
+    <td>13.83</td>
   </tr>
   <tr>
     <td>
@@ -54,21 +54,21 @@
       <img alt="UK Flag" width="66" src="https://flagcdn.com/w80/gb.png" />
     </td>
     <td>GBP</td>
-    <td>0.53</td>
+    <td>0.54</td>
   </tr>
   <tr>
     <td>
       <img alt="Australia Flag" width="66" src="https://flagcdn.com/w80/au.png" />
     </td>
     <td>AUD</td>
-    <td>1.05</td>
+    <td>1.06</td>
   </tr>
   <tr>
     <td>
       <img alt="Japan Flag" width="66" src="https://flagcdn.com/w80/jp.png" />
     </td>
     <td>JPY</td>
-    <td>111.42</td>
+    <td>111.85</td>
   </tr>
 </table>
 <br />
@@ -76,4 +76,4 @@
   alt="README Update"
   src="https://github.com/apl9000/apl9000/actions/workflows/readme_update.yaml/badge.svg"
 />
-<p>Last updated: 2026-11-26 02:12:27</p>
+<p>Last updated: 2026-11-27 02:12:52</p>
